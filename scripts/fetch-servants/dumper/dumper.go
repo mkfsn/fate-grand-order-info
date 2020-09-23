@@ -11,12 +11,26 @@ import (
 	"fetch-servant/processer"
 )
 
+type job struct {
+	wg       *sync.WaitGroup
+	url      string
+	filepath string
+}
+
 type Dumper struct {
 	results *processer.Results
+	jobs    chan job
 }
 
 func New(results *processer.Results) *Dumper {
-	return &Dumper{results: results}
+	d := &Dumper{
+		results: results,
+		jobs:    make(chan job, 1024),
+	}
+	for i := 0; i < 128; i++ {
+		go d.downloader()
+	}
+	return d
 }
 
 func (d *Dumper) Dump() error {
@@ -37,20 +51,11 @@ func (d *Dumper) Dump() error {
 
 func (d *Dumper) downloadImage(wg *sync.WaitGroup, url, filepath string) {
 	wg.Add(1)
-	go func() {
-		resp, err := http.Get(url)
-		if err != nil {
-			log.Printf("error: %s\n", err)
-			return
-		}
-		defer resp.Body.Close()
-
-		if err := d.writeToFile(filepath, resp.Body); err != nil {
-			log.Printf("error: %s\n", err)
-			return
-		}
-		wg.Done()
-	}()
+	d.jobs <- job{
+		wg:       wg,
+		url:      url,
+		filepath: filepath,
+	}
 }
 
 func (d *Dumper) writeToFile(filepath string, r io.Reader) error {
@@ -65,4 +70,29 @@ func (d *Dumper) writeToFile(filepath string, r io.Reader) error {
 		return err
 	}
 	return nil
+}
+
+func (d *Dumper) downloader() {
+
+	handler := func(wg *sync.WaitGroup, url, filepath string) {
+		defer wg.Done()
+
+		resp, err := http.Get(url)
+		if err != nil {
+			log.Printf("error: %s\n", err)
+			return
+		}
+		defer resp.Body.Close()
+
+		if err := d.writeToFile(filepath, resp.Body); err != nil {
+			log.Printf("error: %s\n", err)
+		}
+	}
+
+	for {
+		select {
+		case job := <-d.jobs:
+			handler(job.wg, job.url, job.filepath)
+		}
+	}
 }
