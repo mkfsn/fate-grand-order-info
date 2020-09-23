@@ -2,14 +2,21 @@
 	{
 		"id": "291",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_291.png",
+			"src-1x": "/images/70px-Icon_Servant_291.png",
+			"src-1.5x": "/images/105px-Icon_Servant_291.png",
+			"src-2x": "/images/Icon_Servant_291.png",
 			"title": "紫式部 (ライダー)"
 		},
 		"name": {
 			"en": "Murasaki Shikibu (Rider)",
 			"jp": "紫式部 (ライダー)"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1455,
@@ -31,14 +38,21 @@
 	{
 		"id": "290",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_290.png",
+			"src-1x": "/images/70px-Icon_Servant_290.png",
+			"src-1.5x": "/images/105px-Icon_Servant_290.png",
+			"src-2x": "/images/Icon_Servant_290.png",
 			"title": "巴御前 〔セイバー〕"
 		},
 		"name": {
 			"en": "Tomoe Gozen (Saber)",
 			"jp": "巴御前 〔セイバー〕"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1590,
@@ -60,14 +74,21 @@
 	{
 		"id": "289",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_289.png",
+			"src-1x": "/images/70px-Icon_Servant_289.png",
+			"src-1.5x": "/images/105px-Icon_Servant_289.png",
+			"src-2x": "/images/Icon_Servant_289.png",
 			"title": "アビゲイル・ウィリアムズ(夏)"
 		},
 		"name": {
 			"en": "Abigail Williams (Summer)",
 			"jp": "アビゲイル・ウィリアムズ(夏)"
 		},
-		"class": "Foreigner",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Foreigner_Gold.png",
+			"src-1.5x": "/images/Icon_Class_Foreigner_Gold.png",
+			"src-2x": "/images/Icon_Class_Foreigner_Gold.png",
+			"title": "Foreigner"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1820,
@@ -89,14 +110,21 @@
 	{
 		"id": "288",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_288.png",
+			"src-1x": "/images/70px-Icon_Servant_288.png",
+			"src-1.5x": "/images/105px-Icon_Servant_288.png",
+			"src-2x": "/images/Icon_Servant_288.png",
 			"title": "虞美人"
 		},
 		"name": {
 			"en": "Yu Miaoyi (Lancer)",
 			"jp": "虞美人"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1649,
@@ -118,14 +146,21 @@
 	{
 		"id": "287",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_287.png",
+			"src-1x": "/images/70px-Icon_Servant_287.png",
+			"src-1.5x": "/images/105px-Icon_Servant_287.png",
+			"src-2x": "/images/Icon_Servant_287.png",
 			"title": "ブリュンヒルデ"
 		},
 		"name": {
 			"en": "Brynhild (Berserker)",
 			"jp": "ブリュンヒルデ"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1699,
@@ -147,14 +182,21 @@
 	{
 		"id": "286",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_286.png",
+			"src-1x": "/images/70px-Icon_Servant_286.png",
+			"src-1.5x": "/images/105px-Icon_Servant_286.png",
+			"src-2x": "/images/Icon_Servant_286.png",
 			"title": "イリヤスフィール・フォン・アインツベルン"
 		},
 		"name": {
 			"en": "Illyasviel von Einzbern (Archer)",
 			"jp": "イリヤスフィール・フォン・アインツベルン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1683,
@@ -176,14 +218,21 @@
 	{
 		"id": "285",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_285.png",
+			"src-1x": "/images/70px-Icon_Servant_285.png",
+			"src-1.5x": "/images/105px-Icon_Servant_285.png",
+			"src-2x": "/images/Icon_Servant_285.png",
 			"title": "殺生院キアラ"
 		},
 		"name": {
 			"en": "Sessyoin Kiara (Moon Cancer)",
 			"jp": "殺生院キアラ"
 		},
-		"class": "Mooncancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Mooncancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Mooncancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Mooncancer_Gold.png",
+			"title": "Mooncancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1719,
@@ -205,14 +254,21 @@
 	{
 		"id": "284",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_284.png",
+			"src-1x": "/images/70px-Icon_Servant_284.png",
+			"src-1.5x": "/images/105px-Icon_Servant_284.png",
+			"src-2x": "/images/Icon_Servant_284.png",
 			"title": "アルトリア・キャスター"
 		},
 		"name": {
 			"en": "Artoria (Caster)",
 			"jp": "アルトリア・キャスター"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1629,
@@ -234,14 +290,21 @@
 	{
 		"id": "283",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_283.png",
+			"src-1x": "/images/70px-Icon_Servant_283.png",
+			"src-1.5x": "/images/105px-Icon_Servant_283.png",
+			"src-2x": "/images/Icon_Servant_283.png",
 			"title": "宇津見エリセ"
 		},
 		"name": {
 			"en": "Erice Utsumi",
 			"jp": "宇津見エリセ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1520,
@@ -263,14 +326,21 @@
 	{
 		"id": "282",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_282.png",
+			"src-1x": "/images/70px-Icon_Servant_282.png",
+			"src-1.5x": "/images/105px-Icon_Servant_282.png",
+			"src-2x": "/images/Icon_Servant_282.png",
 			"title": "鬼女紅葉"
 		},
 		"name": {
 			"en": "Kijyo Kouyou",
 			"jp": "鬼女紅葉"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1529,
@@ -292,14 +362,21 @@
 	{
 		"id": "281",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_281.png",
+			"src-1x": "/images/70px-Icon_Servant_281.png",
+			"src-1.5x": "/images/105px-Icon_Servant_281.png",
+			"src-2x": "/images/Icon_Servant_281.png",
 			"title": "ボイジャー"
 		},
 		"name": {
 			"en": "Voyager",
 			"jp": "ボイジャー"
 		},
-		"class": "Foreigner",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Foreigner_Gold.png",
+			"src-1.5x": "/images/Icon_Class_Foreigner_Gold.png",
+			"src-2x": "/images/Icon_Class_Foreigner_Gold.png",
+			"title": "Foreigner"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1615,
@@ -321,14 +398,21 @@
 	{
 		"id": "280",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_280.png",
+			"src-1x": "/images/70px-Icon_Servant_280.png",
+			"src-1.5x": "/images/105px-Icon_Servant_280.png",
+			"src-2x": "/images/Icon_Servant_280.png",
 			"title": "ロムルス＝クィリヌス"
 		},
 		"name": {
 			"en": "Romulus-Quirinus",
 			"jp": "ロムルス＝クィリヌス"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1896,
@@ -350,14 +434,21 @@
 	{
 		"id": "279",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_279.png",
+			"src-1x": "/images/70px-Icon_Servant_279.png",
+			"src-1.5x": "/images/105px-Icon_Servant_279.png",
+			"src-2x": "/images/Icon_Servant_279.png",
 			"title": "凱妮絲"
 		},
 		"name": {
 			"en": "Caenis",
 			"jp": "凱妮絲"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1649,
@@ -379,14 +470,21 @@
 	{
 		"id": "278",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_278.png",
+			"src-1x": "/images/70px-Icon_Servant_278.png",
+			"src-1.5x": "/images/105px-Icon_Servant_278.png",
+			"src-2x": "/images/Icon_Servant_278.png",
 			"title": "フィン・マックール"
 		},
 		"name": {
 			"en": "Dioscuri",
 			"jp": "フィン・マックール"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1829,
@@ -408,14 +506,21 @@
 	{
 		"id": "277",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_277.png",
+			"src-1x": "/images/70px-Icon_Servant_277.png",
+			"src-1.5x": "/images/105px-Icon_Servant_277.png",
+			"src-2x": "/images/Icon_Servant_277.png",
 			"title": "オデュッセウス"
 		},
 		"name": {
 			"en": "Odysseus",
 			"jp": "オデュッセウス"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1822,
@@ -437,14 +542,21 @@
 	{
 		"id": "276",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_276.png",
+			"src-1x": "/images/70px-Icon_Servant_276.png",
+			"src-1.5x": "/images/105px-Icon_Servant_276.png",
+			"src-2x": "/images/Icon_Servant_276.png",
 			"title": "清少納言"
 		},
 		"name": {
 			"en": "Sei Shounagon",
 			"jp": "清少納言"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1888,
@@ -466,14 +578,21 @@
 	{
 		"id": "275",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_275.png",
+			"src-1x": "/images/70px-Icon_Servant_275.png",
+			"src-1.5x": "/images/105px-Icon_Servant_275.png",
+			"src-2x": "/images/Icon_Servant_275.png",
 			"title": "楊貴妃"
 		},
 		"name": {
 			"en": "Yang Guifei",
 			"jp": "楊貴妃"
 		},
-		"class": "Foreigner",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Foreigner_Gold.png",
+			"src-1.5x": "/images/Icon_Class_Foreigner_Gold.png",
+			"src-2x": "/images/Icon_Class_Foreigner_Gold.png",
+			"title": "Foreigner"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1907,
@@ -495,14 +614,21 @@
 	{
 		"id": "274",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_274.png",
+			"src-1x": "/images/70px-Icon_Servant_274.png",
+			"src-1.5x": "/images/105px-Icon_Servant_274.png",
+			"src-2x": "/images/Icon_Servant_274.png",
 			"title": "エウロペ"
 		},
 		"name": {
 			"en": "Europa",
 			"jp": "エウロペ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1813,
@@ -524,14 +650,21 @@
 	{
 		"id": "273",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_273.png",
+			"src-1x": "/images/70px-Icon_Servant_273.png",
+			"src-1.5x": "/images/105px-Icon_Servant_273.png",
+			"src-2x": "/images/140px-Icon_Servant_273.png",
 			"title": "マンドリカルド"
 		},
 		"name": {
 			"en": "Mandricardo",
 			"jp": "マンドリカルド"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Silver.png",
+			"src-2x": "/images/Icon_Class_Rider_Silver.png",
+			"title": "Rider"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1254,
@@ -553,14 +686,21 @@
 	{
 		"id": "272",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_272.png",
+			"src-1x": "/images/70px-Icon_Servant_272.png",
+			"src-1.5x": "/images/105px-Icon_Servant_272.png",
+			"src-2x": "/images/Icon_Servant_272.png",
 			"title": "超人オリオン"
 		},
 		"name": {
 			"en": "Super Orion",
 			"jp": "超人オリオン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1940,
@@ -582,14 +722,21 @@
 	{
 		"id": "271",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_271.png",
+			"src-1x": "/images/70px-Icon_Servant_271.png",
+			"src-1.5x": "/images/105px-Icon_Servant_271.png",
+			"src-2x": "/images/Icon_Servant_271.png",
 			"title": "ナイチンゲール(サンタ)"
 		},
 		"name": {
 			"en": "Nightingale (Santa)",
 			"jp": "ナイチンゲール(サンタ)"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1643,
@@ -611,14 +758,21 @@
 	{
 		"id": "270",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_270.png",
+			"src-1x": "/images/70px-Icon_Servant_270.png",
+			"src-1.5x": "/images/105px-Icon_Servant_270.png",
+			"src-2x": "/images/Icon_Servant_270.png",
 			"title": "アストルフォ(セイバー)"
 		},
 		"name": {
 			"en": "Astolfo (Saber)",
 			"jp": "アストルフォ(セイバー)"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1807,
@@ -640,14 +794,21 @@
 	{
 		"id": "269",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_269.png",
+			"src-1x": "/images/70px-Icon_Servant_269.png",
+			"src-1.5x": "/images/105px-Icon_Servant_269.png",
+			"src-2x": "/images/Icon_Servant_269.png",
 			"title": "カラミティ・ジェーン"
 		},
 		"name": {
 			"en": "Calamity Jane",
 			"jp": "カラミティ・ジェーン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1499,
@@ -669,14 +830,21 @@
 	{
 		"id": "268",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_268.png",
+			"src-1x": "/images/70px-Icon_Servant_268.png",
+			"src-1.5x": "/images/105px-Icon_Servant_268.png",
+			"src-2x": "/images/Icon_Servant_268.png",
 			"title": "スペース・イシュタル"
 		},
 		"name": {
 			"en": "Space Ishtar",
 			"jp": "スペース・イシュタル"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Avenger_Gold.png",
+			"src-2x": "/images/Icon_Class_Avenger_Gold.png",
+			"title": "Avenger"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1949,
@@ -698,14 +866,21 @@
 	{
 		"id": "267",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_267.png",
+			"src-1x": "/images/70px-Icon_Servant_267.png",
+			"src-1.5x": "/images/105px-Icon_Servant_267.png",
+			"src-2x": "/images/Icon_Servant_267.png",
 			"title": "オキタ･J･ソウジ"
 		},
 		"name": {
 			"en": "Okita Souji (Assassin)",
 			"jp": "オキタ･J･ソウジ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1556,
@@ -727,14 +902,21 @@
 	{
 		"id": "266",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_266.png",
+			"src-1x": "/images/70px-Icon_Servant_266.png",
+			"src-1.5x": "/images/105px-Icon_Servant_266.png",
+			"src-2x": "/images/Icon_Servant_266.png",
 			"title": "謎のアルターエゴ・Λ"
 		},
 		"name": {
 			"en": "Mysterious Alter-Ego Lambda",
 			"jp": "謎のアルターエゴ・Λ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1543,
@@ -756,14 +938,21 @@
 	{
 		"id": "265",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_265.png",
+			"src-1x": "/images/70px-Icon_Servant_265.png",
+			"src-1.5x": "/images/105px-Icon_Servant_265.png",
+			"src-2x": "/images/Icon_Servant_265.png",
 			"title": "アルトリア･ペンドラゴン(ルーラー)"
 		},
 		"name": {
 			"en": "Altria Pendragon (Ruler)",
 			"jp": "アルトリア･ペンドラゴン(ルーラー)"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1482,
@@ -785,14 +974,21 @@
 	{
 		"id": "264",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_264.png",
+			"src-1x": "/images/70px-Icon_Servant_264.png",
+			"src-1.5x": "/images/105px-Icon_Servant_264.png",
+			"src-2x": "/images/Icon_Servant_264.png",
 			"title": "葛飾北斎(セイバー)"
 		},
 		"name": {
 			"en": "Katsushika Hokusai (Saber)",
 			"jp": "葛飾北斎(セイバー)"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1564,
@@ -814,14 +1010,21 @@
 	{
 		"id": "263",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_263.png",
+			"src-1x": "/images/70px-Icon_Servant_263.png",
+			"src-1.5x": "/images/105px-Icon_Servant_263.png",
+			"src-2x": "/images/Icon_Servant_263.png",
 			"title": "カーミラ (ライダー)"
 		},
 		"name": {
 			"en": "Carmilla (Rider)",
 			"jp": "カーミラ (ライダー)"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1608,
@@ -843,14 +1046,21 @@
 	{
 		"id": "262",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_262.png",
+			"src-1x": "/images/70px-Icon_Servant_262.png",
+			"src-1.5x": "/images/105px-Icon_Servant_262.png",
+			"src-2x": "/images/Icon_Servant_262.png",
 			"title": "刑部姫(アーチャー)"
 		},
 		"name": {
 			"en": "Osakabehime (Archer)",
 			"jp": "刑部姫(アーチャー)"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1482,
@@ -872,14 +1082,21 @@
 	{
 		"id": "261",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_261.png",
+			"src-1x": "/images/70px-Icon_Servant_261.png",
+			"src-1.5x": "/images/105px-Icon_Servant_261.png",
+			"src-2x": "/images/Icon_Servant_261.png",
 			"title": "宮本武蔵(バーサーカー)"
 		},
 		"name": {
 			"en": "Miyamoto Musashi (Berserker)",
 			"jp": "宮本武蔵(バーサーカー)"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1964,
@@ -901,14 +1118,21 @@
 	{
 		"id": "260",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_260.png",
+			"src-1x": "/images/70px-Icon_Servant_260.png",
+			"src-1.5x": "/images/105px-Icon_Servant_260.png",
+			"src-2x": "/images/Icon_Servant_260.png",
 			"title": "サロメ"
 		},
 		"name": {
 			"en": "Salome",
 			"jp": "サロメ"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Bronze.png",
+			"src-2x": "/images/Icon_Class_Berserker_Bronze.png",
+			"title": "Berserker"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1221,
@@ -930,14 +1154,21 @@
 	{
 		"id": "259",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_259.png",
+			"src-1x": "/images/70px-Icon_Servant_259.png",
+			"src-1.5x": "/images/105px-Icon_Servant_259.png",
+			"src-2x": "/images/Icon_Servant_259.png",
 			"title": "シャルロット・コルデー"
 		},
 		"name": {
 			"en": "Charlotte Corday",
 			"jp": "シャルロット・コルデー"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Bronze.png",
+			"src-2x": "/images/Icon_Class_Assassin_Bronze.png",
+			"title": "Assassin"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 997,
@@ -959,14 +1190,21 @@
 	{
 		"id": "258",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_258.png",
+			"src-1x": "/images/70px-Icon_Servant_258.png",
+			"src-1.5x": "/images/105px-Icon_Servant_258.png",
+			"src-2x": "/images/Icon_Servant_258.png",
 			"title": "陳宮"
 		},
 		"name": {
 			"en": "Chen Gong",
 			"jp": "陳宮"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Bronze.png",
+			"src-2x": "/images/Icon_Class_Caster_Bronze.png",
+			"title": "Caster"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1085,
@@ -988,14 +1226,21 @@
 	{
 		"id": "257",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_257.png",
+			"src-1x": "/images/70px-Icon_Servant_257.png",
+			"src-1.5x": "/images/105px-Icon_Servant_257.png",
+			"src-2x": "/images/Icon_Servant_257.png",
 			"title": "バーソロミュー・ロバーツ"
 		},
 		"name": {
 			"en": "Bartholomew Roberts",
 			"jp": "バーソロミュー・ロバーツ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Bronze.png",
+			"src-2x": "/images/Icon_Class_Rider_Bronze.png",
+			"title": "Rider"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 993,
@@ -1017,14 +1262,21 @@
 	{
 		"id": "256",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_256.png",
+			"src-1x": "/images/70px-Icon_Servant_256.png",
+			"src-1.5x": "/images/105px-Icon_Servant_256.png",
+			"src-2x": "/images/Icon_Servant_256.png",
 			"title": "ガレス"
 		},
 		"name": {
 			"en": "Gareth",
 			"jp": "ガレス"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Bronze.png",
+			"src-2x": "/images/Icon_Class_Lancer_Bronze.png",
+			"title": "Lancer"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 960,
@@ -1046,14 +1298,21 @@
 	{
 		"id": "255",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_255.png",
+			"src-1x": "/images/70px-Icon_Servant_255.png",
+			"src-1.5x": "/images/105px-Icon_Servant_255.png",
+			"src-2x": "/images/Icon_Servant_255.png",
 			"title": "パリス"
 		},
 		"name": {
 			"en": "Paris",
 			"jp": "パリス"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Bronze.png",
+			"src-2x": "/images/Icon_Class_Archer_Bronze.png",
+			"title": "Archer"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1157,
@@ -1075,14 +1334,21 @@
 	{
 		"id": "254",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_254.png",
+			"src-1x": "/images/70px-Icon_Servant_254.png",
+			"src-1.5x": "/images/105px-Icon_Servant_254.png",
+			"src-2x": "/images/Icon_Servant_254.png",
 			"title": "イアソン"
 		},
 		"name": {
 			"en": "Jason",
 			"jp": "イアソン"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Bronze.png",
+			"src-2x": "/images/Icon_Class_Saber_Bronze.png",
+			"title": "Saber"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 992,
@@ -1104,14 +1370,21 @@
 	{
 		"id": "253",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_253.png",
+			"src-1x": "/images/70px-Icon_Servant_253.png",
+			"src-1.5x": "/images/105px-Icon_Servant_253.png",
+			"src-2x": "/images/Icon_Servant_253.png",
 			"title": "レオナルド・ダ・ヴィンチ"
 		},
 		"name": {
 			"en": "Leonardo Da Vinci (Rider)",
 			"jp": "レオナルド・ダ・ヴィンチ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1681,
@@ -1133,14 +1406,21 @@
 	{
 		"id": "252",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_252.png",
+			"src-1x": "/images/70px-Icon_Servant_252.png",
+			"src-1.5x": "/images/105px-Icon_Servant_252.png",
+			"src-2x": "/images/Icon_Servant_252.png",
 			"title": "長尾景虎"
 		},
 		"name": {
 			"en": "Nagao Kagetora",
 			"jp": "長尾景虎"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1602,
@@ -1162,14 +1442,21 @@
 	{
 		"id": "251",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_251.png",
+			"src-1x": "/images/70px-Icon_Servant_251.png",
+			"src-1.5x": "/images/105px-Icon_Servant_251.png",
+			"src-2x": "/images/Icon_Servant_251.png",
 			"title": "森長可"
 		},
 		"name": {
 			"en": "Mori Nagayoshi",
 			"jp": "森長可"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Silver.png",
+			"src-2x": "/images/Icon_Class_Berserker_Silver.png",
+			"title": "Berserker"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1436,
@@ -1191,14 +1478,21 @@
 	{
 		"id": "250",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_250.png",
+			"src-1x": "/images/70px-Icon_Servant_250.png",
+			"src-1.5x": "/images/105px-Icon_Servant_250.png",
+			"src-2x": "/images/Icon_Servant_250.png",
 			"title": "織田信長"
 		},
 		"name": {
 			"en": "Oda Nobunaga (Avenger)",
 			"jp": "織田信長"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Avenger_Gold.png",
+			"src-2x": "/images/Icon_Class_Avenger_Gold.png",
+			"title": "Avenger"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1953,
@@ -1220,14 +1514,21 @@
 	{
 		"id": "249",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_249.png",
+			"src-1x": "/images/70px-Icon_Servant_249.png",
+			"src-1.5x": "/images/105px-Icon_Servant_249.png",
+			"src-2x": "/images/Icon_Servant_249.png",
 			"title": "アスクレピオス"
 		},
 		"name": {
 			"en": "Asclepius",
 			"jp": "アスクレピオス"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1184,
@@ -1249,14 +1550,21 @@
 	{
 		"id": "248",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_248.png",
+			"src-1x": "/images/70px-Icon_Servant_248.png",
+			"src-1.5x": "/images/105px-Icon_Servant_248.png",
+			"src-2x": "/images/Icon_Servant_248.png",
 			"title": "アシュヴァッターマン"
 		},
 		"name": {
 			"en": "Ashvatthaman",
 			"jp": "アシュヴァッターマン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1708,
@@ -1278,14 +1586,21 @@
 	{
 		"id": "247",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_247.png",
+			"src-1x": "/images/70px-Icon_Servant_247.png",
+			"src-1.5x": "/images/105px-Icon_Servant_247.png",
+			"src-2x": "/images/Icon_Servant_247.png",
 			"title": "アルジュナ(オルタ)"
 		},
 		"name": {
 			"en": "Arjuna (Alter)",
 			"jp": "アルジュナ(オルタ)"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1803,
@@ -1307,14 +1622,21 @@
 	{
 		"id": "246",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_246.png",
+			"src-1x": "/images/70px-Icon_Servant_246.png",
+			"src-1.5x": "/images/105px-Icon_Servant_246.png",
+			"src-2x": "/images/Icon_Servant_246.png",
 			"title": "ウィリアム･テル"
 		},
 		"name": {
 			"en": "William Tell",
 			"jp": "ウィリアム･テル"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Silver.png",
+			"src-2x": "/images/Icon_Class_Archer_Silver.png",
+			"title": "Archer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1731,
@@ -1336,14 +1658,21 @@
 	{
 		"id": "245",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_245.png",
+			"src-1x": "/images/70px-Icon_Servant_245.png",
+			"src-1.5x": "/images/105px-Icon_Servant_245.png",
+			"src-2x": "/images/Icon_Servant_245.png",
 			"title": "ラクシュミー･バーイー"
 		},
 		"name": {
 			"en": "Lakshmibai",
 			"jp": "ラクシュミー･バーイー"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1658,
@@ -1365,14 +1694,21 @@
 	{
 		"id": "244",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_244.png",
+			"src-1x": "/images/70px-Icon_Servant_244.png",
+			"src-1.5x": "/images/105px-Icon_Servant_244.png",
+			"src-2x": "/images/Icon_Servant_244.png",
 			"title": "ジナコ＝カリギリ"
 		},
 		"name": {
 			"en": "Jinako Carigiri",
 			"jp": "ジナコ＝カリギリ"
 		},
-		"class": "Mooncancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Mooncancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Mooncancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Mooncancer_Gold.png",
+			"title": "Mooncancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1416,
@@ -1394,14 +1730,21 @@
 	{
 		"id": "243",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_243.png",
+			"src-1x": "/images/70px-Icon_Servant_243.png",
+			"src-1.5x": "/images/105px-Icon_Servant_243.png",
+			"src-2x": "/images/Icon_Servant_243.png",
 			"title": "グレイ"
 		},
 		"name": {
 			"en": "Gray",
 			"jp": "グレイ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1576,
@@ -1423,14 +1766,21 @@
 	{
 		"id": "242",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_242.png",
+			"src-1x": "/images/70px-Icon_Servant_242.png",
+			"src-1.5x": "/images/105px-Icon_Servant_242.png",
+			"src-2x": "/images/Icon_Servant_242.png",
 			"title": "アストライア"
 		},
 		"name": {
 			"en": "Astraea",
 			"jp": "アストライア"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1622,
@@ -1452,14 +1802,21 @@
 	{
 		"id": "241",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_241.png",
+			"src-1x": "/images/70px-Icon_Servant_241.png",
+			"src-1.5x": "/images/105px-Icon_Servant_241.png",
+			"src-2x": "/images/Icon_Servant_241.png",
 			"title": "司馬懿〔ライネス〕"
 		},
 		"name": {
 			"en": "Sima Yi (Reines)",
 			"jp": "司馬懿〔ライネス〕"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1766,
@@ -1481,14 +1838,21 @@
 	{
 		"id": "240",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_240.png",
+			"src-1x": "/images/70px-Icon_Servant_240.png",
+			"src-1.5x": "/images/105px-Icon_Servant_240.png",
+			"src-2x": "/images/Icon_Servant_240.png",
 			"title": "ビーストIII／L"
 		},
 		"name": {
 			"en": "Beast III/L",
 			"jp": "ビーストIII／L"
 		},
-		"class": "Beast",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Beast_III_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Beast_III_Gold.png",
+			"src-2x": "/images/Icon_Class_Beast_III_Gold.png",
+			"title": "Beast"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 2080,
@@ -1510,14 +1874,21 @@
 	{
 		"id": "239",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_239.png",
+			"src-1x": "/images/70px-Icon_Servant_239.png",
+			"src-1.5x": "/images/105px-Icon_Servant_239.png",
+			"src-2x": "/images/Icon_Servant_239.png",
 			"title": "カーマ"
 		},
 		"name": {
 			"en": "Kama",
 			"jp": "カーマ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1781,
@@ -1539,14 +1910,21 @@
 	{
 		"id": "238",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_238.png",
+			"src-1x": "/images/70px-Icon_Servant_238.png",
+			"src-1.5x": "/images/105px-Icon_Servant_238.png",
+			"src-2x": "/images/Icon_Servant_238.png",
 			"title": "キングプロテア"
 		},
 		"name": {
 			"en": "Kingprotea",
 			"jp": "キングプロテア"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1983,
@@ -1568,14 +1946,21 @@
 	{
 		"id": "237",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_237.png",
+			"src-1x": "/images/70px-Icon_Servant_237.png",
+			"src-1.5x": "/images/105px-Icon_Servant_237.png",
+			"src-2x": "/images/Icon_Servant_237.png",
 			"title": "紫式部"
 		},
 		"name": {
 			"en": "Murasaki Shikibu",
 			"jp": "紫式部"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1757,
@@ -1597,14 +1982,21 @@
 	{
 		"id": "236",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_236.png",
+			"src-1x": "/images/70px-Icon_Servant_236.png",
+			"src-1.5x": "/images/105px-Icon_Servant_236.png",
+			"src-2x": "/images/Icon_Servant_236.png",
 			"title": "美遊・エーデルフェルト"
 		},
 		"name": {
 			"en": "Miyu Edelfelt",
 			"jp": "美遊・エーデルフェルト"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1438,
@@ -1626,14 +2018,21 @@
 	{
 		"id": "235",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_235.png",
+			"src-1x": "/images/70px-Icon_Servant_235.png",
+			"src-1.5x": "/images/105px-Icon_Servant_235.png",
+			"src-2x": "/images/Icon_Servant_235.png",
 			"title": "李書文"
 		},
 		"name": {
 			"en": "Li Shuwen (Assassin)",
 			"jp": "李書文"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1772,
@@ -1655,14 +2054,21 @@
 	{
 		"id": "234",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_234.png",
+			"src-1x": "/images/70px-Icon_Servant_234.png",
+			"src-1.5x": "/images/105px-Icon_Servant_234.png",
+			"src-2x": "/images/Icon_Servant_234.png",
 			"title": "紅閻魔"
 		},
 		"name": {
 			"en": "Benienma",
 			"jp": "紅閻魔"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1793,
@@ -1684,14 +2090,21 @@
 	{
 		"id": "233",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_233.png",
+			"src-1x": "/images/70px-Icon_Servant_233.png",
+			"src-1.5x": "/images/105px-Icon_Servant_233.png",
+			"src-2x": "/images/Icon_Servant_233.png",
 			"title": "ケツァルコアトル (サンバ/サンタ)"
 		},
 		"name": {
 			"en": "Quetzalcoatl (Samba/Santa)",
 			"jp": "ケツァルコアトル (サンバ/サンタ)"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1614,
@@ -1713,14 +2126,21 @@
 	{
 		"id": "232",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_232.png",
+			"src-1x": "/images/70px-Icon_Servant_232.png",
+			"src-1.5x": "/images/105px-Icon_Servant_232.png",
+			"src-2x": "/images/Icon_Servant_232.png",
 			"title": "ブラダマンテ"
 		},
 		"name": {
 			"en": "Bradamante",
 			"jp": "ブラダマンテ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1674,
@@ -1742,14 +2162,21 @@
 	{
 		"id": "231",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_231.png",
+			"src-1x": "/images/70px-Icon_Servant_231.png",
+			"src-1.5x": "/images/105px-Icon_Servant_231.png",
+			"src-2x": "/images/Icon_Servant_231.png",
 			"title": "赤兎馬"
 		},
 		"name": {
 			"en": "Red Hare",
 			"jp": "赤兎馬"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Silver.png",
+			"src-2x": "/images/Icon_Class_Rider_Silver.png",
+			"title": "Rider"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1194,
@@ -1771,14 +2198,21 @@
 	{
 		"id": "230",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_230.png",
+			"src-1x": "/images/70px-Icon_Servant_230.png",
+			"src-1.5x": "/images/105px-Icon_Servant_230.png",
+			"src-2x": "/images/Icon_Servant_230.png",
 			"title": "虞美人"
 		},
 		"name": {
 			"en": "Yu Miaoyi",
 			"jp": "虞美人"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1328,
@@ -1800,14 +2234,21 @@
 	{
 		"id": "229",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_229.png",
+			"src-1x": "/images/70px-Icon_Servant_229.png",
+			"src-1.5x": "/images/105px-Icon_Servant_229.png",
+			"src-2x": "/images/Icon_Servant_229.png",
 			"title": "始皇帝"
 		},
 		"name": {
 			"en": "Shi Huang Di",
 			"jp": "始皇帝"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1541,
@@ -1829,14 +2270,21 @@
 	{
 		"id": "228",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_228.png",
+			"src-1x": "/images/70px-Icon_Servant_228.png",
+			"src-1.5x": "/images/105px-Icon_Servant_228.png",
+			"src-2x": "/images/Icon_Servant_228.png",
 			"title": "秦良玉"
 		},
 		"name": {
 			"en": "Qin Liangyu",
 			"jp": "秦良玉"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1382,
@@ -1858,14 +2306,21 @@
 	{
 		"id": "227",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_227.png",
+			"src-1x": "/images/70px-Icon_Servant_227.png",
+			"src-1.5x": "/images/105px-Icon_Servant_227.png",
+			"src-2x": "/images/Icon_Servant_227.png",
 			"title": "蘭陵王"
 		},
 		"name": {
 			"en": "Prince of Lan Ling",
 			"jp": "蘭陵王"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1518,
@@ -1887,14 +2342,21 @@
 	{
 		"id": "226",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_226.png",
+			"src-1x": "/images/70px-Icon_Servant_226.png",
+			"src-1.5x": "/images/105px-Icon_Servant_226.png",
+			"src-2x": "/images/Icon_Servant_226.png",
 			"title": "項羽"
 		},
 		"name": {
 			"en": "Xiang Yu",
 			"jp": "項羽"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1794,
@@ -1916,14 +2378,21 @@
 	{
 		"id": "225",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_225.png",
+			"src-1x": "/images/70px-Icon_Servant_225.png",
+			"src-1.5x": "/images/105px-Icon_Servant_225.png",
+			"src-2x": "/images/Icon_Servant_225.png",
 			"title": "酒呑童子"
 		},
 		"name": {
 			"en": "Shuten-Douji (Caster)",
 			"jp": "酒呑童子"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1589,
@@ -1945,14 +2414,21 @@
 	{
 		"id": "224",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_224.png",
+			"src-1x": "/images/70px-Icon_Servant_224.png",
+			"src-1.5x": "/images/105px-Icon_Servant_224.png",
+			"src-2x": "/images/Icon_Servant_224.png",
 			"title": "シトナイ"
 		},
 		"name": {
 			"en": "Sitonai",
 			"jp": "シトナイ"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1803,
@@ -1974,14 +2450,21 @@
 	{
 		"id": "223",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_223.png",
+			"src-1x": "/images/70px-Icon_Servant_223.png",
+			"src-1.5x": "/images/105px-Icon_Servant_223.png",
+			"src-2x": "/images/Icon_Servant_223.png",
 			"title": "ディルムッド･オディナ"
 		},
 		"name": {
 			"en": "Diarmuid Ua Duibhne (Saber)",
 			"jp": "ディルムッド･オディナ"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1674,
@@ -2003,14 +2486,21 @@
 	{
 		"id": "222",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_222.png",
+			"src-1x": "/images/70px-Icon_Servant_222.png",
+			"src-1.5x": "/images/105px-Icon_Servant_222.png",
+			"src-2x": "/images/Icon_Servant_222.png",
 			"title": "謎のヒロインXX"
 		},
 		"name": {
 			"en": "Mysterious Heroine XX",
 			"jp": "謎のヒロインXX"
 		},
-		"class": "Foreigner",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Foreigner_Gold.png",
+			"src-1.5x": "/images/Icon_Class_Foreigner_Gold.png",
+			"src-2x": "/images/Icon_Class_Foreigner_Gold.png",
+			"title": "Foreigner"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1625,
@@ -2032,14 +2522,21 @@
 	{
 		"id": "221",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_221.png",
+			"src-1x": "/images/70px-Icon_Servant_221.png",
+			"src-1.5x": "/images/105px-Icon_Servant_221.png",
+			"src-2x": "/images/Icon_Servant_221.png",
 			"title": "女王メイヴ 〔セイバー〕"
 		},
 		"name": {
 			"en": "Queen Medb (Saber)",
 			"jp": "女王メイヴ 〔セイバー〕"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1336,
@@ -2061,14 +2558,21 @@
 	{
 		"id": "220",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_220.png",
+			"src-1x": "/images/70px-Icon_Servant_220.png",
+			"src-1.5x": "/images/105px-Icon_Servant_220.png",
+			"src-2x": "/images/Icon_Servant_220.png",
 			"title": "ビィビィ"
 		},
 		"name": {
 			"en": "BB (Summer)",
 			"jp": "ビィビィ"
 		},
-		"class": "Mooncancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Mooncancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Mooncancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Mooncancer_Gold.png",
+			"title": "Mooncancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1728,
@@ -2090,14 +2594,21 @@
 	{
 		"id": "219",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_219.png",
+			"src-1x": "/images/70px-Icon_Servant_219.png",
+			"src-1.5x": "/images/105px-Icon_Servant_219.png",
+			"src-2x": "/images/Icon_Servant_219.png",
 			"title": "ジャンヌ・ダルク [オルタ]〔バーサーカー〕"
 		},
 		"name": {
 			"en": "Jeanne d'Arc (Berserker Alter)",
 			"jp": "ジャンヌ・ダルク [オルタ]〔バーサーカー〕"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1716,
@@ -2119,14 +2630,21 @@
 	{
 		"id": "218",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_218.png",
+			"src-1x": "/images/70px-Icon_Servant_218.png",
+			"src-1.5x": "/images/105px-Icon_Servant_218.png",
+			"src-2x": "/images/Icon_Servant_218.png",
 			"title": "牛若丸〔アサシン〕"
 		},
 		"name": {
 			"en": "Ushiwakamaru (Assassin)",
 			"jp": "牛若丸〔アサシン〕"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1576,
@@ -2148,14 +2666,21 @@
 	{
 		"id": "217",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_217.png",
+			"src-1x": "/images/70px-Icon_Servant_217.png",
+			"src-1.5x": "/images/105px-Icon_Servant_217.png",
+			"src-2x": "/images/Icon_Servant_217.png",
 			"title": "茨木童子〔ランサー〕"
 		},
 		"name": {
 			"en": "Ibaraki-Douji (Lancer)",
 			"jp": "茨木童子〔ランサー〕"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1522,
@@ -2177,14 +2702,21 @@
 	{
 		"id": "216",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_216.png",
+			"src-1x": "/images/70px-Icon_Servant_216.png",
+			"src-1.5x": "/images/105px-Icon_Servant_216.png",
+			"src-2x": "/images/Icon_Servant_216.png",
 			"title": "ジャンヌ・ダルク (アーチャー)"
 		},
 		"name": {
 			"en": "Jeanne d'Arc (Archer)",
 			"jp": "ジャンヌ・ダルク (アーチャー)"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1626,
@@ -2206,14 +2738,21 @@
 	{
 		"id": "215",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_215.png",
+			"src-1x": "/images/70px-Icon_Servant_215.png",
+			"src-1.5x": "/images/105px-Icon_Servant_215.png",
+			"src-2x": "/images/Icon_Servant_215.png",
 			"title": "スカサハ＝スカディ"
 		},
 		"name": {
 			"en": "Scáthach-Skadi",
 			"jp": "スカサハ＝スカディ"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1661,
@@ -2235,14 +2774,21 @@
 	{
 		"id": "214",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_214.png",
+			"src-1x": "/images/70px-Icon_Servant_214.png",
+			"src-1.5x": "/images/105px-Icon_Servant_214.png",
+			"src-2x": "/images/Icon_Servant_214.png",
 			"title": "ワルキューレ"
 		},
 		"name": {
 			"en": "Valkyrie",
 			"jp": "ワルキューレ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1339,
@@ -2264,14 +2810,21 @@
 	{
 		"id": "213",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_213.png",
+			"src-1x": "/images/70px-Icon_Servant_213.png",
+			"src-1.5x": "/images/105px-Icon_Servant_213.png",
+			"src-2x": "/images/Icon_Servant_213.png",
 			"title": "シグルド"
 		},
 		"name": {
 			"en": "Sigurd",
 			"jp": "シグルド"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 2049,
@@ -2293,14 +2846,21 @@
 	{
 		"id": "212",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_212.png",
+			"src-1x": "/images/70px-Icon_Servant_212.png",
+			"src-1.5x": "/images/105px-Icon_Servant_212.png",
+			"src-2x": "/images/Icon_Servant_212.png",
 			"title": "ナポレオン"
 		},
 		"name": {
 			"en": "Napoleon",
 			"jp": "ナポレオン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1859,
@@ -2322,14 +2882,21 @@
 	{
 		"id": "211",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_211.png",
+			"src-1x": "/images/70px-Icon_Servant_211.png",
+			"src-1.5x": "/images/105px-Icon_Servant_211.png",
+			"src-2x": "/images/Icon_Servant_211.png",
 			"title": "坂本龍馬"
 		},
 		"name": {
 			"en": "Sakamoto Ryouma",
 			"jp": "坂本龍馬"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1425,
@@ -2351,14 +2918,21 @@
 	{
 		"id": "210",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_210.png",
+			"src-1x": "/images/70px-Icon_Servant_210.png",
+			"src-1.5x": "/images/105px-Icon_Servant_210.png",
+			"src-2x": "/images/Icon_Servant_210.png",
 			"title": "岡田以蔵"
 		},
 		"name": {
 			"en": "Okada Izou",
 			"jp": "岡田以蔵"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Silver.png",
+			"src-2x": "/images/Icon_Class_Assassin_Silver.png",
+			"title": "Assassin"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1277,
@@ -2380,14 +2954,21 @@
 	{
 		"id": "209",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_209.png",
+			"src-1x": "/images/70px-Icon_Servant_209.png",
+			"src-1.5x": "/images/105px-Icon_Servant_209.png",
+			"src-2x": "/images/Icon_Servant_209.png",
 			"title": "沖田総司(オルタ)"
 		},
 		"name": {
 			"en": "Okita Souji (Alter)",
 			"jp": "沖田総司(オルタ)"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1926,
@@ -2409,14 +2990,21 @@
 	{
 		"id": "208",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_208.png",
+			"src-1x": "/images/70px-Icon_Servant_208.png",
+			"src-1.5x": "/images/105px-Icon_Servant_208.png",
+			"src-2x": "/images/Icon_Servant_208.png",
 			"title": "ジーク"
 		},
 		"name": {
 			"en": "Sieg",
 			"jp": "ジーク"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1399,
@@ -2438,14 +3026,21 @@
 	{
 		"id": "207",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_207.png",
+			"src-1x": "/images/70px-Icon_Servant_207.png",
+			"src-1.5x": "/images/105px-Icon_Servant_207.png",
+			"src-2x": "/images/Icon_Servant_207.png",
 			"title": "ケイローン"
 		},
 		"name": {
 			"en": "Chiron",
 			"jp": "ケイローン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1549,
@@ -2467,14 +3062,21 @@
 	{
 		"id": "206",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_206.png",
+			"src-1x": "/images/70px-Icon_Servant_206.png",
+			"src-1.5x": "/images/105px-Icon_Servant_206.png",
+			"src-2x": "/images/Icon_Servant_206.png",
 			"title": "アキレウス"
 		},
 		"name": {
 			"en": "Achilles",
 			"jp": "アキレウス"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1836,
@@ -2496,14 +3098,21 @@
 	{
 		"id": "205",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_205.png",
+			"src-1x": "/images/70px-Icon_Servant_205.png",
+			"src-1.5x": "/images/105px-Icon_Servant_205.png",
+			"src-2x": "/images/Icon_Servant_205.png",
 			"title": "イヴァン雷帝"
 		},
 		"name": {
 			"en": "Ivan the Thunder Emperor",
 			"jp": "イヴァン雷帝"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1795,
@@ -2525,14 +3134,21 @@
 	{
 		"id": "204",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_204.png",
+			"src-1x": "/images/70px-Icon_Servant_204.png",
+			"src-1.5x": "/images/105px-Icon_Servant_204.png",
+			"src-2x": "/images/Icon_Servant_204.png",
 			"title": "アントニオ・サリエリ"
 		},
 		"name": {
 			"en": "Antonio Salieri",
 			"jp": "アントニオ・サリエリ"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_Silver.png",
+			"src-1.5x": "/images/Icon_Class_Avenger_Silver.png",
+			"src-2x": "/images/Icon_Class_Avenger_Silver.png",
+			"title": "Avenger"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1509,
@@ -2554,14 +3170,21 @@
 	{
 		"id": "203",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_203.png",
+			"src-1x": "/images/70px-Icon_Servant_203.png",
+			"src-1.5x": "/images/105px-Icon_Servant_203.png",
+			"src-2x": "/images/Icon_Servant_203.png",
 			"title": "アヴィケブロン"
 		},
 		"name": {
 			"en": "Avicebron",
 			"jp": "アヴィケブロン"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1184,
@@ -2583,14 +3206,21 @@
 	{
 		"id": "202",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_202.png",
+			"src-1x": "/images/70px-Icon_Servant_202.png",
+			"src-1.5x": "/images/105px-Icon_Servant_202.png",
+			"src-2x": "/images/Icon_Servant_202.png",
 			"title": "アタランテ(オルタ)"
 		},
 		"name": {
 			"en": "Atalante (Alter)",
 			"jp": "アタランテ(オルタ)"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1634,
@@ -2612,14 +3242,21 @@
 	{
 		"id": "201",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_201.png",
+			"src-1x": "/images/70px-Icon_Servant_201.png",
+			"src-1.5x": "/images/105px-Icon_Servant_201.png",
+			"src-2x": "/images/Icon_Servant_201.png",
 			"title": "アナスタシア・ニコラエヴナ・ロマノヴァ"
 		},
 		"name": {
 			"en": "Anastasia Nikolaevna Romanova",
 			"jp": "アナスタシア・ニコラエヴナ・ロマノヴァ"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 2091,
@@ -2641,14 +3278,21 @@
 	{
 		"id": "200",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_200.png",
+			"src-1x": "/images/70px-Icon_Servant_200.png",
+			"src-1.5x": "/images/105px-Icon_Servant_200.png",
+			"src-2x": "/images/Icon_Servant_200.png",
 			"title": "浅上藤乃"
 		},
 		"name": {
 			"en": "Asagami Fujino",
 			"jp": "浅上藤乃"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1716,
@@ -2670,14 +3314,21 @@
 	{
 		"id": "199",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_199.png",
+			"src-1x": "/images/70px-Icon_Servant_199.png",
+			"src-1.5x": "/images/105px-Icon_Servant_199.png",
+			"src-2x": "/images/Icon_Servant_199.png",
 			"title": "セミラミス"
 		},
 		"name": {
 			"en": "Semiramis",
 			"jp": "セミラミス"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1747,
@@ -2699,14 +3350,21 @@
 	{
 		"id": "198",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_198.png",
+			"src-1x": "/images/70px-Icon_Servant_198.png",
+			"src-1.5x": "/images/105px-Icon_Servant_198.png",
+			"src-2x": "/images/Icon_Servant_198.png",
 			"title": "葛飾北斎"
 		},
 		"name": {
 			"en": "Katsushika Hokusai",
 			"jp": "葛飾北斎"
 		},
-		"class": "Foreigner",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Foreigner_Gold.png",
+			"src-1.5x": "/images/Icon_Class_Foreigner_Gold.png",
+			"src-2x": "/images/Icon_Class_Foreigner_Gold.png",
+			"title": "Foreigner"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1870,
@@ -2728,14 +3386,21 @@
 	{
 		"id": "197",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_197.png",
+			"src-1x": "/images/70px-Icon_Servant_197.png",
+			"src-1.5x": "/images/105px-Icon_Servant_197.png",
+			"src-2x": "/images/Icon_Servant_197.png",
 			"title": "アルテラ・ザ・サン(タ)"
 		},
 		"name": {
 			"en": "Altera the San(ta)",
 			"jp": "アルテラ・ザ・サン(タ)"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1626,
@@ -2757,14 +3422,21 @@
 	{
 		"id": "196",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_196.png",
+			"src-1x": "/images/70px-Icon_Servant_196.png",
+			"src-1.5x": "/images/105px-Icon_Servant_196.png",
+			"src-2x": "/images/Icon_Servant_196.png",
 			"title": "エレシュキガル"
 		},
 		"name": {
 			"en": "Ereshkigal",
 			"jp": "エレシュキガル"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1598,
@@ -2786,14 +3458,21 @@
 	{
 		"id": "195",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_195.png",
+			"src-1x": "/images/70px-Icon_Servant_195.png",
+			"src-1.5x": "/images/105px-Icon_Servant_195.png",
+			"src-2x": "/images/Icon_Servant_195.png",
 			"title": "アビゲイル・ウィリアムズ"
 		},
 		"name": {
 			"en": "Abigail Williams",
 			"jp": "アビゲイル・ウィリアムズ"
 		},
-		"class": "Foreigner",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Foreigner_Gold.png",
+			"src-1.5x": "/images/Icon_Class_Foreigner_Gold.png",
+			"src-2x": "/images/Icon_Class_Foreigner_Gold.png",
+			"title": "Foreigner"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1870,
@@ -2815,14 +3494,21 @@
 	{
 		"id": "194",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_194.png",
+			"src-1x": "/images/70px-Icon_Servant_194.png",
+			"src-1.5x": "/images/105px-Icon_Servant_194.png",
+			"src-2x": "/images/Icon_Servant_194.png",
 			"title": "ミドラーシュのキャスター;シバの女王"
 		},
 		"name": {
 			"en": "Queen of Sheba",
 			"jp": "ミドラーシュのキャスター;シバの女王"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1438,
@@ -2844,14 +3530,21 @@
 	{
 		"id": "193",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_193.png",
+			"src-1x": "/images/70px-Icon_Servant_193.png",
+			"src-1.5x": "/images/105px-Icon_Servant_193.png",
+			"src-2x": "/images/Icon_Servant_193.png",
 			"title": "哪吒"
 		},
 		"name": {
 			"en": "Nezha",
 			"jp": "哪吒"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1547,
@@ -2873,14 +3566,21 @@
 	{
 		"id": "192",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_192.png",
+			"src-1x": "/images/70px-Icon_Servant_192.png",
+			"src-1.5x": "/images/105px-Icon_Servant_192.png",
+			"src-2x": "/images/Icon_Servant_192.png",
 			"title": "オケアノスのキャスター;キルケー"
 		},
 		"name": {
 			"en": "Circe",
 			"jp": "オケアノスのキャスター;キルケー"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1445,
@@ -2902,14 +3602,21 @@
 	{
 		"id": "191",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_191.png",
+			"src-1x": "/images/70px-Icon_Servant_191.png",
+			"src-1.5x": "/images/105px-Icon_Servant_191.png",
+			"src-2x": "/images/Icon_Servant_191.png",
 			"title": "メカエリチャンⅡ号機"
 		},
 		"name": {
 			"en": "Mecha Eli-chan MkII",
 			"jp": "メカエリチャンⅡ号機"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1666,
@@ -2931,14 +3638,21 @@
 	{
 		"id": "190",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_190.png",
+			"src-1x": "/images/70px-Icon_Servant_190.png",
+			"src-1.5x": "/images/105px-Icon_Servant_190.png",
+			"src-2x": "/images/Icon_Servant_190.png",
 			"title": "メカエリチャン"
 		},
 		"name": {
 			"en": "Mecha Eli-chan",
 			"jp": "メカエリチャン"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1666,
@@ -2960,14 +3674,21 @@
 	{
 		"id": "189",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_189.png",
+			"src-1x": "/images/70px-Icon_Servant_189.png",
+			"src-1.5x": "/images/105px-Icon_Servant_189.png",
+			"src-2x": "/images/Icon_Servant_189.png",
 			"title": "刑部姬"
 		},
 		"name": {
 			"en": "Osakabehime",
 			"jp": "刑部姬"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1672,
@@ -2989,14 +3710,21 @@
 	{
 		"id": "188",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_188.png",
+			"src-1x": "/images/70px-Icon_Servant_188.png",
+			"src-1.5x": "/images/105px-Icon_Servant_188.png",
+			"src-2x": "/images/Icon_Servant_188.png",
 			"title": "加藤段蔵"
 		},
 		"name": {
 			"en": "Kato Danzou",
 			"jp": "加藤段蔵"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1489,
@@ -3018,14 +3746,21 @@
 	{
 		"id": "187",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_187.png",
+			"src-1x": "/images/70px-Icon_Servant_187.png",
+			"src-1.5x": "/images/105px-Icon_Servant_187.png",
+			"src-2x": "/images/Icon_Servant_187.png",
 			"title": "柳生但馬守宗矩"
 		},
 		"name": {
 			"en": "Munenori Yagyu",
 			"jp": "柳生但馬守宗矩"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1666,
@@ -3047,14 +3782,21 @@
 	{
 		"id": "186",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_186.png",
+			"src-1x": "/images/70px-Icon_Servant_186.png",
+			"src-1.5x": "/images/105px-Icon_Servant_186.png",
+			"src-2x": "/images/Icon_Servant_186.png",
 			"title": "宝蔵院胤舜"
 		},
 		"name": {
 			"en": "Houzouin Inshun",
 			"jp": "宝蔵院胤舜"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Silver.png",
+			"src-2x": "/images/Icon_Class_Lancer_Silver.png",
+			"title": "Lancer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1261,
@@ -3076,14 +3818,21 @@
 	{
 		"id": "185",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_185.png",
+			"src-1x": "/images/70px-Icon_Servant_185.png",
+			"src-1.5x": "/images/105px-Icon_Servant_185.png",
+			"src-2x": "/images/Icon_Servant_185.png",
 			"title": "望月千代女"
 		},
 		"name": {
 			"en": "Mochizuki Chiyome",
 			"jp": "望月千代女"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1418,
@@ -3105,14 +3854,21 @@
 	{
 		"id": "184",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_184.png",
+			"src-1x": "/images/70px-Icon_Servant_184.png",
+			"src-1.5x": "/images/105px-Icon_Servant_184.png",
+			"src-2x": "/images/Icon_Servant_184.png",
 			"title": "巴御前"
 		},
 		"name": {
 			"en": "Tomoe Gozen",
 			"jp": "巴御前"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1657,
@@ -3134,14 +3890,21 @@
 	{
 		"id": "183",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_183.png",
+			"src-1x": "/images/70px-Icon_Servant_183.png",
+			"src-1.5x": "/images/105px-Icon_Servant_183.png",
+			"src-2x": "/images/Icon_Servant_183.png",
 			"title": "パールヴァティー"
 		},
 		"name": {
 			"en": "Parvati",
 			"jp": "パールヴァティー"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1354,
@@ -3163,14 +3926,21 @@
 	{
 		"id": "182",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_182.png",
+			"src-1x": "/images/70px-Icon_Servant_182.png",
+			"src-1.5x": "/images/105px-Icon_Servant_182.png",
+			"src-2x": "/images/Icon_Servant_182.png",
 			"title": "イシュタル (ライダー)"
 		},
 		"name": {
 			"en": "Ishtar (Rider)",
 			"jp": "イシュタル (ライダー)"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1600,
@@ -3192,14 +3962,21 @@
 	{
 		"id": "181",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_181.png",
+			"src-1x": "/images/70px-Icon_Servant_181.png",
+			"src-1.5x": "/images/105px-Icon_Servant_181.png",
+			"src-2x": "/images/Icon_Servant_181.png",
 			"title": "源頼光"
 		},
 		"name": {
 			"en": "Minamoto-no-Raikou (Lancer)",
 			"jp": "源頼光"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1528,
@@ -3221,14 +3998,21 @@
 	{
 		"id": "180",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_180.png",
+			"src-1x": "/images/70px-Icon_Servant_180.png",
+			"src-1.5x": "/images/105px-Icon_Servant_180.png",
+			"src-2x": "/images/Icon_Servant_180.png",
 			"title": "エレナ・ブラヴァツキー (アーチャー)"
 		},
 		"name": {
 			"en": "Helena Blavatsky (Archer)",
 			"jp": "エレナ・ブラヴァツキー (アーチャー)"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1574,
@@ -3250,14 +4034,21 @@
 	{
 		"id": "179",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_179.png",
+			"src-1x": "/images/70px-Icon_Servant_179.png",
+			"src-1.5x": "/images/105px-Icon_Servant_179.png",
+			"src-2x": "/images/Icon_Servant_179.png",
 			"title": "アルトリア・ペンドラゴン (オルタ) (ライダー)"
 		},
 		"name": {
 			"en": "Altria Pendragon (Rider Alter)",
 			"jp": "アルトリア・ペンドラゴン (オルタ) (ライダー)"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1665,
@@ -3279,14 +4070,21 @@
 	{
 		"id": "178",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_178.png",
+			"src-1x": "/images/70px-Icon_Servant_178.png",
+			"src-1.5x": "/images/105px-Icon_Servant_178.png",
+			"src-2x": "/images/Icon_Servant_178.png",
 			"title": "織田信長 (バーサーカー)"
 		},
 		"name": {
 			"en": "Oda Nobunaga (Berserker)",
 			"jp": "織田信長 (バーサーカー)"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1691,
@@ -3308,14 +4106,21 @@
 	{
 		"id": "177",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_177.png",
+			"src-1x": "/images/70px-Icon_Servant_177.png",
+			"src-1.5x": "/images/105px-Icon_Servant_177.png",
+			"src-2x": "/images/Icon_Servant_177.png",
 			"title": "ニトクリス (アサシン)"
 		},
 		"name": {
 			"en": "Nitocris (Assassin)",
 			"jp": "ニトクリス (アサシン)"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1468,
@@ -3337,14 +4142,21 @@
 	{
 		"id": "176",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_176.png",
+			"src-1x": "/images/70px-Icon_Servant_176.png",
+			"src-1.5x": "/images/105px-Icon_Servant_176.png",
+			"src-2x": "/images/Icon_Servant_176.png",
 			"title": "フランケンシュタイン (セイバー)"
 		},
 		"name": {
 			"en": "Frankenstein (Saber)",
 			"jp": "フランケンシュタイン (セイバー)"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1558,
@@ -3366,14 +4178,21 @@
 	{
 		"id": "175",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_175.png",
+			"src-1x": "/images/70px-Icon_Servant_175.png",
+			"src-1.5x": "/images/105px-Icon_Servant_175.png",
+			"src-2x": "/images/Icon_Servant_175.png",
 			"title": "ネロ・クラウディウス (キャスター)"
 		},
 		"name": {
 			"en": "Nero Claudius (Caster)",
 			"jp": "ネロ・クラウディウス (キャスター)"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1677,
@@ -3395,14 +4214,21 @@
 	{
 		"id": "174",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_174.png",
+			"src-1x": "/images/70px-Icon_Servant_174.png",
+			"src-1.5x": "/images/105px-Icon_Servant_174.png",
+			"src-2x": "/images/Icon_Servant_174.png",
 			"title": "ポール・バニヤン"
 		},
 		"name": {
 			"en": "Paul Bunyan",
 			"jp": "ポール・バニヤン"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Bronze.png",
+			"src-2x": "/images/Icon_Class_Berserker_Bronze.png",
+			"title": "Berserker"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 1099,
@@ -3424,14 +4250,21 @@
 	{
 		"id": "173",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_173.png",
+			"src-1x": "/images/70px-Icon_Servant_173.png",
+			"src-1.5x": "/images/105px-Icon_Servant_173.png",
+			"src-2x": "/images/Icon_Servant_173.png",
 			"title": "シャーロック・ホームズ"
 		},
 		"name": {
 			"en": "Sherlock Holmes",
 			"jp": "シャーロック・ホームズ"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1776,
@@ -3453,14 +4286,21 @@
 	{
 		"id": "172",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_172.png",
+			"src-1x": "/images/70px-Icon_Servant_172.png",
+			"src-1.5x": "/images/105px-Icon_Servant_172.png",
+			"src-2x": "/images/Icon_Servant_172.png",
 			"title": "レジスタンスのライダー; クリストファー・コロンブス"
 		},
 		"name": {
 			"en": "Christopher Columbus",
 			"jp": "レジスタンスのライダー; クリストファー・コロンブス"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Silver.png",
+			"src-2x": "/images/Icon_Class_Rider_Silver.png",
+			"title": "Rider"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1216,
@@ -3482,14 +4322,21 @@
 	{
 		"id": "171",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_171.png",
+			"src-1x": "/images/70px-Icon_Servant_171.png",
+			"src-1.5x": "/images/105px-Icon_Servant_171.png",
+			"src-2x": "/images/Icon_Servant_171.png",
 			"title": "エルドラドのバーサーカー;\u003cbr/\u003eペンテシレイア"
 		},
 		"name": {
 			"en": "Penthesilea",
 			"jp": "エルドラドのバーサーカー;\u003cbr/\u003eペンテシレイア"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1750,
@@ -3511,14 +4358,21 @@
 	{
 		"id": "170",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_170.png",
+			"src-1x": "/images/70px-Icon_Servant_170.png",
+			"src-1.5x": "/images/105px-Icon_Servant_170.png",
+			"src-2x": "/images/Icon_Servant_170.png",
 			"title": "不夜城のアサシン; 武則天"
 		},
 		"name": {
 			"en": "Wu Zetian",
 			"jp": "不夜城のアサシン; 武則天"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1496,
@@ -3540,14 +4394,21 @@
 	{
 		"id": "169",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_169.png",
+			"src-1x": "/images/70px-Icon_Servant_169.png",
+			"src-1.5x": "/images/105px-Icon_Servant_169.png",
+			"src-2x": "/images/Icon_Servant_169.png",
 			"title": "不夜城のキャスター;\u003cbr/\u003eシェヘラザード"
 		},
 		"name": {
 			"en": "Scheherazade",
 			"jp": "不夜城のキャスター;\u003cbr/\u003eシェヘラザード"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1423,
@@ -3569,14 +4430,21 @@
 	{
 		"id": "168",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_168.png",
+			"src-1x": "/images/70px-Icon_Servant_168.png",
+			"src-1.5x": "/images/105px-Icon_Servant_168.png",
+			"src-2x": "/images/Icon_Servant_168.png",
 			"title": "ビーストIII／R"
 		},
 		"name": {
 			"en": "Beast III/R",
 			"jp": "ビーストIII／R"
 		},
-		"class": "Beast",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Beast_III_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Beast_III_Gold.png",
+			"src-2x": "/images/Icon_Class_Beast_III_Gold.png",
+			"title": "Beast"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 2121,
@@ -3598,14 +4466,21 @@
 	{
 		"id": "167",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_167.png",
+			"src-1x": "/images/70px-Icon_Servant_167.png",
+			"src-1.5x": "/images/105px-Icon_Servant_167.png",
+			"src-2x": "/images/Icon_Servant_167.png",
 			"title": "殺生院キアラ"
 		},
 		"name": {
 			"en": "Sessyoin Kiara",
 			"jp": "殺生院キアラ"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1803,
@@ -3627,14 +4502,21 @@
 	{
 		"id": "166",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_166.png",
+			"src-1x": "/images/70px-Icon_Servant_166.png",
+			"src-1.5x": "/images/105px-Icon_Servant_166.png",
+			"src-2x": "/images/Icon_Servant_166.png",
 			"title": "ビィビィ"
 		},
 		"name": {
 			"en": "BB",
 			"jp": "ビィビィ"
 		},
-		"class": "Mooncancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Mooncancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Mooncancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Mooncancer_Gold.png",
+			"title": "Mooncancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1366,
@@ -3656,14 +4538,21 @@
 	{
 		"id": "165",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_165.png",
+			"src-1x": "/images/70px-Icon_Servant_165.png",
+			"src-1.5x": "/images/105px-Icon_Servant_165.png",
+			"src-2x": "/images/Icon_Servant_165.png",
 			"title": "鈴鹿御前"
 		},
 		"name": {
 			"en": "Suzuka Gozen",
 			"jp": "鈴鹿御前"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1590,
@@ -3685,14 +4574,21 @@
 	{
 		"id": "164",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_164.png",
+			"src-1x": "/images/70px-Icon_Servant_164.png",
+			"src-1.5x": "/images/105px-Icon_Servant_164.png",
+			"src-2x": "/images/Icon_Servant_164.png",
 			"title": "パッションリップ"
 		},
 		"name": {
 			"en": "Passionlip",
 			"jp": "パッションリップ"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1716,
@@ -3714,14 +4610,21 @@
 	{
 		"id": "163",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_163.png",
+			"src-1x": "/images/70px-Icon_Servant_163.png",
+			"src-1.5x": "/images/105px-Icon_Servant_163.png",
+			"src-2x": "/images/Icon_Servant_163.png",
 			"title": "メルトリリス"
 		},
 		"name": {
 			"en": "Meltryllis",
 			"jp": "メルトリリス"
 		},
-		"class": "Alter-Ego",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Alter-Ego_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Alter-Ego_Gold.png",
+			"src-2x": "/images/Icon_Class_Alter-Ego_Gold.png",
+			"title": "Alter-Ego"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1807,
@@ -3743,14 +4646,21 @@
 	{
 		"id": "162",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_162.png",
+			"src-1x": "/images/70px-Icon_Servant_162.png",
+			"src-1.5x": "/images/105px-Icon_Servant_162.png",
+			"src-2x": "/images/Icon_Servant_162.png",
 			"title": "茶々"
 		},
 		"name": {
 			"en": "Chacha",
 			"jp": "茶々"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1490,
@@ -3772,14 +4682,21 @@
 	{
 		"id": "161",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_161.png",
+			"src-1x": "/images/70px-Icon_Servant_161.png",
+			"src-1.5x": "/images/105px-Icon_Servant_161.png",
+			"src-2x": "/images/Icon_Servant_161.png",
 			"title": "土方歳三"
 		},
 		"name": {
 			"en": "Hijikata Toshizo",
 			"jp": "土方歳三"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1868,
@@ -3801,14 +4718,21 @@
 	{
 		"id": "160",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_160.png",
+			"src-1x": "/images/70px-Icon_Servant_160.png",
+			"src-1.5x": "/images/105px-Icon_Servant_160.png",
+			"src-2x": "/images/Icon_Servant_160.png",
 			"title": "アーサー・ペンドラゴン〔プロトタイプ〕"
 		},
 		"name": {
 			"en": "Arthur Pendragon (Prototype)",
 			"jp": "アーサー・ペンドラゴン〔プロトタイプ〕"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1926,
@@ -3830,14 +4754,21 @@
 	{
 		"id": "159",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_159.png",
+			"src-1x": "/images/70px-Icon_Servant_159.png",
+			"src-1.5x": "/images/105px-Icon_Servant_159.png",
+			"src-2x": "/images/Icon_Servant_159.png",
 			"title": "新宿のアサシン\u003cbr/\u003e燕青\u003cbr/\u003eエンセイ"
 		},
 		"name": {
 			"en": "Yan Qing",
 			"jp": "新宿のアサシン\u003cbr/\u003e燕青\u003cbr/\u003eエンセイ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1443,
@@ -3859,14 +4790,21 @@
 	{
 		"id": "158",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_158.png",
+			"src-1x": "/images/70px-Icon_Servant_158.png",
+			"src-1.5x": "/images/105px-Icon_Servant_158.png",
+			"src-2x": "/images/Icon_Servant_158.png",
 			"title": "新宿のアヴェンジャー, ヘシアン・ロボ"
 		},
 		"name": {
 			"en": "Hessian Lobo",
 			"jp": "新宿のアヴェンジャー, ヘシアン・ロボ"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Avenger_Gold.png",
+			"src-2x": "/images/Icon_Class_Avenger_Gold.png",
+			"title": "Avenger"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1771,
@@ -3888,14 +4826,21 @@
 	{
 		"id": "157",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_157.png",
+			"src-1x": "/images/70px-Icon_Servant_157.png",
+			"src-1.5x": "/images/105px-Icon_Servant_157.png",
+			"src-2x": "/images/Icon_Servant_157.png",
 			"title": "エミヤ〔オルタ〕"
 		},
 		"name": {
 			"en": "EMIYA (Alter)",
 			"jp": "エミヤ〔オルタ〕"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1499,
@@ -3917,14 +4862,21 @@
 	{
 		"id": "156",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_156.png",
+			"src-1x": "/images/70px-Icon_Servant_156.png",
+			"src-1.5x": "/images/105px-Icon_Servant_156.png",
+			"src-2x": "/images/Icon_Servant_156.png",
 			"title": "新宿のアーチャー,\u003cbr/\u003eジェームズ・モリアーティ"
 		},
 		"name": {
 			"en": "James Moriarty",
 			"jp": "新宿のアーチャー,\u003cbr/\u003eジェームズ・モリアーティ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1820,
@@ -3946,14 +4898,21 @@
 	{
 		"id": "155",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_155.png",
+			"src-1x": "/images/70px-Icon_Servant_155.png",
+			"src-1.5x": "/images/105px-Icon_Servant_155.png",
+			"src-2x": "/images/Icon_Servant_155.png",
 			"title": "謎のヒロインＸ〔オルタ〕"
 		},
 		"name": {
 			"en": "Mysterious Heroine X (Alter)",
 			"jp": "謎のヒロインＸ〔オルタ〕"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1717,
@@ -3975,14 +4934,21 @@
 	{
 		"id": "154",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_154.png",
+			"src-1x": "/images/70px-Icon_Servant_154.png",
+			"src-1.5x": "/images/105px-Icon_Servant_154.png",
+			"src-2x": "/images/Icon_Servant_154.png",
 			"title": "\"山の翁\""
 		},
 		"name": {
 			"en": "First Hassan",
 			"jp": "\"山の翁\""
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1831,
@@ -4004,14 +4970,21 @@
 	{
 		"id": "153",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_153.png",
+			"src-1x": "/images/70px-Icon_Servant_153.png",
+			"src-1.5x": "/images/105px-Icon_Servant_153.png",
+			"src-2x": "/images/Icon_Servant_153.png",
 			"title": "宮本武蔵"
 		},
 		"name": {
 			"en": "Miyamoto Musashi",
 			"jp": "宮本武蔵"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1860,
@@ -4033,14 +5006,21 @@
 	{
 		"id": "152",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_152.png",
+			"src-1x": "/images/70px-Icon_Servant_152.png",
+			"src-1.5x": "/images/105px-Icon_Servant_152.png",
+			"src-2x": "/images/Icon_Servant_152.png",
 			"title": "ソロモン"
 		},
 		"name": {
 			"en": "Solomon (Endgame)",
 			"jp": "ソロモン"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1645,
@@ -4062,14 +5042,21 @@
 	{
 		"id": "151",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_151.png",
+			"src-1x": "/images/70px-Icon_Servant_151.png",
+			"src-1.5x": "/images/105px-Icon_Servant_151.png",
+			"src-2x": "/images/Icon_Servant_151.png",
 			"title": "魔神王ゲーティア"
 		},
 		"name": {
 			"en": "Goetia",
 			"jp": "魔神王ゲーティア"
 		},
-		"class": "Beast",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Beast_I_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Beast_I_Gold.png",
+			"src-2x": "/images/Icon_Class_Beast_I_Gold.png",
+			"title": "Beast"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 2268,
@@ -4091,14 +5078,21 @@
 	{
 		"id": "150",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_150.png",
+			"src-1x": "/images/70px-Icon_Servant_150.png",
+			"src-1.5x": "/images/105px-Icon_Servant_150.png",
+			"src-2x": "/images/Icon_Servant_150.png",
 			"title": "マーリン"
 		},
 		"name": {
 			"en": "Merlin",
 			"jp": "マーリン"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1692,
@@ -4120,14 +5114,21 @@
 	{
 		"id": "149",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_149.png",
+			"src-1x": "/images/70px-Icon_Servant_149.png",
+			"src-1.5x": "/images/105px-Icon_Servant_149.png",
+			"src-2x": "/images/Icon_Servant_149.png",
 			"title": "ティアマト"
 		},
 		"name": {
 			"en": "Tiamat",
 			"jp": "ティアマト"
 		},
-		"class": "Beast",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Beast_II_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Beast_II_Gold.png",
+			"src-2x": "/images/Icon_Class_Beast_II_Gold.png",
+			"title": "Beast"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 2101,
@@ -4149,14 +5150,21 @@
 	{
 		"id": "148",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_148.png",
+			"src-1x": "/images/70px-Icon_Servant_148.png",
+			"src-1.5x": "/images/105px-Icon_Servant_148.png",
+			"src-2x": "/images/Icon_Servant_148.png",
 			"title": "ジャガーマン"
 		},
 		"name": {
 			"en": "Jaguar Warrior",
 			"jp": "ジャガーマン"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Silver.png",
+			"src-2x": "/images/Icon_Class_Lancer_Silver.png",
+			"title": "Lancer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1304,
@@ -4178,14 +5186,21 @@
 	{
 		"id": "147",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_147.png",
+			"src-1x": "/images/70px-Icon_Servant_147.png",
+			"src-1.5x": "/images/105px-Icon_Servant_147.png",
+			"src-2x": "/images/Icon_Servant_147.png",
 			"title": "ゴルゴーン"
 		},
 		"name": {
 			"en": "Gorgon",
 			"jp": "ゴルゴーン"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Avenger_Gold.png",
+			"src-2x": "/images/Icon_Class_Avenger_Gold.png",
+			"title": "Avenger"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1784,
@@ -4207,14 +5222,21 @@
 	{
 		"id": "146",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_146.png",
+			"src-1x": "/images/70px-Icon_Servant_146.png",
+			"src-1.5x": "/images/105px-Icon_Servant_146.png",
+			"src-2x": "/images/Icon_Servant_146.png",
 			"title": "メドゥーサ〔ランサー〕"
 		},
 		"name": {
 			"en": "Medusa (Lancer)",
 			"jp": "メドゥーサ〔ランサー〕"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1375,
@@ -4236,14 +5258,21 @@
 	{
 		"id": "145",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_145.png",
+			"src-1x": "/images/70px-Icon_Servant_145.png",
+			"src-1.5x": "/images/105px-Icon_Servant_145.png",
+			"src-2x": "/images/Icon_Servant_145.png",
 			"title": "ギルガメッシュ〔キャスター〕"
 		},
 		"name": {
 			"en": "Gilgamesh (Caster)",
 			"jp": "ギルガメッシュ〔キャスター〕"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1410,
@@ -4265,14 +5294,21 @@
 	{
 		"id": "144",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_144.png",
+			"src-1x": "/images/70px-Icon_Servant_144.png",
+			"src-1.5x": "/images/105px-Icon_Servant_144.png",
+			"src-2x": "/images/Icon_Servant_144.png",
 			"title": "ケツァル・コアトル"
 		},
 		"name": {
 			"en": "Quetzalcoatl",
 			"jp": "ケツァル・コアトル"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1854,
@@ -4294,14 +5330,21 @@
 	{
 		"id": "143",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_143.png",
+			"src-1x": "/images/70px-Icon_Servant_143.png",
+			"src-1.5x": "/images/105px-Icon_Servant_143.png",
+			"src-2x": "/images/Icon_Servant_143.png",
 			"title": "エルキドゥ"
 		},
 		"name": {
 			"en": "Enkidu",
 			"jp": "エルキドゥ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1666,
@@ -4323,14 +5366,21 @@
 	{
 		"id": "142",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_142.png",
+			"src-1x": "/images/70px-Icon_Servant_142.png",
+			"src-1.5x": "/images/105px-Icon_Servant_142.png",
+			"src-2x": "/images/Icon_Servant_142.png",
 			"title": "イシュタル"
 		},
 		"name": {
 			"en": "Ishtar",
 			"jp": "イシュタル"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1893,
@@ -4352,14 +5402,21 @@
 	{
 		"id": "141",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_141.png",
+			"src-1x": "/images/70px-Icon_Servant_141.png",
+			"src-1.5x": "/images/105px-Icon_Servant_141.png",
+			"src-2x": "/images/Icon_Servant_141.png",
 			"title": "ジャンヌ･ダルク･オルタ･サンタ･リリィ"
 		},
 		"name": {
 			"en": "Jeanne d'Arc Alter Santa Lily",
 			"jp": "ジャンヌ･ダルク･オルタ･サンタ･リリィ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1543,
@@ -4381,14 +5438,21 @@
 	{
 		"id": "140",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_140.png",
+			"src-1x": "/images/70px-Icon_Servant_140.png",
+			"src-1.5x": "/images/105px-Icon_Servant_140.png",
+			"src-2x": "/images/Icon_Servant_140.png",
 			"title": "ヴラド三世 (EXTRA)"
 		},
 		"name": {
 			"en": "Vlad III (EXTRA)",
 			"jp": "ヴラド三世 (EXTRA)"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1462,
@@ -4410,14 +5474,21 @@
 	{
 		"id": "139",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_139.png",
+			"src-1x": "/images/70px-Icon_Servant_139.png",
+			"src-1.5x": "/images/105px-Icon_Servant_139.png",
+			"src-2x": "/images/Icon_Servant_139.png",
 			"title": "クレオパトラ"
 		},
 		"name": {
 			"en": "Cleopatra",
 			"jp": "クレオパトラ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1713,
@@ -4439,14 +5510,21 @@
 	{
 		"id": "138",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_138.png",
+			"src-1x": "/images/70px-Icon_Servant_138.png",
+			"src-1.5x": "/images/105px-Icon_Servant_138.png",
+			"src-2x": "/images/Icon_Servant_138.png",
 			"title": "エリザベート・バートリー[ブレイブ]"
 		},
 		"name": {
 			"en": "Elisabeth Báthory (Brave)",
 			"jp": "エリザベート・バートリー[ブレイブ]"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1649,
@@ -4468,14 +5546,21 @@
 	{
 		"id": "137",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_137.png",
+			"src-1x": "/images/70px-Icon_Servant_137.png",
+			"src-1.5x": "/images/105px-Icon_Servant_137.png",
+			"src-2x": "/images/Icon_Servant_137.png",
 			"title": "クロエ･フォン・アインツベルン"
 		},
 		"name": {
 			"en": "Chloe von Einzbern",
 			"jp": "クロエ･フォン・アインツベルン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1640,
@@ -4497,14 +5582,21 @@
 	{
 		"id": "136",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_136.png",
+			"src-1x": "/images/70px-Icon_Servant_136.png",
+			"src-1.5x": "/images/105px-Icon_Servant_136.png",
+			"src-2x": "/images/Icon_Servant_136.png",
 			"title": "イリヤスフィール・フォン・アインツベルン"
 		},
 		"name": {
 			"en": "Illyasviel von Einzbern",
 			"jp": "イリヤスフィール・フォン・アインツベルン"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1677,
@@ -4526,14 +5618,21 @@
 	{
 		"id": "135",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_135.png",
+			"src-1x": "/images/70px-Icon_Servant_135.png",
+			"src-1.5x": "/images/105px-Icon_Servant_135.png",
+			"src-2x": "/images/Icon_Servant_135.png",
 			"title": "マルタ"
 		},
 		"name": {
 			"en": "Martha (Ruler)",
 			"jp": "マルタ"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1591,
@@ -4555,14 +5654,21 @@
 	{
 		"id": "134",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_134.png",
+			"src-1x": "/images/70px-Icon_Servant_134.png",
+			"src-1.5x": "/images/105px-Icon_Servant_134.png",
+			"src-2x": "/images/Icon_Servant_134.png",
 			"title": "清姫〔ランサー〕"
 		},
 		"name": {
 			"en": "Kiyohime (Lancer)",
 			"jp": "清姫〔ランサー〕"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1489,
@@ -4584,14 +5690,21 @@
 	{
 		"id": "133",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_133.png",
+			"src-1x": "/images/70px-Icon_Servant_133.png",
+			"src-1.5x": "/images/105px-Icon_Servant_133.png",
+			"src-2x": "/images/Icon_Servant_133.png",
 			"title": "スカサハ〔アサシン〕"
 		},
 		"name": {
 			"en": "Scáthach (Assassin)",
 			"jp": "スカサハ〔アサシン〕"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1851,
@@ -4613,14 +5726,21 @@
 	{
 		"id": "132",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_132.png",
+			"src-1x": "/images/70px-Icon_Servant_132.png",
+			"src-1.5x": "/images/105px-Icon_Servant_132.png",
+			"src-2x": "/images/Icon_Servant_132.png",
 			"title": "モードレッド〔ライダー〕"
 		},
 		"name": {
 			"en": "Mordred (Rider)",
 			"jp": "モードレッド〔ライダー〕"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1535,
@@ -4642,14 +5762,21 @@
 	{
 		"id": "131",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_131.png",
+			"src-1x": "/images/70px-Icon_Servant_131.png",
+			"src-1.5x": "/images/105px-Icon_Servant_131.png",
+			"src-2x": "/images/Icon_Servant_131.png",
 			"title": "アン・ボニー＆メアリー・リード〔アーチャー〕"
 		},
 		"name": {
 			"en": "Anne Bonny \u0026 Mary Read (Archer)",
 			"jp": "アン・ボニー＆メアリー・リード〔アーチャー〕"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1574,
@@ -4671,14 +5798,21 @@
 	{
 		"id": "130",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_130.png",
+			"src-1x": "/images/70px-Icon_Servant_130.png",
+			"src-1.5x": "/images/105px-Icon_Servant_130.png",
+			"src-2x": "/images/Icon_Servant_130.png",
 			"title": "マリー・アントワネット〔キャスター〕"
 		},
 		"name": {
 			"en": "Marie Antoinette (Caster)",
 			"jp": "マリー・アントワネット〔キャスター〕"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1510,
@@ -4700,14 +5834,21 @@
 	{
 		"id": "129",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_129.png",
+			"src-1x": "/images/70px-Icon_Servant_129.png",
+			"src-1.5x": "/images/105px-Icon_Servant_129.png",
+			"src-2x": "/images/Icon_Servant_129.png",
 			"title": "アルトリア・ペンドラゴン〔アーチャー〕"
 		},
 		"name": {
 			"en": "Altria Pendragon (Archer)",
 			"jp": "アルトリア・ペンドラゴン〔アーチャー〕"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1742,
@@ -4729,14 +5870,21 @@
 	{
 		"id": "128",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_128.png",
+			"src-1x": "/images/70px-Icon_Servant_128.png",
+			"src-1.5x": "/images/105px-Icon_Servant_128.png",
+			"src-2x": "/images/Icon_Servant_128.png",
 			"title": "玉藻の前 〔ランサー〕"
 		},
 		"name": {
 			"en": "Tamamo-no-Mae (Lancer)",
 			"jp": "玉藻の前 〔ランサー〕"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1657,
@@ -4758,14 +5906,21 @@
 	{
 		"id": "127",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_127.png",
+			"src-1x": "/images/70px-Icon_Servant_127.png",
+			"src-1.5x": "/images/105px-Icon_Servant_127.png",
+			"src-2x": "/images/Icon_Servant_127.png",
 			"title": "レオナルド・ダ・ヴィンチ"
 		},
 		"name": {
 			"en": "Leonardo Da Vinci",
 			"jp": "レオナルド・ダ・ヴィンチ"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1637,
@@ -4787,14 +5942,21 @@
 	{
 		"id": "126",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_126.png",
+			"src-1x": "/images/70px-Icon_Servant_126.png",
+			"src-1.5x": "/images/105px-Icon_Servant_126.png",
+			"src-2x": "/images/Icon_Servant_126.png",
 			"title": "ベディヴィエール"
 		},
 		"name": {
 			"en": "Bedivere",
 			"jp": "ベディヴィエール"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Silver.png",
+			"src-2x": "/images/Icon_Class_Saber_Silver.png",
+			"title": "Saber"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1416,
@@ -4816,14 +5978,21 @@
 	{
 		"id": "125",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_125.png",
+			"src-1x": "/images/70px-Icon_Servant_125.png",
+			"src-1.5x": "/images/105px-Icon_Servant_125.png",
+			"src-2x": "/images/Icon_Servant_125.png",
 			"title": "俵藤太"
 		},
 		"name": {
 			"en": "Tawara Touta",
 			"jp": "俵藤太"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Silver.png",
+			"src-2x": "/images/Icon_Class_Archer_Silver.png",
+			"title": "Archer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1306,
@@ -4845,14 +6014,21 @@
 	{
 		"id": "124",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_124.png",
+			"src-1x": "/images/70px-Icon_Servant_124.png",
+			"src-1.5x": "/images/105px-Icon_Servant_124.png",
+			"src-2x": "/images/Icon_Servant_124.png",
 			"title": "静謐のハサン"
 		},
 		"name": {
 			"en": "Hassan of the Serenity",
 			"jp": "静謐のハサン"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Silver.png",
+			"src-2x": "/images/Icon_Class_Assassin_Silver.png",
+			"title": "Assassin"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1232,
@@ -4874,14 +6050,21 @@
 	{
 		"id": "123",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_123.png",
+			"src-1x": "/images/70px-Icon_Servant_123.png",
+			"src-1.5x": "/images/105px-Icon_Servant_123.png",
+			"src-2x": "/images/Icon_Servant_123.png",
 			"title": "ガウェイン"
 		},
 		"name": {
 			"en": "Gawain",
 			"jp": "ガウェイン"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1695,
@@ -4903,14 +6086,21 @@
 	{
 		"id": "122",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_122.png",
+			"src-1x": "/images/70px-Icon_Servant_122.png",
+			"src-1.5x": "/images/105px-Icon_Servant_122.png",
+			"src-2x": "/images/Icon_Servant_122.png",
 			"title": "トリスタン"
 		},
 		"name": {
 			"en": "Tristan",
 			"jp": "トリスタン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1622,
@@ -4932,14 +6122,21 @@
 	{
 		"id": "121",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_121.png",
+			"src-1x": "/images/70px-Icon_Servant_121.png",
+			"src-1.5x": "/images/105px-Icon_Servant_121.png",
+			"src-2x": "/images/Icon_Servant_121.png",
 			"title": "ランスロット"
 		},
 		"name": {
 			"en": "Lancelot (Saber)",
 			"jp": "ランスロット"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1658,
@@ -4961,14 +6158,21 @@
 	{
 		"id": "120",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_120.png",
+			"src-1x": "/images/70px-Icon_Servant_120.png",
+			"src-1.5x": "/images/105px-Icon_Servant_120.png",
+			"src-2x": "/images/Icon_Servant_120.png",
 			"title": "ニトクリス"
 		},
 		"name": {
 			"en": "Nitocris",
 			"jp": "ニトクリス"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1510,
@@ -4990,14 +6194,21 @@
 	{
 		"id": "119",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_119.png",
+			"src-1x": "/images/70px-Icon_Servant_119.png",
+			"src-1.5x": "/images/105px-Icon_Servant_119.png",
+			"src-2x": "/images/Icon_Servant_119.png",
 			"title": "アルトリア・ペンドラゴン"
 		},
 		"name": {
 			"en": "Altria Pendragon (Lancer)",
 			"jp": "アルトリア・ペンドラゴン"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1699,
@@ -5019,14 +6230,21 @@
 	{
 		"id": "118",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_118.png",
+			"src-1x": "/images/70px-Icon_Servant_118.png",
+			"src-1.5x": "/images/105px-Icon_Servant_118.png",
+			"src-2x": "/images/Icon_Servant_118.png",
 			"title": "オジマンディアス"
 		},
 		"name": {
 			"en": "Ozymandias",
 			"jp": "オジマンディアス"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1850,
@@ -5048,14 +6266,21 @@
 	{
 		"id": "117",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_117.png",
+			"src-1x": "/images/70px-Icon_Servant_117.png",
+			"src-1.5x": "/images/105px-Icon_Servant_117.png",
+			"src-2x": "/images/Icon_Servant_117.png",
 			"title": "風魔小太郎"
 		},
 		"name": {
 			"en": "Fuuma Kotarou",
 			"jp": "風魔小太郎"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Silver.png",
+			"src-2x": "/images/Icon_Class_Assassin_Silver.png",
+			"title": "Assassin"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1316,
@@ -5077,14 +6302,21 @@
 	{
 		"id": "116",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_116.png",
+			"src-1x": "/images/70px-Icon_Servant_116.png",
+			"src-1.5x": "/images/105px-Icon_Servant_116.png",
+			"src-2x": "/images/Icon_Servant_116.png",
 			"title": "茨木童子"
 		},
 		"name": {
 			"en": "Ibaraki-Douji",
 			"jp": "茨木童子"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1606,
@@ -5106,14 +6338,21 @@
 	{
 		"id": "115",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_115.png",
+			"src-1x": "/images/70px-Icon_Servant_115.png",
+			"src-1.5x": "/images/105px-Icon_Servant_115.png",
+			"src-2x": "/images/Icon_Servant_115.png",
 			"title": "坂田金時〔ライダー〕"
 		},
 		"name": {
 			"en": "Sakata Kintoki (Rider)",
 			"jp": "坂田金時〔ライダー〕"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1636,
@@ -5135,14 +6374,21 @@
 	{
 		"id": "114",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_114.png",
+			"src-1x": "/images/70px-Icon_Servant_114.png",
+			"src-1.5x": "/images/105px-Icon_Servant_114.png",
+			"src-2x": "/images/Icon_Servant_114.png",
 			"title": "源頼光"
 		},
 		"name": {
 			"en": "Minamoto-no-Raikou",
 			"jp": "源頼光"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1786,
@@ -5164,14 +6410,21 @@
 	{
 		"id": "113",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_113.png",
+			"src-1x": "/images/70px-Icon_Servant_113.png",
+			"src-1.5x": "/images/105px-Icon_Servant_113.png",
+			"src-2x": "/images/Icon_Servant_113.png",
 			"title": "玄奘三蔵"
 		},
 		"name": {
 			"en": "Xuanzang Sanzang",
 			"jp": "玄奘三蔵"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1801,
@@ -5193,14 +6446,21 @@
 	{
 		"id": "112",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_112.png",
+			"src-1x": "/images/70px-Icon_Servant_112.png",
+			"src-1.5x": "/images/105px-Icon_Servant_112.png",
+			"src-2x": "/images/Icon_Servant_112.png",
 			"title": "酒呑童子"
 		},
 		"name": {
 			"en": "Shuten-Douji",
 			"jp": "酒呑童子"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1853,
@@ -5222,14 +6482,21 @@
 	{
 		"id": "111",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_111.png",
+			"src-1x": "/images/70px-Icon_Servant_111.png",
+			"src-1.5x": "/images/105px-Icon_Servant_111.png",
+			"src-2x": "/images/Icon_Servant_111.png",
 			"title": "アイリスフィール〔天の衣〕"
 		},
 		"name": {
 			"en": "Irisviel (Holy Grail)",
 			"jp": "アイリスフィール〔天の衣〕"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1372,
@@ -5251,14 +6518,21 @@
 	{
 		"id": "110",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_110.png",
+			"src-1x": "/images/70px-Icon_Servant_110.png",
+			"src-1.5x": "/images/105px-Icon_Servant_110.png",
+			"src-2x": "/images/Icon_Servant_110.png",
 			"title": "百貌のハサン"
 		},
 		"name": {
 			"en": "Hassan of the Hundred Personas",
 			"jp": "百貌のハサン"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Silver.png",
+			"src-2x": "/images/Icon_Class_Assassin_Silver.png",
+			"title": "Assassin"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1241,
@@ -5280,14 +6554,21 @@
 	{
 		"id": "109",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_109.png",
+			"src-1x": "/images/70px-Icon_Servant_109.png",
+			"src-1.5x": "/images/105px-Icon_Servant_109.png",
+			"src-2x": "/images/Icon_Servant_109.png",
 			"title": "エミヤ〔アサシン〕"
 		},
 		"name": {
 			"en": "Emiya (Assassin)",
 			"jp": "エミヤ〔アサシン〕"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1493,
@@ -5309,14 +6590,21 @@
 	{
 		"id": "108",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_108.png",
+			"src-1x": "/images/70px-Icon_Servant_108.png",
+			"src-1.5x": "/images/105px-Icon_Servant_108.png",
+			"src-2x": "/images/Icon_Servant_108.png",
 			"title": "イスカンダル"
 		},
 		"name": {
 			"en": "Iskandar",
 			"jp": "イスカンダル"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1786,
@@ -5338,14 +6626,21 @@
 	{
 		"id": "107",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_107.png",
+			"src-1x": "/images/70px-Icon_Servant_107.png",
+			"src-1.5x": "/images/105px-Icon_Servant_107.png",
+			"src-2x": "/images/Icon_Servant_107.png",
 			"title": "アンリマユ"
 		},
 		"name": {
 			"en": "Aŋra Mainiiu",
 			"jp": "アンリマユ"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_.png",
+			"src-1.5x": "/images/60px-Icon_Class_Avenger_.png",
+			"src-2x": "/images/Icon_Class_Avenger_.png",
+			"title": "Avenger"
+		},
 		"rarity": 0,
 		"attack": {
 			"min": 1008,
@@ -5367,14 +6662,21 @@
 	{
 		"id": "106",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_106.png",
+			"src-1x": "/images/70px-Icon_Servant_106.png",
+			"src-1.5x": "/images/105px-Icon_Servant_106.png",
+			"src-2x": "/images/Icon_Servant_106.png",
 			"title": "ジャンヌ・ダルク [オルタ]"
 		},
 		"name": {
 			"en": "Jeanne d'Arc (Alter)",
 			"jp": "ジャンヌ・ダルク [オルタ]"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Avenger_Gold.png",
+			"src-2x": "/images/Icon_Class_Avenger_Gold.png",
+			"title": "Avenger"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 2046,
@@ -5396,14 +6698,21 @@
 	{
 		"id": "105",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_105.png",
+			"src-1x": "/images/70px-Icon_Servant_105.png",
+			"src-1.5x": "/images/105px-Icon_Servant_105.png",
+			"src-2x": "/images/Icon_Servant_105.png",
 			"title": "ビリー・ザ・キッド"
 		},
 		"name": {
 			"en": "Billy the Kid",
 			"jp": "ビリー・ザ・キッド"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Silver.png",
+			"src-2x": "/images/Icon_Class_Archer_Silver.png",
+			"title": "Archer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1279,
@@ -5425,14 +6734,21 @@
 	{
 		"id": "104",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_104.png",
+			"src-1x": "/images/70px-Icon_Servant_104.png",
+			"src-1.5x": "/images/105px-Icon_Servant_104.png",
+			"src-2x": "/images/Icon_Servant_104.png",
 			"title": "ジェロニモ"
 		},
 		"name": {
 			"en": "Geronimo",
 			"jp": "ジェロニモ"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1273,
@@ -5454,14 +6770,21 @@
 	{
 		"id": "103",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_103.png",
+			"src-1x": "/images/70px-Icon_Servant_103.png",
+			"src-1.5x": "/images/105px-Icon_Servant_103.png",
+			"src-2x": "/images/Icon_Servant_103.png",
 			"title": "トーマス・エジソン"
 		},
 		"name": {
 			"en": "Thomas Edison",
 			"jp": "トーマス・エジソン"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1325,
@@ -5483,14 +6806,21 @@
 	{
 		"id": "102",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_102.png",
+			"src-1x": "/images/70px-Icon_Servant_102.png",
+			"src-1.5x": "/images/105px-Icon_Servant_102.png",
+			"src-2x": "/images/Icon_Servant_102.png",
 			"title": "神槍 李書文"
 		},
 		"name": {
 			"en": "Li Shuwen",
 			"jp": "神槍 李書文"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1608,
@@ -5512,14 +6842,21 @@
 	{
 		"id": "101",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_101.png",
+			"src-1x": "/images/70px-Icon_Servant_101.png",
+			"src-1.5x": "/images/105px-Icon_Servant_101.png",
+			"src-2x": "/images/Icon_Servant_101.png",
 			"title": "ラーマ"
 		},
 		"name": {
 			"en": "Rama",
 			"jp": "ラーマ"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1642,
@@ -5541,14 +6878,21 @@
 	{
 		"id": "100",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_100.png",
+			"src-1x": "/images/70px-Icon_Servant_100.png",
+			"src-1.5x": "/images/105px-Icon_Servant_100.png",
+			"src-2x": "/images/Icon_Servant_100.png",
 			"title": "エレナ・ブラヴァツキー"
 		},
 		"name": {
 			"en": "Helena Blavatsky",
 			"jp": "エレナ・ブラヴァツキー"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1438,
@@ -5570,14 +6914,21 @@
 	{
 		"id": "099",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_099.png",
+			"src-1x": "/images/70px-Icon_Servant_099.png",
+			"src-1.5x": "/images/105px-Icon_Servant_099.png",
+			"src-2x": "/images/Icon_Servant_099.png",
 			"title": "女王メイヴ"
 		},
 		"name": {
 			"en": "Queen Medb",
 			"jp": "女王メイヴ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1591,
@@ -5599,14 +6950,21 @@
 	{
 		"id": "098",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_098.png",
+			"src-1x": "/images/70px-Icon_Servant_098.png",
+			"src-1.5x": "/images/105px-Icon_Servant_098.png",
+			"src-2x": "/images/Icon_Servant_098.png",
 			"title": "クー・フーリン〔オルタ〕"
 		},
 		"name": {
 			"en": "Cú Chulainn (Alter)",
 			"jp": "クー・フーリン〔オルタ〕"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1979,
@@ -5628,14 +6986,21 @@
 	{
 		"id": "097",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_097.png",
+			"src-1x": "/images/70px-Icon_Servant_097.png",
+			"src-1.5x": "/images/105px-Icon_Servant_097.png",
+			"src-2x": "/images/Icon_Servant_097.png",
 			"title": "ナイチンゲール"
 		},
 		"name": {
 			"en": "Florence Nightingale",
 			"jp": "ナイチンゲール"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1573,
@@ -5657,14 +7022,21 @@
 	{
 		"id": "096",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_096.png",
+			"src-1x": "/images/70px-Icon_Servant_096.png",
+			"src-1.5x": "/images/105px-Icon_Servant_096.png",
+			"src-2x": "/images/Icon_Servant_096.png",
 			"title": "巌窟王 エドモン・ダンテス"
 		},
 		"name": {
 			"en": "Edmond Dantès",
 			"jp": "巌窟王 エドモン・ダンテス"
 		},
-		"class": "Avenger",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Avenger_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Avenger_Gold.png",
+			"src-2x": "/images/Icon_Class_Avenger_Gold.png",
+			"title": "Avenger"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1953,
@@ -5686,14 +7058,21 @@
 	{
 		"id": "095",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_095.png",
+			"src-1x": "/images/70px-Icon_Servant_095.png",
+			"src-1.5x": "/images/105px-Icon_Servant_095.png",
+			"src-2x": "/images/Icon_Servant_095.png",
 			"title": "子ギル"
 		},
 		"name": {
 			"en": "Gilgamesh (Child)",
 			"jp": "子ギル"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Silver.png",
+			"src-2x": "/images/Icon_Class_Archer_Silver.png",
+			"title": "Archer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1429,
@@ -5715,14 +7094,21 @@
 	{
 		"id": "094",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_094.png",
+			"src-1x": "/images/70px-Icon_Servant_094.png",
+			"src-1.5x": "/images/105px-Icon_Servant_094.png",
+			"src-2x": "/images/Icon_Servant_094.png",
 			"title": "アストルフォ"
 		},
 		"name": {
 			"en": "Astolfo",
 			"jp": "アストルフォ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1489,
@@ -5744,14 +7130,21 @@
 	{
 		"id": "093",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_093.png",
+			"src-1x": "/images/70px-Icon_Servant_093.png",
+			"src-1.5x": "/images/105px-Icon_Servant_093.png",
+			"src-2x": "/images/Icon_Servant_093.png",
 			"title": "天草四郎"
 		},
 		"name": {
 			"en": "Amakusa Shirou",
 			"jp": "天草四郎"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1695,
@@ -5773,14 +7166,21 @@
 	{
 		"id": "092",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_092.png",
+			"src-1x": "/images/70px-Icon_Servant_092.png",
+			"src-1.5x": "/images/105px-Icon_Servant_092.png",
+			"src-2x": "/images/Icon_Servant_092.png",
 			"title": "両儀式〔アサシン〕"
 		},
 		"name": {
 			"en": "Ryougi Shiki (Assassin)",
 			"jp": "両儀式〔アサシン〕"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1477,
@@ -5802,14 +7202,21 @@
 	{
 		"id": "091",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_091.png",
+			"src-1x": "/images/70px-Icon_Servant_091.png",
+			"src-1.5x": "/images/105px-Icon_Servant_091.png",
+			"src-2x": "/images/Icon_Servant_091.png",
 			"title": "両儀式〔セイバー〕"
 		},
 		"name": {
 			"en": "Ryougi Shiki (Saber)",
 			"jp": "両儀式〔セイバー〕"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1656,
@@ -5831,14 +7238,21 @@
 	{
 		"id": "090",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_090.png",
+			"src-1x": "/images/70px-Icon_Servant_090.png",
+			"src-1.5x": "/images/105px-Icon_Servant_090.png",
+			"src-2x": "/images/Icon_Servant_090.png",
 			"title": "ネロ・クラウディウス (ブライド)"
 		},
 		"name": {
 			"en": "Nero Claudius (Bride)",
 			"jp": "ネロ・クラウディウス (ブライド)"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1793,
@@ -5860,14 +7274,21 @@
 	{
 		"id": "089",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_089.png",
+			"src-1x": "/images/70px-Icon_Servant_089.png",
+			"src-1.5x": "/images/105px-Icon_Servant_089.png",
+			"src-2x": "/images/Icon_Servant_089.png",
 			"title": "ベオウルフ"
 		},
 		"name": {
 			"en": "Beowulf",
 			"jp": "ベオウルフ"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1707,
@@ -5889,14 +7310,21 @@
 	{
 		"id": "088",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_088.png",
+			"src-1x": "/images/70px-Icon_Servant_088.png",
+			"src-1.5x": "/images/105px-Icon_Servant_088.png",
+			"src-2x": "/images/Icon_Servant_088.png",
 			"title": "ブリュンヒルデ"
 		},
 		"name": {
 			"en": "Brynhild",
 			"jp": "ブリュンヒルデ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1766,
@@ -5918,14 +7346,21 @@
 	{
 		"id": "087",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_087.png",
+			"src-1x": "/images/70px-Icon_Servant_087.png",
+			"src-1.5x": "/images/105px-Icon_Servant_087.png",
+			"src-2x": "/images/Icon_Servant_087.png",
 			"title": "フィン・マックール"
 		},
 		"name": {
 			"en": "Fionn mac Cumhaill",
 			"jp": "フィン・マックール"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1488,
@@ -5947,14 +7382,21 @@
 	{
 		"id": "086",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_086.png",
+			"src-1x": "/images/70px-Icon_Servant_086.png",
+			"src-1.5x": "/images/105px-Icon_Servant_086.png",
+			"src-2x": "/images/Icon_Servant_086.png",
 			"title": "謎のヒロインX"
 		},
 		"name": {
 			"en": "Mysterious Heroine X",
 			"jp": "謎のヒロインX"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1817,
@@ -5976,14 +7418,21 @@
 	{
 		"id": "085",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_085.png",
+			"src-1x": "/images/70px-Icon_Servant_085.png",
+			"src-1.5x": "/images/105px-Icon_Servant_085.png",
+			"src-2x": "/images/Icon_Servant_085.png",
 			"title": "カルナ"
 		},
 		"name": {
 			"en": "Karna",
 			"jp": "カルナ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1850,
@@ -6005,14 +7454,21 @@
 	{
 		"id": "084",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_084.png",
+			"src-1x": "/images/70px-Icon_Servant_084.png",
+			"src-1.5x": "/images/105px-Icon_Servant_084.png",
+			"src-2x": "/images/Icon_Servant_084.png",
 			"title": "アルジュナ"
 		},
 		"name": {
 			"en": "Arjuna",
 			"jp": "アルジュナ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1907,
@@ -6034,14 +7490,21 @@
 	{
 		"id": "083",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_083.png",
+			"src-1x": "/images/70px-Icon_Servant_083.png",
+			"src-1.5x": "/images/105px-Icon_Servant_083.png",
+			"src-2x": "/images/Icon_Servant_083.png",
 			"title": "ソロモン"
 		},
 		"name": {
 			"en": "Solomon",
 			"jp": "ソロモン"
 		},
-		"class": "Unknown",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Unknown_Gold.png",
+			"src-1.5x": "/images/Icon_Class_Unknown_Gold.png",
+			"src-2x": "/images/Icon_Class_Unknown_Gold.png",
+			"title": "Unknown"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1645,
@@ -6063,14 +7526,21 @@
 	{
 		"id": "082",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_082.png",
+			"src-1x": "/images/70px-Icon_Servant_082.png",
+			"src-1.5x": "/images/105px-Icon_Servant_082.png",
+			"src-2x": "/images/Icon_Servant_082.png",
 			"title": "フランケンシュタイン"
 		},
 		"name": {
 			"en": "Frankenstein",
 			"jp": "フランケンシュタイン"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1573,
@@ -6092,14 +7562,21 @@
 	{
 		"id": "081",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_081.png",
+			"src-1x": "/images/70px-Icon_Servant_081.png",
+			"src-1.5x": "/images/105px-Icon_Servant_081.png",
+			"src-2x": "/images/Icon_Servant_081.png",
 			"title": "ヘンリー・ジキル＆ハイド"
 		},
 		"name": {
 			"en": "Henry Jekyll \u0026 Hyde",
 			"jp": "ヘンリー・ジキル＆ハイド"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Silver.png",
+			"src-2x": "/images/Icon_Class_Assassin_Silver.png",
+			"title": "Assassin"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1173,
@@ -6121,14 +7598,21 @@
 	{
 		"id": "080",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_080.png",
+			"src-1x": "/images/70px-Icon_Servant_080.png",
+			"src-1.5x": "/images/105px-Icon_Servant_080.png",
+			"src-2x": "/images/Icon_Servant_080.png",
 			"title": "チャールズ・バベッジ"
 		},
 		"name": {
 			"en": "Charles Babbage",
 			"jp": "チャールズ・バベッジ"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1113,
@@ -6150,14 +7634,21 @@
 	{
 		"id": "079",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_079.png",
+			"src-1x": "/images/70px-Icon_Servant_079.png",
+			"src-1.5x": "/images/105px-Icon_Servant_079.png",
+			"src-2x": "/images/Icon_Servant_079.png",
 			"title": "ヴァン・ホーエンハイム・パラケルスス"
 		},
 		"name": {
 			"en": "Paracelsus von Hohenheim",
 			"jp": "ヴァン・ホーエンハイム・パラケルスス"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1246,
@@ -6179,14 +7670,21 @@
 	{
 		"id": "078",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_078.png",
+			"src-1x": "/images/70px-Icon_Servant_078.png",
+			"src-1.5x": "/images/105px-Icon_Servant_078.png",
+			"src-2x": "/images/Icon_Servant_078.png",
 			"title": "アルトリア・ペンドラゴン〔オルタ〕"
 		},
 		"name": {
 			"en": "Altria Pendragon (Lancer Alter)",
 			"jp": "アルトリア・ペンドラゴン〔オルタ〕"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1661,
@@ -6208,14 +7706,21 @@
 	{
 		"id": "077",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_077.png",
+			"src-1x": "/images/70px-Icon_Servant_077.png",
+			"src-1.5x": "/images/105px-Icon_Servant_077.png",
+			"src-2x": "/images/Icon_Servant_077.png",
 			"title": "ニコラ・テスラ"
 		},
 		"name": {
 			"en": "Nikola Tesla",
 			"jp": "ニコラ・テスラ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1820,
@@ -6237,14 +7742,21 @@
 	{
 		"id": "076",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_076.png",
+			"src-1x": "/images/70px-Icon_Servant_076.png",
+			"src-1.5x": "/images/105px-Icon_Servant_076.png",
+			"src-2x": "/images/Icon_Servant_076.png",
 			"title": "モードレッド"
 		},
 		"name": {
 			"en": "Mordred",
 			"jp": "モードレッド"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1811,
@@ -6266,14 +7778,21 @@
 	{
 		"id": "075",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_075.png",
+			"src-1x": "/images/70px-Icon_Servant_075.png",
+			"src-1.5x": "/images/105px-Icon_Servant_075.png",
+			"src-2x": "/images/Icon_Servant_075.png",
 			"title": "ジャック・ザ・リッパー"
 		},
 		"name": {
 			"en": "Jack the Ripper",
 			"jp": "ジャック・ザ・リッパー"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1786,
@@ -6295,14 +7814,21 @@
 	{
 		"id": "074",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_074.png",
+			"src-1x": "/images/70px-Icon_Servant_074.png",
+			"src-1.5x": "/images/105px-Icon_Servant_074.png",
+			"src-2x": "/images/Icon_Servant_074.png",
 			"title": "ナーサリー・ライム"
 		},
 		"name": {
 			"en": "Nursery Rhyme",
 			"jp": "ナーサリー・ライム"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1438,
@@ -6324,14 +7850,21 @@
 	{
 		"id": "073",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_073.png",
+			"src-1x": "/images/70px-Icon_Servant_073.png",
+			"src-1.5x": "/images/105px-Icon_Servant_073.png",
+			"src-2x": "/images/Icon_Servant_073.png",
 			"title": "アルトリア・ペンドラゴン［サンタオルタ］"
 		},
 		"name": {
 			"en": "Altria Pendragon (Santa Alter)",
 			"jp": "アルトリア・ペンドラゴン［サンタオルタ］"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1543,
@@ -6353,14 +7886,21 @@
 	{
 		"id": "072",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_072.png",
+			"src-1x": "/images/70px-Icon_Servant_072.png",
+			"src-1.5x": "/images/105px-Icon_Servant_072.png",
+			"src-2x": "/images/Icon_Servant_072.png",
 			"title": "フェルグス・マック・ロイ"
 		},
 		"name": {
 			"en": "Fergus mac Róich",
 			"jp": "フェルグス・マック・ロイ"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Silver.png",
+			"src-2x": "/images/Icon_Class_Saber_Silver.png",
+			"title": "Saber"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1385,
@@ -6382,14 +7922,21 @@
 	{
 		"id": "071",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_071.png",
+			"src-1x": "/images/70px-Icon_Servant_071.png",
+			"src-1.5x": "/images/105px-Icon_Servant_071.png",
+			"src-2x": "/images/Icon_Servant_071.png",
 			"title": "ディルムッド・オディナ"
 		},
 		"name": {
 			"en": "Diarmuid Ua Duibhne",
 			"jp": "ディルムッド・オディナ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Silver.png",
+			"src-2x": "/images/Icon_Class_Lancer_Silver.png",
+			"title": "Lancer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1277,
@@ -6411,14 +7958,21 @@
 	{
 		"id": "070",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_070.png",
+			"src-1x": "/images/70px-Icon_Servant_070.png",
+			"src-1.5x": "/images/105px-Icon_Servant_070.png",
+			"src-2x": "/images/Icon_Servant_070.png",
 			"title": "スカサハ"
 		},
 		"name": {
 			"en": "Scáthach",
 			"jp": "スカサハ"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1758,
@@ -6440,14 +7994,21 @@
 	{
 		"id": "069",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_069.png",
+			"src-1x": "/images/70px-Icon_Servant_069.png",
+			"src-1.5x": "/images/105px-Icon_Servant_069.png",
+			"src-2x": "/images/Icon_Servant_069.png",
 			"title": "織田信長"
 		},
 		"name": {
 			"en": "Oda Nobunaga",
 			"jp": "織田信長"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1862,
@@ -6469,14 +8030,21 @@
 	{
 		"id": "068",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_068.png",
+			"src-1x": "/images/70px-Icon_Servant_068.png",
+			"src-1.5x": "/images/105px-Icon_Servant_068.png",
+			"src-2x": "/images/Icon_Servant_068.png",
 			"title": "沖田総司"
 		},
 		"name": {
 			"en": "Okita Souji",
 			"jp": "沖田総司"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1865,
@@ -6498,14 +8066,21 @@
 	{
 		"id": "067",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_067.png",
+			"src-1x": "/images/70px-Icon_Servant_067.png",
+			"src-1.5x": "/images/105px-Icon_Servant_067.png",
+			"src-2x": "/images/Icon_Servant_067.png",
 			"title": "メディア［リリィ］"
 		},
 		"name": {
 			"en": "Medea (Lily)",
 			"jp": "メディア［リリィ］"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1294,
@@ -6527,14 +8102,21 @@
 	{
 		"id": "066",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_066.png",
+			"src-1x": "/images/70px-Icon_Servant_066.png",
+			"src-1.5x": "/images/105px-Icon_Servant_066.png",
+			"src-2x": "/images/Icon_Servant_066.png",
 			"title": "アン・ボニー\u0026メアリー・リード"
 		},
 		"name": {
 			"en": "Anne Bonny \u0026 Mary Read",
 			"jp": "アン・ボニー\u0026メアリー・リード"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1504,
@@ -6556,14 +8138,21 @@
 	{
 		"id": "065",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_065.png",
+			"src-1x": "/images/70px-Icon_Servant_065.png",
+			"src-1.5x": "/images/105px-Icon_Servant_065.png",
+			"src-2x": "/images/Icon_Servant_065.png",
 			"title": "フランシス・ドレイク"
 		},
 		"name": {
 			"en": "Francis Drake",
 			"jp": "フランシス・ドレイク"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1750,
@@ -6585,14 +8174,21 @@
 	{
 		"id": "064",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_064.png",
+			"src-1x": "/images/70px-Icon_Servant_064.png",
+			"src-1.5x": "/images/105px-Icon_Servant_064.png",
+			"src-2x": "/images/Icon_Servant_064.png",
 			"title": "ヘクトール"
 		},
 		"name": {
 			"en": "Hektor",
 			"jp": "ヘクトール"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Silver.png",
+			"src-2x": "/images/Icon_Class_Lancer_Silver.png",
+			"title": "Lancer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1334,
@@ -6614,14 +8210,21 @@
 	{
 		"id": "063",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_063.png",
+			"src-1x": "/images/70px-Icon_Servant_063.png",
+			"src-1.5x": "/images/105px-Icon_Servant_063.png",
+			"src-2x": "/images/Icon_Servant_063.png",
 			"title": "ダビデ"
 		},
 		"name": {
 			"en": "David",
 			"jp": "ダビデ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Silver.png",
+			"src-2x": "/images/Icon_Class_Archer_Silver.png",
+			"title": "Archer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1436,
@@ -6643,14 +8246,21 @@
 	{
 		"id": "062",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_062.png",
+			"src-1x": "/images/70px-Icon_Servant_062.png",
+			"src-1.5x": "/images/105px-Icon_Servant_062.png",
+			"src-2x": "/images/Icon_Servant_062.png",
 			"title": "玉藻の前"
 		},
 		"name": {
 			"en": "Tamamo-no-Mae",
 			"jp": "玉藻の前"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1629,
@@ -6672,14 +8282,21 @@
 	{
 		"id": "061",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_061.png",
+			"src-1x": "/images/70px-Icon_Servant_061.png",
+			"src-1.5x": "/images/105px-Icon_Servant_061.png",
+			"src-2x": "/images/Icon_Servant_061.png",
 			"title": "エリザベート・バートリー[ハロウィン]"
 		},
 		"name": {
 			"en": "Elisabeth Báthory (Halloween)",
 			"jp": "エリザベート・バートリー[ハロウィン]"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1436,
@@ -6701,14 +8318,21 @@
 	{
 		"id": "060",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_060.png",
+			"src-1x": "/images/70px-Icon_Servant_060.png",
+			"src-1.5x": "/images/105px-Icon_Servant_060.png",
+			"src-2x": "/images/Icon_Servant_060.png",
 			"title": "オリオン"
 		},
 		"name": {
 			"en": "Orion",
 			"jp": "オリオン"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1716,
@@ -6730,14 +8354,21 @@
 	{
 		"id": "059",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_059.png",
+			"src-1x": "/images/70px-Icon_Servant_059.png",
+			"src-1.5x": "/images/105px-Icon_Servant_059.png",
+			"src-2x": "/images/Icon_Servant_059.png",
 			"title": "ジャンヌ・ダルク"
 		},
 		"name": {
 			"en": "Jeanne d'Arc",
 			"jp": "ジャンヌ・ダルク"
 		},
-		"class": "Ruler",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Ruler_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Ruler_Gold.png",
+			"src-2x": "/images/Icon_Class_Ruler_Gold.png",
+			"title": "Ruler"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1482,
@@ -6759,14 +8390,21 @@
 	{
 		"id": "058",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_058.png",
+			"src-1x": "/images/70px-Icon_Servant_058.png",
+			"src-1.5x": "/images/105px-Icon_Servant_058.png",
+			"src-2x": "/images/Icon_Servant_058.png",
 			"title": "タマモキャット"
 		},
 		"name": {
 			"en": "Tamamo Cat",
 			"jp": "タマモキャット"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1504,
@@ -6788,14 +8426,21 @@
 	{
 		"id": "057",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_057.png",
+			"src-1x": "/images/70px-Icon_Servant_057.png",
+			"src-1.5x": "/images/105px-Icon_Servant_057.png",
+			"src-2x": "/images/Icon_Servant_057.png",
 			"title": "エイリーク・ブラッドアクス"
 		},
 		"name": {
 			"en": "Eric Bloodaxe",
 			"jp": "エイリーク・ブラッドアクス"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Bronze.png",
+			"src-2x": "/images/Icon_Class_Berserker_Bronze.png",
+			"title": "Berserker"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1116,
@@ -6817,14 +8462,21 @@
 	{
 		"id": "056",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_056.png",
+			"src-1x": "/images/70px-Icon_Servant_056.png",
+			"src-1.5x": "/images/105px-Icon_Servant_056.png",
+			"src-2x": "/images/Icon_Servant_056.png",
 			"title": "清姫"
 		},
 		"name": {
 			"en": "Kiyohime",
 			"jp": "清姫"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Silver.png",
+			"src-2x": "/images/Icon_Class_Berserker_Silver.png",
+			"title": "Berserker"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1233,
@@ -6846,14 +8498,21 @@
 	{
 		"id": "055",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_055.png",
+			"src-1x": "/images/70px-Icon_Servant_055.png",
+			"src-1.5x": "/images/105px-Icon_Servant_055.png",
+			"src-2x": "/images/Icon_Servant_055.png",
 			"title": "ダレイオス三世"
 		},
 		"name": {
 			"en": "Darius III",
 			"jp": "ダレイオス三世"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Silver.png",
+			"src-2x": "/images/Icon_Class_Berserker_Silver.png",
+			"title": "Berserker"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1412,
@@ -6875,14 +8534,21 @@
 	{
 		"id": "054",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_054.png",
+			"src-1x": "/images/70px-Icon_Servant_054.png",
+			"src-1.5x": "/images/105px-Icon_Servant_054.png",
+			"src-2x": "/images/Icon_Servant_054.png",
 			"title": "カリギュラ"
 		},
 		"name": {
 			"en": "Caligula",
 			"jp": "カリギュラ"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Bronze.png",
+			"src-2x": "/images/Icon_Class_Berserker_Bronze.png",
+			"title": "Berserker"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1374,
@@ -6904,14 +8570,21 @@
 	{
 		"id": "053",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_053.png",
+			"src-1x": "/images/70px-Icon_Servant_053.png",
+			"src-1.5x": "/images/105px-Icon_Servant_053.png",
+			"src-2x": "/images/Icon_Servant_053.png",
 			"title": "アステリオス"
 		},
 		"name": {
 			"en": "Asterios",
 			"jp": "アステリオス"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Bronze.png",
+			"src-2x": "/images/Icon_Class_Berserker_Bronze.png",
+			"title": "Berserker"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 1097,
@@ -6933,14 +8606,21 @@
 	{
 		"id": "052",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_052.png",
+			"src-1x": "/images/70px-Icon_Servant_052.png",
+			"src-1.5x": "/images/105px-Icon_Servant_052.png",
+			"src-2x": "/images/Icon_Servant_052.png",
 			"title": "ヴラド三世"
 		},
 		"name": {
 			"en": "Vlad III",
 			"jp": "ヴラド三世"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1777,
@@ -6962,14 +8642,21 @@
 	{
 		"id": "051",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_051.png",
+			"src-1x": "/images/70px-Icon_Servant_051.png",
+			"src-1.5x": "/images/105px-Icon_Servant_051.png",
+			"src-2x": "/images/Icon_Servant_051.png",
 			"title": "坂田金時"
 		},
 		"name": {
 			"en": "Sakata Kintoki",
 			"jp": "坂田金時"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1964,
@@ -6991,14 +8678,21 @@
 	{
 		"id": "050",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_050.png",
+			"src-1x": "/images/70px-Icon_Servant_050.png",
+			"src-1.5x": "/images/105px-Icon_Servant_050.png",
+			"src-2x": "/images/Icon_Servant_050.png",
 			"title": "スパルタクス"
 		},
 		"name": {
 			"en": "Spartacus",
 			"jp": "スパルタクス"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Bronze.png",
+			"src-2x": "/images/Icon_Class_Berserker_Bronze.png",
+			"title": "Berserker"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 922,
@@ -7020,14 +8714,21 @@
 	{
 		"id": "049",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_049.png",
+			"src-1x": "/images/70px-Icon_Servant_049.png",
+			"src-1.5x": "/images/105px-Icon_Servant_049.png",
+			"src-2x": "/images/Icon_Servant_049.png",
 			"title": "呂布奉先"
 		},
 		"name": {
 			"en": "Lu Bu Fengxian",
 			"jp": "呂布奉先"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Silver.png",
+			"src-2x": "/images/Icon_Class_Berserker_Silver.png",
+			"title": "Berserker"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1507,
@@ -7049,14 +8750,21 @@
 	{
 		"id": "048",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_048.png",
+			"src-1x": "/images/70px-Icon_Servant_048.png",
+			"src-1.5x": "/images/105px-Icon_Servant_048.png",
+			"src-2x": "/images/Icon_Servant_048.png",
 			"title": "ランスロット"
 		},
 		"name": {
 			"en": "Lancelot",
 			"jp": "ランスロット"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1746,
@@ -7078,14 +8786,21 @@
 	{
 		"id": "047",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_047.png",
+			"src-1x": "/images/70px-Icon_Servant_047.png",
+			"src-1.5x": "/images/105px-Icon_Servant_047.png",
+			"src-2x": "/images/Icon_Servant_047.png",
 			"title": "ヘラクレス"
 		},
 		"name": {
 			"en": "Heracles",
 			"jp": "ヘラクレス"
 		},
-		"class": "Berserker",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Berserker_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Berserker_Gold.png",
+			"src-2x": "/images/Icon_Class_Berserker_Gold.png",
+			"title": "Berserker"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1775,
@@ -7107,14 +8822,21 @@
 	{
 		"id": "046",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_046.png",
+			"src-1x": "/images/70px-Icon_Servant_046.png",
+			"src-1.5x": "/images/105px-Icon_Servant_046.png",
+			"src-2x": "/images/Icon_Servant_046.png",
 			"title": "カーミラ"
 		},
 		"name": {
 			"en": "Carmilla",
 			"jp": "カーミラ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1568,
@@ -7136,14 +8858,21 @@
 	{
 		"id": "045",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_045.png",
+			"src-1x": "/images/70px-Icon_Servant_045.png",
+			"src-1.5x": "/images/105px-Icon_Servant_045.png",
+			"src-2x": "/images/Icon_Servant_045.png",
 			"title": "マタ・ハリ"
 		},
 		"name": {
 			"en": "Mata Hari",
 			"jp": "マタ・ハリ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Bronze.png",
+			"src-2x": "/images/Icon_Class_Assassin_Bronze.png",
+			"title": "Assassin"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 977,
@@ -7165,14 +8894,21 @@
 	{
 		"id": "044",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_044.png",
+			"src-1x": "/images/70px-Icon_Servant_044.png",
+			"src-1.5x": "/images/105px-Icon_Servant_044.png",
+			"src-2x": "/images/Icon_Servant_044.png",
 			"title": "ファントム・オブ・ジ・オペラ"
 		},
 		"name": {
 			"en": "Phantom of the Opera",
 			"jp": "ファントム・オブ・ジ・オペラ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Bronze.png",
+			"src-2x": "/images/Icon_Class_Assassin_Bronze.png",
+			"title": "Assassin"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1003,
@@ -7194,14 +8930,21 @@
 	{
 		"id": "043",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_043.png",
+			"src-1x": "/images/70px-Icon_Servant_043.png",
+			"src-1.5x": "/images/105px-Icon_Servant_043.png",
+			"src-2x": "/images/Icon_Servant_043.png",
 			"title": "シャルル＝アンリ・サンソン"
 		},
 		"name": {
 			"en": "Charles-Henri Sanson",
 			"jp": "シャルル＝アンリ・サンソン"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Bronze.png",
+			"src-2x": "/images/Icon_Class_Assassin_Bronze.png",
+			"title": "Assassin"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 968,
@@ -7223,14 +8966,21 @@
 	{
 		"id": "042",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_042.png",
+			"src-1x": "/images/70px-Icon_Servant_042.png",
+			"src-1.5x": "/images/105px-Icon_Servant_042.png",
+			"src-2x": "/images/Icon_Servant_042.png",
 			"title": "荊軻"
 		},
 		"name": {
 			"en": "Jing Ke",
 			"jp": "荊軻"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Silver.png",
+			"src-2x": "/images/Icon_Class_Assassin_Silver.png",
+			"title": "Assassin"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1338,
@@ -7252,14 +9002,21 @@
 	{
 		"id": "041",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_041.png",
+			"src-1x": "/images/70px-Icon_Servant_041.png",
+			"src-1.5x": "/images/105px-Icon_Servant_041.png",
+			"src-2x": "/images/Icon_Servant_041.png",
 			"title": "ステンノ"
 		},
 		"name": {
 			"en": "Stheno",
 			"jp": "ステンノ"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Gold.png",
+			"src-2x": "/images/Icon_Class_Assassin_Gold.png",
+			"title": "Assassin"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1497,
@@ -7281,14 +9038,21 @@
 	{
 		"id": "040",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_040.png",
+			"src-1x": "/images/70px-Icon_Servant_040.png",
+			"src-1.5x": "/images/105px-Icon_Servant_040.png",
+			"src-2x": "/images/Icon_Servant_040.png",
 			"title": "呪腕のハサン"
 		},
 		"name": {
 			"en": "Hassan of the Cursed Arm",
 			"jp": "呪腕のハサン"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Bronze.png",
+			"src-2x": "/images/Icon_Class_Assassin_Bronze.png",
+			"title": "Assassin"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1114,
@@ -7310,14 +9074,21 @@
 	{
 		"id": "039",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_039.png",
+			"src-1x": "/images/70px-Icon_Servant_039.png",
+			"src-1.5x": "/images/105px-Icon_Servant_039.png",
+			"src-2x": "/images/Icon_Servant_039.png",
 			"title": "佐々木小次郎"
 		},
 		"name": {
 			"en": "Sasaki Kojirou",
 			"jp": "佐々木小次郎"
 		},
-		"class": "Assassin",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Assassin_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Assassin_Bronze.png",
+			"src-2x": "/images/Icon_Class_Assassin_Bronze.png",
+			"title": "Assassin"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 1042,
@@ -7339,14 +9110,21 @@
 	{
 		"id": "038",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_038.png",
+			"src-1x": "/images/70px-Icon_Servant_038.png",
+			"src-1.5x": "/images/105px-Icon_Servant_038.png",
+			"src-2x": "/images/Icon_Servant_038.png",
 			"title": "クー・フーリン"
 		},
 		"name": {
 			"en": "Cú Chulainn (Caster)",
 			"jp": "クー・フーリン"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1222,
@@ -7368,14 +9146,21 @@
 	{
 		"id": "037",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_037.png",
+			"src-1x": "/images/70px-Icon_Servant_037.png",
+			"src-1.5x": "/images/105px-Icon_Servant_037.png",
+			"src-2x": "/images/Icon_Servant_037.png",
 			"title": "諸葛孔明［エルメロイⅡ世］"
 		},
 		"name": {
 			"en": "Zhuge Liang (Lord El-Melloi II)",
 			"jp": "諸葛孔明［エルメロイⅡ世］"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Gold.png",
+			"src-2x": "/images/Icon_Class_Caster_Gold.png",
+			"title": "Caster"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1637,
@@ -7397,14 +9182,21 @@
 	{
 		"id": "036",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_036.png",
+			"src-1x": "/images/70px-Icon_Servant_036.png",
+			"src-1.5x": "/images/105px-Icon_Servant_036.png",
+			"src-2x": "/images/Icon_Servant_036.png",
 			"title": "ヴォルフガング・アマデウス・モーツァルト"
 		},
 		"name": {
 			"en": "Wolfgang Amadeus Mozart",
 			"jp": "ヴォルフガング・アマデウス・モーツァルト"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Bronze.png",
+			"src-2x": "/images/Icon_Class_Caster_Bronze.png",
+			"title": "Caster"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 944,
@@ -7426,14 +9218,21 @@
 	{
 		"id": "035",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_035.png",
+			"src-1x": "/images/70px-Icon_Servant_035.png",
+			"src-1.5x": "/images/105px-Icon_Servant_035.png",
+			"src-2x": "/images/Icon_Servant_035.png",
 			"title": "メフィストフェレス"
 		},
 		"name": {
 			"en": "Mephistopheles",
 			"jp": "メフィストフェレス"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1270,
@@ -7455,14 +9254,21 @@
 	{
 		"id": "034",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_034.png",
+			"src-1x": "/images/70px-Icon_Servant_034.png",
+			"src-1.5x": "/images/105px-Icon_Servant_034.png",
+			"src-2x": "/images/Icon_Servant_034.png",
 			"title": "ウィリアム・シェイクスピア"
 		},
 		"name": {
 			"en": "William Shakespeare",
 			"jp": "ウィリアム・シェイクスピア"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Bronze.png",
+			"src-2x": "/images/Icon_Class_Caster_Bronze.png",
+			"title": "Caster"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1028,
@@ -7484,14 +9290,21 @@
 	{
 		"id": "033",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_033.png",
+			"src-1x": "/images/70px-Icon_Servant_033.png",
+			"src-1.5x": "/images/105px-Icon_Servant_033.png",
+			"src-2x": "/images/Icon_Servant_033.png",
 			"title": "ハンス・クリスチャン・アンデルセン"
 		},
 		"name": {
 			"en": "Hans Christian Andersen",
 			"jp": "ハンス・クリスチャン・アンデルセン"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Bronze.png",
+			"src-2x": "/images/Icon_Class_Caster_Bronze.png",
+			"title": "Caster"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1021,
@@ -7513,14 +9326,21 @@
 	{
 		"id": "032",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_032.png",
+			"src-1x": "/images/70px-Icon_Servant_032.png",
+			"src-1.5x": "/images/105px-Icon_Servant_032.png",
+			"src-2x": "/images/Icon_Servant_032.png",
 			"title": "ジル・ド・レェ"
 		},
 		"name": {
 			"en": "Gilles de Rais (Caster)",
 			"jp": "ジル・ド・レェ"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1209,
@@ -7542,14 +9362,21 @@
 	{
 		"id": "031",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_031.png",
+			"src-1x": "/images/70px-Icon_Servant_031.png",
+			"src-1.5x": "/images/105px-Icon_Servant_031.png",
+			"src-2x": "/images/Icon_Servant_031.png",
 			"title": "メディア"
 		},
 		"name": {
 			"en": "Medea",
 			"jp": "メディア"
 		},
-		"class": "Caster",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Caster_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Caster_Silver.png",
+			"src-2x": "/images/Icon_Class_Caster_Silver.png",
+			"title": "Caster"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1377,
@@ -7571,14 +9398,21 @@
 	{
 		"id": "030",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_030.png",
+			"src-1x": "/images/70px-Icon_Servant_030.png",
+			"src-1.5x": "/images/105px-Icon_Servant_030.png",
+			"src-2x": "/images/Icon_Servant_030.png",
 			"title": "マルタ"
 		},
 		"name": {
 			"en": "Martha",
 			"jp": "マルタ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1335,
@@ -7600,14 +9434,21 @@
 	{
 		"id": "029",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_029.png",
+			"src-1x": "/images/70px-Icon_Servant_029.png",
+			"src-1.5x": "/images/105px-Icon_Servant_029.png",
+			"src-2x": "/images/Icon_Servant_029.png",
 			"title": "マリー・アントワネット"
 		},
 		"name": {
 			"en": "Marie Antoinette",
 			"jp": "マリー・アントワネット"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Gold.png",
+			"src-2x": "/images/Icon_Class_Rider_Gold.png",
+			"title": "Rider"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1382,
@@ -7629,14 +9470,21 @@
 	{
 		"id": "028",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_028.png",
+			"src-1x": "/images/70px-Icon_Servant_028.png",
+			"src-1.5x": "/images/105px-Icon_Servant_028.png",
+			"src-2x": "/images/Icon_Servant_028.png",
 			"title": "アレキサンダー"
 		},
 		"name": {
 			"en": "Alexander",
 			"jp": "アレキサンダー"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Silver.png",
+			"src-2x": "/images/Icon_Class_Rider_Silver.png",
+			"title": "Rider"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1366,
@@ -7658,14 +9506,21 @@
 	{
 		"id": "027",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_027.png",
+			"src-1x": "/images/70px-Icon_Servant_027.png",
+			"src-1.5x": "/images/105px-Icon_Servant_027.png",
+			"src-2x": "/images/Icon_Servant_027.png",
 			"title": "牛若丸"
 		},
 		"name": {
 			"en": "Ushiwakamaru",
 			"jp": "牛若丸"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Silver.png",
+			"src-2x": "/images/Icon_Class_Rider_Silver.png",
+			"title": "Rider"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1314,
@@ -7687,14 +9542,21 @@
 	{
 		"id": "026",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_026.png",
+			"src-1x": "/images/70px-Icon_Servant_026.png",
+			"src-1.5x": "/images/105px-Icon_Servant_026.png",
+			"src-2x": "/images/Icon_Servant_026.png",
 			"title": "ブーディカ"
 		},
 		"name": {
 			"en": "Boudica",
 			"jp": "ブーディカ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Silver.png",
+			"src-2x": "/images/Icon_Class_Rider_Silver.png",
+			"title": "Rider"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1168,
@@ -7716,14 +9578,21 @@
 	{
 		"id": "025",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_025.png",
+			"src-1x": "/images/70px-Icon_Servant_025.png",
+			"src-1.5x": "/images/105px-Icon_Servant_025.png",
+			"src-2x": "/images/Icon_Servant_025.png",
 			"title": "エドワード・ティーチ"
 		},
 		"name": {
 			"en": "Edward Teach",
 			"jp": "エドワード・ティーチ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Bronze.png",
+			"src-2x": "/images/Icon_Class_Rider_Bronze.png",
+			"title": "Rider"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1097,
@@ -7745,14 +9614,21 @@
 	{
 		"id": "024",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_024.png",
+			"src-1x": "/images/70px-Icon_Servant_024.png",
+			"src-1.5x": "/images/105px-Icon_Servant_024.png",
+			"src-2x": "/images/Icon_Servant_024.png",
 			"title": "ゲオルギウス"
 		},
 		"name": {
 			"en": "Georgios",
 			"jp": "ゲオルギウス"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Bronze.png",
+			"src-2x": "/images/Icon_Class_Rider_Bronze.png",
+			"title": "Rider"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 929,
@@ -7774,14 +9650,21 @@
 	{
 		"id": "023",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_023.png",
+			"src-1x": "/images/70px-Icon_Servant_023.png",
+			"src-1.5x": "/images/105px-Icon_Servant_023.png",
+			"src-2x": "/images/Icon_Servant_023.png",
 			"title": "メドゥーサ"
 		},
 		"name": {
 			"en": "Medusa",
 			"jp": "メドゥーサ"
 		},
-		"class": "Rider",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Rider_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Rider_Silver.png",
+			"src-2x": "/images/Icon_Class_Rider_Silver.png",
+			"title": "Rider"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1337,
@@ -7803,14 +9686,21 @@
 	{
 		"id": "022",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_022.png",
+			"src-1x": "/images/70px-Icon_Servant_022.png",
+			"src-1.5x": "/images/105px-Icon_Servant_022.png",
+			"src-2x": "/images/Icon_Servant_022.png",
 			"title": "ロムルス"
 		},
 		"name": {
 			"en": "Romulus",
 			"jp": "ロムルス"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Silver.png",
+			"src-2x": "/images/Icon_Class_Lancer_Silver.png",
+			"title": "Lancer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1344,
@@ -7832,14 +9722,21 @@
 	{
 		"id": "021",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_021.png",
+			"src-1x": "/images/70px-Icon_Servant_021.png",
+			"src-1.5x": "/images/105px-Icon_Servant_021.png",
+			"src-2x": "/images/Icon_Servant_021.png",
 			"title": "レオニダス一世"
 		},
 		"name": {
 			"en": "Leonidas I",
 			"jp": "レオニダス一世"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Bronze.png",
+			"src-2x": "/images/Icon_Class_Lancer_Bronze.png",
+			"title": "Lancer"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1168,
@@ -7861,14 +9758,21 @@
 	{
 		"id": "020",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_020.png",
+			"src-1x": "/images/70px-Icon_Servant_020.png",
+			"src-1.5x": "/images/105px-Icon_Servant_020.png",
+			"src-2x": "/images/Icon_Servant_020.png",
 			"title": "クー・フーリン〔プロトタイプ〕"
 		},
 		"name": {
 			"en": "Cú Chulainn (Prototype)",
 			"jp": "クー・フーリン〔プロトタイプ〕"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Silver.png",
+			"src-2x": "/images/Icon_Class_Lancer_Silver.png",
+			"title": "Lancer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1315,
@@ -7890,14 +9794,21 @@
 	{
 		"id": "019",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_019.png",
+			"src-1x": "/images/70px-Icon_Servant_019.png",
+			"src-1.5x": "/images/105px-Icon_Servant_019.png",
+			"src-2x": "/images/Icon_Servant_019.png",
 			"title": "武蔵坊弁慶"
 		},
 		"name": {
 			"en": "Musashibou Benkei",
 			"jp": "武蔵坊弁慶"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Bronze.png",
+			"src-2x": "/images/Icon_Class_Lancer_Bronze.png",
+			"title": "Lancer"
+		},
 		"rarity": 2,
 		"attack": {
 			"min": 1029,
@@ -7919,14 +9830,21 @@
 	{
 		"id": "018",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_018.png",
+			"src-1x": "/images/70px-Icon_Servant_018.png",
+			"src-1.5x": "/images/105px-Icon_Servant_018.png",
+			"src-2x": "/images/Icon_Servant_018.png",
 			"title": "エリザベート・バートリー"
 		},
 		"name": {
 			"en": "Elisabeth Báthory",
 			"jp": "エリザベート・バートリー"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Gold.png",
+			"src-2x": "/images/Icon_Class_Lancer_Gold.png",
+			"title": "Lancer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1520,
@@ -7948,14 +9866,21 @@
 	{
 		"id": "017",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_017.png",
+			"src-1x": "/images/70px-Icon_Servant_017.png",
+			"src-1.5x": "/images/105px-Icon_Servant_017.png",
+			"src-2x": "/images/Icon_Servant_017.png",
 			"title": "クー・フーリン"
 		},
 		"name": {
 			"en": "Cú Chulainn",
 			"jp": "クー・フーリン"
 		},
-		"class": "Lancer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Lancer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Lancer_Silver.png",
+			"src-2x": "/images/Icon_Class_Lancer_Silver.png",
+			"title": "Lancer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1334,
@@ -7977,14 +9902,21 @@
 	{
 		"id": "016",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_016.png",
+			"src-1x": "/images/70px-Icon_Servant_016.png",
+			"src-1.5x": "/images/105px-Icon_Servant_016.png",
+			"src-2x": "/images/Icon_Servant_016.png",
 			"title": "アーラシュ"
 		},
 		"name": {
 			"en": "Arash",
 			"jp": "アーラシュ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Bronze.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Bronze.png",
+			"src-2x": "/images/Icon_Class_Archer_Bronze.png",
+			"title": "Archer"
+		},
 		"rarity": 1,
 		"attack": {
 			"min": 1057,
@@ -8006,14 +9938,21 @@
 	{
 		"id": "015",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_015.png",
+			"src-1x": "/images/70px-Icon_Servant_015.png",
+			"src-1.5x": "/images/105px-Icon_Servant_015.png",
+			"src-2x": "/images/Icon_Servant_015.png",
 			"title": "エウリュアレ"
 		},
 		"name": {
 			"en": "Euryale",
 			"jp": "エウリュアレ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Silver.png",
+			"src-2x": "/images/Icon_Class_Archer_Silver.png",
+			"title": "Archer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1306,
@@ -8035,14 +9974,21 @@
 	{
 		"id": "014",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_014.png",
+			"src-1x": "/images/70px-Icon_Servant_014.png",
+			"src-1.5x": "/images/105px-Icon_Servant_014.png",
+			"src-2x": "/images/Icon_Servant_014.png",
 			"title": "アタランテ"
 		},
 		"name": {
 			"en": "Atalante",
 			"jp": "アタランテ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1438,
@@ -8064,14 +10010,21 @@
 	{
 		"id": "013",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_013.png",
+			"src-1x": "/images/70px-Icon_Servant_013.png",
+			"src-1.5x": "/images/105px-Icon_Servant_013.png",
+			"src-2x": "/images/Icon_Servant_013.png",
 			"title": "ロビンフッド"
 		},
 		"name": {
 			"en": "Robin Hood",
 			"jp": "ロビンフッド"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Silver.png",
+			"src-2x": "/images/Icon_Class_Archer_Silver.png",
+			"title": "Archer"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1247,
@@ -8093,14 +10046,21 @@
 	{
 		"id": "012",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_012.png",
+			"src-1x": "/images/70px-Icon_Servant_012.png",
+			"src-1.5x": "/images/105px-Icon_Servant_012.png",
+			"src-2x": "/images/Icon_Servant_012.png",
 			"title": "ギルガメッシュ"
 		},
 		"name": {
 			"en": "Gilgamesh",
 			"jp": "ギルガメッシュ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1897,
@@ -8122,14 +10082,21 @@
 	{
 		"id": "011",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_011.png",
+			"src-1x": "/images/70px-Icon_Servant_011.png",
+			"src-1.5x": "/images/105px-Icon_Servant_011.png",
+			"src-2x": "/images/Icon_Servant_011.png",
 			"title": "エミヤ"
 		},
 		"name": {
 			"en": "EMIYA",
 			"jp": "エミヤ"
 		},
-		"class": "Archer",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Archer_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Archer_Gold.png",
+			"src-2x": "/images/Icon_Class_Archer_Gold.png",
+			"title": "Archer"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1566,
@@ -8151,14 +10118,21 @@
 	{
 		"id": "010",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_010.png",
+			"src-1x": "/images/70px-Icon_Servant_010.png",
+			"src-1.5x": "/images/105px-Icon_Servant_010.png",
+			"src-2x": "/images/Icon_Servant_010.png",
 			"title": "シュヴァリエ・デオン"
 		},
 		"name": {
 			"en": "Chevalier d'Eon",
 			"jp": "シュヴァリエ・デオン"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1734,
@@ -8180,14 +10154,21 @@
 	{
 		"id": "009",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_009.png",
+			"src-1x": "/images/70px-Icon_Servant_009.png",
+			"src-1.5x": "/images/105px-Icon_Servant_009.png",
+			"src-2x": "/images/Icon_Servant_009.png",
 			"title": "ジル・ド・レェ"
 		},
 		"name": {
 			"en": "Gilles de Rais",
 			"jp": "ジル・ド・レェ"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Silver.png",
+			"src-2x": "/images/Icon_Class_Saber_Silver.png",
+			"title": "Saber"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1228,
@@ -8209,14 +10190,21 @@
 	{
 		"id": "008",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_008.png",
+			"src-1x": "/images/70px-Icon_Servant_008.png",
+			"src-1.5x": "/images/105px-Icon_Servant_008.png",
+			"src-2x": "/images/Icon_Servant_008.png",
 			"title": "アルテラ (Attila)"
 		},
 		"name": {
 			"en": "Altera",
 			"jp": "アルテラ (Attila)"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1907,
@@ -8238,14 +10226,21 @@
 	{
 		"id": "007",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_007.png",
+			"src-1x": "/images/70px-Icon_Servant_007.png",
+			"src-1.5x": "/images/105px-Icon_Servant_007.png",
+			"src-2x": "/images/Icon_Servant_007.png",
 			"title": "ガイウス・ユリウス・カエサル"
 		},
 		"name": {
 			"en": "Gaius Julius Caesar",
 			"jp": "ガイウス・ユリウス・カエサル"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Silver.png",
+			"src-2x": "/images/Icon_Class_Saber_Silver.png",
+			"title": "Saber"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1392,
@@ -8267,14 +10262,21 @@
 	{
 		"id": "006",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_006.png",
+			"src-1x": "/images/70px-Icon_Servant_006.png",
+			"src-1.5x": "/images/105px-Icon_Servant_006.png",
+			"src-2x": "/images/Icon_Servant_006.png",
 			"title": "ジークフリート"
 		},
 		"name": {
 			"en": "Siegfried",
 			"jp": "ジークフリート"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1363,
@@ -8296,14 +10298,21 @@
 	{
 		"id": "005",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_005.png",
+			"src-1x": "/images/70px-Icon_Servant_005.png",
+			"src-1.5x": "/images/105px-Icon_Servant_005.png",
+			"src-2x": "/images/Icon_Servant_005.png",
 			"title": "ネロ・クラウディウス"
 		},
 		"name": {
 			"en": "Nero Claudius",
 			"jp": "ネロ・クラウディウス"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1574,
@@ -8325,14 +10334,21 @@
 	{
 		"id": "004",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_004.png",
+			"src-1x": "/images/70px-Icon_Servant_004.png",
+			"src-1.5x": "/images/105px-Icon_Servant_004.png",
+			"src-2x": "/images/Icon_Servant_004.png",
 			"title": "アルトリア・ペンドラゴン［リリィ］"
 		},
 		"name": {
 			"en": "Altria Pendragon (Lily)",
 			"jp": "アルトリア・ペンドラゴン［リリィ］"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1287,
@@ -8354,14 +10370,21 @@
 	{
 		"id": "003",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_003.png",
+			"src-1x": "/images/70px-Icon_Servant_003.png",
+			"src-1.5x": "/images/105px-Icon_Servant_003.png",
+			"src-2x": "/images/Icon_Servant_003.png",
 			"title": "アルトリア・ペンドラゴン［オルタ］"
 		},
 		"name": {
 			"en": "Altria Pendragon (Alter)",
 			"jp": "アルトリア・ペンドラゴン［オルタ］"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 4,
 		"attack": {
 			"min": 1708,
@@ -8383,14 +10406,21 @@
 	{
 		"id": "002",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_002.png",
+			"src-1x": "/images/70px-Icon_Servant_002.png",
+			"src-1.5x": "/images/105px-Icon_Servant_002.png",
+			"src-2x": "/images/Icon_Servant_002.png",
 			"title": "アルトリア・ペンドラゴン (Artoria Pendragon)"
 		},
 		"name": {
 			"en": "Altria Pendragon",
 			"jp": "アルトリア・ペンドラゴン (Artoria Pendragon)"
 		},
-		"class": "Saber",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Saber_Gold.png",
+			"src-1.5x": "/images/60px-Icon_Class_Saber_Gold.png",
+			"src-2x": "/images/Icon_Class_Saber_Gold.png",
+			"title": "Saber"
+		},
 		"rarity": 5,
 		"attack": {
 			"min": 1734,
@@ -8412,14 +10442,21 @@
 	{
 		"id": "001",
 		"icon": {
-			"src": "/images/70px-Icon_Servant_001.png",
+			"src-1x": "/images/70px-Icon_Servant_001.png",
+			"src-1.5x": "/images/105px-Icon_Servant_001.png",
+			"src-2x": "/images/Icon_Servant_001.png",
 			"title": "マシュ・キリエライト"
 		},
 		"name": {
 			"en": "Mash Kyrielight",
 			"jp": "マシュ・キリエライト"
 		},
-		"class": "Shielder",
+		"class": {
+			"src-1x": "/images/40px-Icon_Class_Shielder_Silver.png",
+			"src-1.5x": "/images/60px-Icon_Class_Shielder_Silver.png",
+			"src-2x": "/images/Icon_Class_Shielder_Silver.png",
+			"title": "Shielder"
+		},
 		"rarity": 3,
 		"attack": {
 			"min": 1261,
