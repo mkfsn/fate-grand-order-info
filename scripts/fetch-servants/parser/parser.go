@@ -59,7 +59,7 @@ func (p *Parser) parseServantIcon(td *goquery.Selection, servant *Servant) {
 	servant.Icon.Src70px = "https://grandorder.wiki" + src
 
 	srcset := img.AttrOr("srcset", "")
-	pairs := strings.Split(srcset, ",")
+	pairs := strings.Split(srcset, ", ")
 	servant.Icon.Src105px = "https://grandorder.wiki" + strings.Split(pairs[0], " ")[0]
 	servant.Icon.Src140px = "https://grandorder.wiki" + strings.Split(pairs[1], " ")[0]
 }
