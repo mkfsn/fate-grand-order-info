@@ -13,9 +13,9 @@ type i18nName struct {
 }
 
 type picture struct {
-	Src70px  string `json:"src_70px"`
-	Src105px string `json:"src_105px"`
-	Src140px string `json:"src_140px"`
+	Src_1_0x string `json:"src-1x"`
+	Src_1_5x string `json:"src-1.5x"`
+	Src_2_0x string `json:"src-2x"`
 	Title    string `json:"title"`
 }
 
@@ -23,7 +23,7 @@ type Servant struct {
 	ID            string      `json:"id"`
 	Icon          picture     `json:"icon"`
 	Name          i18nName    `json:"name"`
-	Class         string      `json:"class"`
+	Class         picture     `json:"class"`
 	Rarity        int         `json:"rarity"`
 	Attack        numberRange `json:"attack"`
 	HP            numberRange `json:"hp"`

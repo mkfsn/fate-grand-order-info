@@ -9,6 +9,10 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+const (
+	baseurl = "https://grandorder.wiki"
+)
+
 type Parser struct {
 	reader io.Reader
 }
@@ -56,12 +60,12 @@ func (p *Parser) parseServantId(td *goquery.Selection, servant *Servant) {
 func (p *Parser) parseServantIcon(td *goquery.Selection, servant *Servant) {
 	img := td.Eq(1).Find("img")
 	src := img.AttrOr("src", "")
-	servant.Icon.Src70px = "https://grandorder.wiki" + src
+	servant.Icon.Src_1_0x = baseurl + src
 
 	srcset := img.AttrOr("srcset", "")
 	pairs := strings.Split(srcset, ", ")
-	servant.Icon.Src105px = "https://grandorder.wiki" + strings.Split(pairs[0], " ")[0]
-	servant.Icon.Src140px = "https://grandorder.wiki" + strings.Split(pairs[1], " ")[0]
+	servant.Icon.Src_1_5x = baseurl + strings.Split(pairs[0], " ")[0]
+	servant.Icon.Src_2_0x = baseurl + strings.Split(pairs[1], " ")[0]
 }
 
 func (p *Parser) parseServantName(td *goquery.Selection, servant *Servant) {
@@ -70,8 +74,18 @@ func (p *Parser) parseServantName(td *goquery.Selection, servant *Servant) {
 }
 
 func (p *Parser) parseServantClass(td *goquery.Selection, servant *Servant) {
-	png := td.Eq(3).Find("img").AttrOr("alt", "")
-	servant.Class = strings.Split(png, " ")[2]
+	img := td.Eq(3).Find("img")
+	src := img.AttrOr("src", "")
+	servant.Class.Src_1_0x = baseurl + src
+
+	srcset := img.AttrOr("srcset", "")
+	pairs := strings.Split(srcset, ", ")
+	servant.Class.Src_1_5x = baseurl + strings.Split(pairs[0], " ")[0]
+	servant.Class.Src_2_0x = baseurl + strings.Split(pairs[1], " ")[0]
+
+	alt := img.AttrOr("alt", "")
+
+	servant.Class.Name = strings.Split(alt, " ")[2]
 }
 
 func (p *Parser) parseServantRarity(td *goquery.Selection, servant *Servant) {

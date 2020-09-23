@@ -40,25 +40,35 @@ func New(servants []*parser.Servant) *Processer {
 func (p *Processer) Process() (*Results, error) {
 	var results Results
 
+	iconSet := make(map[string]bool)
+
 	var servants []*Servant
 	for _, servant := range p.servants {
-		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src70px))
-		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src105px))
-		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src140px))
+		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src_1_0x))
+		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src_1_5x))
+		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src_2_0x))
+		iconSet[servant.Class.Src_1_0x] = true
+		iconSet[servant.Class.Src_1_5x] = true
+		iconSet[servant.Class.Src_2_0x] = true
 
 		servants = append(servants, &Servant{
 			ID: servant.ID,
 			Icon: picture{
-				Src70px:  "/images/" + getFilename(servant.Icon.Src70px),
-				Src105px: "/images/" + getFilename(servant.Icon.Src105px),
-				Src140px: "/images/" + getFilename(servant.Icon.Src140px),
+				Src_1_0x: "/images/" + getFilename(servant.Icon.Src_1_0x),
+				Src_1_5x: "/images/" + getFilename(servant.Icon.Src_1_5x),
+				Src_2_0x: "/images/" + getFilename(servant.Icon.Src_2_0x),
 				Title:    servant.Name.JP,
 			},
 			Name: i18nName{
 				EN: servant.Name.EN,
 				JP: servant.Name.JP,
 			},
-			Class:  servant.Class,
+			Class: picture{
+				Src_1_0x: "/images/" + getFilename(servant.Class.Src_1_0x),
+				Src_1_5x: "/images/" + getFilename(servant.Class.Src_1_5x),
+				Src_2_0x: "/images/" + getFilename(servant.Class.Src_2_0x),
+				Title:    servant.Class.Name,
+			},
 			Rarity: servant.Rarity,
 			Attack: numberRange{
 				Min: servant.Attack.Min,
@@ -71,6 +81,10 @@ func (p *Processer) Process() (*Results, error) {
 			CommandCards:  servant.CommandCards,
 			NoblePhantasm: servant.NoblePhantasm,
 		})
+	}
+
+	for icon := range iconSet {
+		results.Images = append(results.Images, newImageFromSrc(icon))
 	}
 
 	b, err := json.MarshalIndent(servants, "", "\t")
