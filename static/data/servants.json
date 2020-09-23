@@ -1,0 +1,8150 @@
+[
+	{
+		"ID": "291",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_291.png"
+		},
+		"Name": {
+			"EN": "Murasaki Shikibu (Rider)",
+			"JP": " 紫式部 (ライダー)"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1455,
+			"Max": 8730
+		},
+		"HP": {
+			"Min": 1900,
+			"Max": 11880
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "290",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_290.png"
+		},
+		"Name": {
+			"EN": "Tomoe Gozen (Saber)",
+			"JP": " 巴御前 〔セイバー〕"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1590,
+			"Max": 9544
+		},
+		"HP": {
+			"Min": 1957,
+			"Max": 12233
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "289",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_289.png"
+		},
+		"Name": {
+			"EN": "Abigail Williams (Summer)",
+			"JP": " アビゲイル・ウィリアムズ(夏)"
+		},
+		"Class": "Foreigner",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1820,
+			"Max": 11781
+		},
+		"HP": {
+			"Min": 2090,
+			"Max": 14250
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "288",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_288.png"
+		},
+		"Name": {
+			"EN": "Yu Miaoyi (Lancer)",
+			"JP": " 虞美人"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1649,
+			"Max": 10098
+		},
+		"HP": {
+			"Min": 1799,
+			"Max": 10914
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "287",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_287.png"
+		},
+		"Name": {
+			"EN": "Brynhild (Berserker)",
+			"JP": " ブリュンヒルデ"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1699,
+			"Max": 10197
+		},
+		"HP": {
+			"Min": 1603,
+			"Max": 10023
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "286",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_286.png"
+		},
+		"Name": {
+			"EN": "Illyasviel von Einzbern (Archer)",
+			"JP": " イリヤスフィール・フォン・アインツベルン"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1683,
+			"Max": 10098
+		},
+		"HP": {
+			"Min": 1746,
+			"Max": 10914
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "285",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_285.png"
+		},
+		"Name": {
+			"EN": "Sessyoin Kiara (Moon Cancer)",
+			"JP": " 殺生院キアラ"
+		},
+		"Class": "Mooncancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1719,
+			"Max": 11128
+		},
+		"HP": {
+			"Min": 2249,
+			"Max": 15336
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "284",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_284.png"
+		},
+		"Name": {
+			"EN": "Artoria (Caster)",
+			"JP": " アルトリア・キャスター"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1629,
+			"Max": 10546
+		},
+		"HP": {
+			"Min": 2112,
+			"Max": 14406
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "283",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_283.png"
+		},
+		"Name": {
+			"EN": "Erice Utsumi",
+			"JP": " 宇津見エリセ"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1520,
+			"Max": 9122
+		},
+		"HP": {
+			"Min": 1918,
+			"Max": 11991
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "282",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_282.png"
+		},
+		"Name": {
+			"EN": "Kijyo Kouyou",
+			"JP": " 鬼女紅葉"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1529,
+			"Max": 9177
+		},
+		"HP": {
+			"Min": 1800,
+			"Max": 11250
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "281",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_281.png"
+		},
+		"Name": {
+			"EN": "Voyager",
+			"JP": " ボイジャー"
+		},
+		"Class": "Foreigner",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1615,
+			"Max": 10450
+		},
+		"HP": {
+			"Min": 2286,
+			"Max": 15592
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "280",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_280.png"
+		},
+		"Name": {
+			"EN": "Romulus-Quirinus",
+			"JP": " ロムルス＝クィリヌス"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1896,
+			"Max": 12273
+		},
+		"HP": {
+			"Min": 1999,
+			"Max": 13632
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "279",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_279.png"
+		},
+		"Name": {
+			"EN": "Caenis",
+			"JP": " 凱妮絲"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1649,
+			"Max": 9896
+		},
+		"HP": {
+			"Min": 1845,
+			"Max": 11532
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "278",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_278.png"
+		},
+		"Name": {
+			"EN": "Dioscuri",
+			"JP": " フィン・マックール"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1829,
+			"Max": 11840
+		},
+		"HP": {
+			"Min": 2174,
+			"Max": 14924
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "277",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_277.png"
+		},
+		"Name": {
+			"EN": "Odysseus",
+			"JP": " オデュッセウス"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1822,
+			"Max": 11795
+		},
+		"HP": {
+			"Min": 1948,
+			"Max": 13284
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "276",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_276.png"
+		},
+		"Name": {
+			"EN": "Sei Shounagon",
+			"JP": " 清少納言"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1888,
+			"Max": 12218
+		},
+		"HP": {
+			"Min": 1901,
+			"Max": 12965
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "275",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_275.png"
+		},
+		"Name": {
+			"EN": "Yang Guifei",
+			"JP": " 楊貴妃"
+		},
+		"Class": "Foreigner",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1907,
+			"Max": 12342
+		},
+		"HP": {
+			"Min": 1960,
+			"Max": 13365
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "274",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_274.png"
+		},
+		"Name": {
+			"EN": "Europa",
+			"JP": " エウロペ"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1813,
+			"Max": 11737
+		},
+		"HP": {
+			"Min": 1843,
+			"Max": 12571
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "273",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_273.png"
+		},
+		"Name": {
+			"EN": "Mandricardo",
+			"JP": " マンドリカルド"
+		},
+		"Class": "Rider",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1254,
+			"Max": 6756
+		},
+		"HP": {
+			"Min": 1728,
+			"Max": 9600
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "272",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_272.png"
+		},
+		"Name": {
+			"EN": "Super Orion",
+			"JP": " 超人オリオン"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1940,
+			"Max": 12557
+		},
+		"HP": {
+			"Min": 1979,
+			"Max": 13494
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "271",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_271.png"
+		},
+		"Name": {
+			"EN": "Nightingale (Santa)",
+			"JP": " ナイチンゲール(サンタ)"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1643,
+			"Max": 9858
+		},
+		"HP": {
+			"Min": 1772,
+			"Max": 11080
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "270",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_270.png"
+		},
+		"Name": {
+			"EN": "Astolfo (Saber)",
+			"JP": " アストルフォ(セイバー)"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1807,
+			"Max": 11694
+		},
+		"HP": {
+			"Min": 2089,
+			"Max": 14248
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "269",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_269.png"
+		},
+		"Name": {
+			"EN": "Calamity Jane",
+			"JP": " カラミティ・ジェーン"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1499,
+			"Max": 8996
+		},
+		"HP": {
+			"Min": 1999,
+			"Max": 12495
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "268",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_268.png"
+		},
+		"Name": {
+			"EN": "Space Ishtar",
+			"JP": " スペース・イシュタル"
+		},
+		"Class": "Avenger",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1949,
+			"Max": 12612
+		},
+		"HP": {
+			"Min": 1912,
+			"Max": 13041
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "267",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_267.png"
+		},
+		"Name": {
+			"EN": "Okita Souji (Assassin)",
+			"JP": " オキタ･J･ソウジ"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1556,
+			"Max": 9337
+		},
+		"HP": {
+			"Min": 1658,
+			"Max": 10366
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "266",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_266.png"
+		},
+		"Name": {
+			"EN": "Mysterious Alter-Ego Lambda",
+			"JP": " 謎のアルターエゴ・Λ"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1543,
+			"Max": 9261
+		},
+		"HP": {
+			"Min": 1879,
+			"Max": 11749
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "265",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_265.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Ruler)",
+			"JP": " アルトリア･ペンドラゴン(ルーラー)"
+		},
+		"Class": "Ruler",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1482,
+			"Max": 9593
+		},
+		"HP": {
+			"Min": 2480,
+			"Max": 16912
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "264",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_264.png"
+		},
+		"Name": {
+			"EN": "Katsushika Hokusai (Saber)",
+			"JP": " 葛飾北斎(セイバー)"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1564,
+			"Max": 9389
+		},
+		"HP": {
+			"Min": 1899,
+			"Max": 11873
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "263",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_263.png"
+		},
+		"Name": {
+			"EN": "Carmilla (Rider)",
+			"JP": " カーミラ (ライダー)"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1608,
+			"Max": 9651
+		},
+		"HP": {
+			"Min": 1676,
+			"Max": 10476
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "262",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_262.png"
+		},
+		"Name": {
+			"EN": "Osakabehime (Archer)",
+			"JP": " 刑部姫(アーチャー)"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1482,
+			"Max": 8895
+		},
+		"HP": {
+			"Min": 1996,
+			"Max": 12476
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "261",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_261.png"
+		},
+		"Name": {
+			"EN": "Miyamoto Musashi (Berserker)",
+			"JP": " 宮本武蔵(バーサーカー)"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1964,
+			"Max": 12712
+		},
+		"HP": {
+			"Min": 1782,
+			"Max": 12150
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "260",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_260.png"
+		},
+		"Name": {
+			"EN": "Salome",
+			"JP": " サロメ"
+		},
+		"Class": "Berserker",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1221,
+			"Max": 6884
+		},
+		"HP": {
+			"Min": 1296,
+			"Max": 6885
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "259",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_259.png"
+		},
+		"Name": {
+			"EN": "Charlotte Corday",
+			"JP": " シャルロット・コルデー"
+		},
+		"Class": "Assassin",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 997,
+			"Max": 5488
+		},
+		"HP": {
+			"Min": 1244,
+			"Max": 6220
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "258",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_258.png"
+		},
+		"Name": {
+			"EN": "Chen Gong",
+			"JP": " 陳宮"
+		},
+		"Class": "Caster",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1085,
+			"Max": 6119
+		},
+		"HP": {
+			"Min": 1459,
+			"Max": 7755
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "257",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_257.png"
+		},
+		"Name": {
+			"EN": "Bartholomew Roberts",
+			"JP": " バーソロミュー・ロバーツ"
+		},
+		"Class": "Rider",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 993,
+			"Max": 5461
+		},
+		"HP": {
+			"Min": 1344,
+			"Max": 6720
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "256",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_256.png"
+		},
+		"Name": {
+			"EN": "Gareth",
+			"JP": " ガレス"
+		},
+		"Class": "Lancer",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 960,
+			"Max": 5413
+		},
+		"HP": {
+			"Min": 1795,
+			"Max": 9537
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "255",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_255.png"
+		},
+		"Name": {
+			"EN": "Paris",
+			"JP": " パリス"
+		},
+		"Class": "Archer",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1157,
+			"Max": 6523
+		},
+		"HP": {
+			"Min": 1474,
+			"Max": 7834
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "254",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_254.png"
+		},
+		"Name": {
+			"EN": "Jason",
+			"JP": " イアソン"
+		},
+		"Class": "Saber",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 992,
+			"Max": 5457
+		},
+		"HP": {
+			"Min": 1515,
+			"Max": 7575
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "253",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_253.png"
+		},
+		"Name": {
+			"EN": "Leonardo Da Vinci (Rider)",
+			"JP": " レオナルド・ダ・ヴィンチ"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1681,
+			"Max": 10883
+		},
+		"HP": {
+			"Min": 2069,
+			"Max": 14112
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "252",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_252.png"
+		},
+		"Name": {
+			"EN": "Nagao Kagetora",
+			"JP": " 長尾景虎"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1602,
+			"Max": 9617
+		},
+		"HP": {
+			"Min": 1817,
+			"Max": 11360
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "251",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_251.png"
+		},
+		"Name": {
+			"EN": "Mori Nagayoshi",
+			"JP": " 森長可"
+		},
+		"Class": "Berserker",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1436,
+			"Max": 7732
+		},
+		"HP": {
+			"Min": 1443,
+			"Max": 8019
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "250",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_250.png"
+		},
+		"Name": {
+			"EN": "Oda Nobunaga (Avenger)",
+			"JP": " 織田信長"
+		},
+		"Class": "Avenger",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1953,
+			"Max": 12641
+		},
+		"HP": {
+			"Min": 1724,
+			"Max": 11761
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "249",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_249.png"
+		},
+		"Name": {
+			"EN": "Asclepius",
+			"JP": " アスクレピオス"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1184,
+			"Max": 6376
+		},
+		"HP": {
+			"Min": 1815,
+			"Max": 10084
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "248",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_248.png"
+		},
+		"Name": {
+			"EN": "Ashvatthaman",
+			"JP": " アシュヴァッターマン"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1708,
+			"Max": 10249
+		},
+		"HP": {
+			"Min": 1799,
+			"Max": 11245
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "247",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_247.png"
+		},
+		"Name": {
+			"EN": "Arjuna (Alter)",
+			"JP": " アルジュナ(オルタ)"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1803,
+			"Max": 11669
+		},
+		"HP": {
+			"Min": 2029,
+			"Max": 13837
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "246",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_246.png"
+		},
+		"Name": {
+			"EN": "William Tell",
+			"JP": " ウィリアム･テル"
+		},
+		"Class": "Archer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1731,
+			"Max": 7384
+		},
+		"HP": {
+			"Min": 1675,
+			"Max": 9310
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "245",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_245.png"
+		},
+		"Name": {
+			"EN": "Lakshmibai",
+			"JP": " ラクシュミー･バーイー"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1658,
+			"Max": 9949
+		},
+		"HP": {
+			"Min": 1818,
+			"Max": 11362
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "244",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_244.png"
+		},
+		"Name": {
+			"EN": "Jinako Carigiri",
+			"JP": " ジナコ＝カリギリ"
+		},
+		"Class": "Mooncancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1416,
+			"Max": 9166
+		},
+		"HP": {
+			"Min": 2617,
+			"Max": 17844
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "243",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_243.png"
+		},
+		"Name": {
+			"EN": "Gray",
+			"JP": " グレイ"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1576,
+			"Max": 9456
+		},
+		"HP": {
+			"Min": 1692,
+			"Max": 10580
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "242",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_242.png"
+		},
+		"Name": {
+			"EN": "Astraea",
+			"JP": " アストライア"
+		},
+		"Class": "Ruler",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1622,
+			"Max": 9734
+		},
+		"HP": {
+			"Min": 1845,
+			"Max": 11531
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "241",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_241.png"
+		},
+		"Name": {
+			"EN": "Sima Yi (Reines)",
+			"JP": " 司馬懿〔ライネス〕"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1766,
+			"Max": 11427
+		},
+		"HP": {
+			"Min": 1986,
+			"Max": 13543
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "240",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_240.png"
+		},
+		"Name": {
+			"EN": "Beast III/L",
+			"JP": " ビーストIII／L"
+		},
+		"Class": "Beast",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 2080,
+			"Max": 13464
+		},
+		"HP": {
+			"Min": 2745,
+			"Max": 18720
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "239",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_239.png"
+		},
+		"Name": {
+			"EN": "Kama",
+			"JP": " カーマ"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1781,
+			"Max": 11528
+		},
+		"HP": {
+			"Min": 1890,
+			"Max": 12889
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "238",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_238.png"
+		},
+		"Name": {
+			"EN": "Kingprotea",
+			"JP": " キングプロテア"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1983,
+			"Max": 12835
+		},
+		"HP": {
+			"Min": 1956,
+			"Max": 13338
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "237",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_237.png"
+		},
+		"Name": {
+			"EN": "Murasaki Shikibu",
+			"JP": " 紫式部"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1757,
+			"Max": 11374
+		},
+		"HP": {
+			"Min": 1882,
+			"Max": 12833
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "236",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_236.png"
+		},
+		"Name": {
+			"EN": "Miyu Edelfelt",
+			"JP": " 美遊・エーデルフェルト"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1438,
+			"Max": 8629
+		},
+		"HP": {
+			"Min": 1920,
+			"Max": 12005
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "235",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_235.png"
+		},
+		"Name": {
+			"EN": "Li Shuwen (Assassin)",
+			"JP": " 李書文"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1772,
+			"Max": 11470
+		},
+		"HP": {
+			"Min": 1843,
+			"Max": 12568
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "234",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_234.png"
+		},
+		"Name": {
+			"EN": "Benienma",
+			"JP": " 紅閻魔"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1793,
+			"Max": 11607
+		},
+		"HP": {
+			"Min": 2047,
+			"Max": 13960
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "233",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_233.png"
+		},
+		"Name": {
+			"EN": "Quetzalcoatl (Samba/Santa)",
+			"JP": " ケツァルコアトル (サンバ/サンタ)"
+		},
+		"Class": "Ruler",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1614,
+			"Max": 9687
+		},
+		"HP": {
+			"Min": 1809,
+			"Max": 11306
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "232",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_232.png"
+		},
+		"Name": {
+			"EN": "Bradamante",
+			"JP": " ブラダマンテ"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1674,
+			"Max": 10833
+		},
+		"HP": {
+			"Min": 2300,
+			"Max": 15682
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "231",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_231.png"
+		},
+		"Name": {
+			"EN": "Red Hare",
+			"JP": " 赤兎馬"
+		},
+		"Class": "Rider",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1194,
+			"Max": 6434
+		},
+		"HP": {
+			"Min": 1886,
+			"Max": 10483
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "230",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_230.png"
+		},
+		"Name": {
+			"EN": "Yu Miaoyi",
+			"JP": " 虞美人"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1328,
+			"Max": 7970
+		},
+		"HP": {
+			"Min": 2142,
+			"Max": 13389
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "229",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_229.png"
+		},
+		"Name": {
+			"EN": "Shi Huang Di",
+			"JP": " 始皇帝"
+		},
+		"Class": "Ruler",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1541,
+			"Max": 9977
+		},
+		"HP": {
+			"Min": 2321,
+			"Max": 15828
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "228",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_228.png"
+		},
+		"Name": {
+			"EN": "Qin Liangyu",
+			"JP": " 秦良玉"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1382,
+			"Max": 8295
+		},
+		"HP": {
+			"Min": 2142,
+			"Max": 13387
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "227",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_227.png"
+		},
+		"Name": {
+			"EN": "Prince of Lan Ling",
+			"JP": " 蘭陵王"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1518,
+			"Max": 9112
+		},
+		"HP": {
+			"Min": 2020,
+			"Max": 12625
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "226",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_226.png"
+		},
+		"Name": {
+			"EN": "Xiang Yu",
+			"JP": " 項羽"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1794,
+			"Max": 11613
+		},
+		"HP": {
+			"Min": 2019,
+			"Max": 13770
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "225",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_225.png"
+		},
+		"Name": {
+			"EN": "Shuten-Douji (Caster)",
+			"JP": " 酒呑童子"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1589,
+			"Max": 9538
+		},
+		"HP": {
+			"Min": 1764,
+			"Max": 11025
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "224",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_224.png"
+		},
+		"Name": {
+			"EN": "Sitonai",
+			"JP": " シトナイ"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1803,
+			"Max": 11668
+		},
+		"HP": {
+			"Min": 2048,
+			"Max": 13965
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "223",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_223.png"
+		},
+		"Name": {
+			"EN": "Diarmuid Ua Duibhne (Saber)",
+			"JP": " ディルムッド･オディナ"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1674,
+			"Max": 10048
+		},
+		"HP": {
+			"Min": 1818,
+			"Max": 11362
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "222",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_222.png"
+		},
+		"Name": {
+			"EN": "Mysterious Heroine XX",
+			"JP": " 謎のヒロインXX"
+		},
+		"Class": "Foreigner",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1625,
+			"Max": 9751
+		},
+		"HP": {
+			"Min": 1800,
+			"Max": 11250
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "221",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_221.png"
+		},
+		"Name": {
+			"EN": "Queen Medb (Saber)",
+			"JP": " 女王メイヴ 〔セイバー〕"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1336,
+			"Max": 8017
+		},
+		"HP": {
+			"Min": 2177,
+			"Max": 13609
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "220",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_220.png"
+		},
+		"Name": {
+			"EN": "BB (Summer)",
+			"JP": " ビィビィ"
+		},
+		"Class": "Mooncancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1728,
+			"Max": 11182
+		},
+		"HP": {
+			"Min": 2172,
+			"Max": 14812
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "219",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_219.png"
+		},
+		"Name": {
+			"EN": "Jeanne d'Arc (Berserker Alter)",
+			"JP": " ジャンヌ・ダルク [オルタ]〔バーサーカー〕"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1716,
+			"Max": 10298
+		},
+		"HP": {
+			"Min": 1587,
+			"Max": 9922
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "218",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_218.png"
+		},
+		"Name": {
+			"EN": "Ushiwakamaru (Assassin)",
+			"JP": " 牛若丸〔アサシン〕"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1576,
+			"Max": 9456
+		},
+		"HP": {
+			"Min": 1692,
+			"Max": 10580
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "217",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_217.png"
+		},
+		"Name": {
+			"EN": "Ibaraki-Douji (Lancer)",
+			"JP": " 茨木童子〔ランサー〕"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1522,
+			"Max": 9133
+		},
+		"HP": {
+			"Min": 1976,
+			"Max": 12354
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "216",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_216.png"
+		},
+		"Name": {
+			"EN": "Jeanne d'Arc (Archer)",
+			"JP": " ジャンヌ・ダルク (アーチャー)"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1626,
+			"Max": 10525
+		},
+		"HP": {
+			"Min": 2309,
+			"Max": 15743
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "215",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_215.png"
+		},
+		"Name": {
+			"EN": "Scáthach-Skadi",
+			"JP": " スカサハ＝スカディ"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1661,
+			"Max": 10753
+		},
+		"HP": {
+			"Min": 2112,
+			"Max": 14406
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "214",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_214.png"
+		},
+		"Name": {
+			"EN": "Valkyrie",
+			"JP": " ワルキューレ"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1339,
+			"Max": 8037
+		},
+		"HP": {
+			"Min": 2244,
+			"Max": 14025
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "213",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_213.png"
+		},
+		"Name": {
+			"EN": "Sigurd",
+			"JP": " シグルド"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 2049,
+			"Max": 12465
+		},
+		"HP": {
+			"Min": 1926,
+			"Max": 13975
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "212",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_212.png"
+		},
+		"Name": {
+			"EN": "Napoleon",
+			"JP": " ナポレオン"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1859,
+			"Max": 12033
+		},
+		"HP": {
+			"Min": 1920,
+			"Max": 13097
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "211",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_211.png"
+		},
+		"Name": {
+			"EN": "Sakamoto Ryouma",
+			"JP": " 坂本龍馬"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1425,
+			"Max": 8555
+		},
+		"HP": {
+			"Min": 1900,
+			"Max": 11880
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "210",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_210.png"
+		},
+		"Name": {
+			"EN": "Okada Izou",
+			"JP": " 岡田以蔵"
+		},
+		"Class": "Assassin",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1277,
+			"Max": 6879
+		},
+		"HP": {
+			"Min": 1592,
+			"Max": 8844
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "209",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_209.png"
+		},
+		"Name": {
+			"EN": "Okita Souji (Alter)",
+			"JP": " 沖田総司(オルタ)"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1926,
+			"Max": 12465
+		},
+		"HP": {
+			"Min": 1862,
+			"Max": 12696
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "208",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_208.png"
+		},
+		"Name": {
+			"EN": "Sieg",
+			"JP": " ジーク"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1399,
+			"Max": 8394
+		},
+		"HP": {
+			"Min": 1806,
+			"Max": 11288
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "207",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_207.png"
+		},
+		"Name": {
+			"EN": "Chiron",
+			"JP": " ケイローン"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1549,
+			"Max": 9294
+		},
+		"HP": {
+			"Min": 1960,
+			"Max": 12250
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "206",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_206.png"
+		},
+		"Name": {
+			"EN": "Achilles",
+			"JP": " アキレウス"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1836,
+			"Max": 11883
+		},
+		"HP": {
+			"Min": 1938,
+			"Max": 13219
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "205",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_205.png"
+		},
+		"Name": {
+			"EN": "Ivan the Thunder Emperor",
+			"JP": " イヴァン雷帝"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1795,
+			"Max": 11619
+		},
+		"HP": {
+			"Min": 1948,
+			"Max": 13284
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "204",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_204.png"
+		},
+		"Name": {
+			"EN": "Antonio Salieri",
+			"JP": " アントニオ・サリエリ"
+		},
+		"Class": "Avenger",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1509,
+			"Max": 8125
+		},
+		"HP": {
+			"Min": 1411,
+			"Max": 7840
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "203",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_203.png"
+		},
+		"Name": {
+			"EN": "Avicebron",
+			"JP": " アヴィケブロン"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1184,
+			"Max": 6376
+		},
+		"HP": {
+			"Min": 1795,
+			"Max": 9981
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "202",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_202.png"
+		},
+		"Name": {
+			"EN": "Atalante (Alter)",
+			"JP": " アタランテ(オルタ)"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1634,
+			"Max": 9806
+		},
+		"HP": {
+			"Min": 1701,
+			"Max": 10634
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "201",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_201.png"
+		},
+		"Name": {
+			"EN": "Anastasia Nikolaevna Romanova",
+			"JP": " アナスタシア・ニコラエヴナ・ロマノヴァ"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 2091,
+			"Max": 10546
+		},
+		"HP": {
+			"Min": 1629,
+			"Max": 14259
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "200",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_200.png"
+		},
+		"Name": {
+			"EN": "Asagami Fujino",
+			"JP": " 浅上藤乃"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1716,
+			"Max": 10299
+		},
+		"HP": {
+			"Min": 1764,
+			"Max": 11025
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "199",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_199.png"
+		},
+		"Name": {
+			"EN": "Semiramis",
+			"JP": " セミラミス"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1747,
+			"Max": 11309
+		},
+		"HP": {
+			"Min": 1945,
+			"Max": 13266
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "198",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_198.png"
+		},
+		"Name": {
+			"EN": "Katsushika Hokusai",
+			"JP": " 葛飾北斎"
+		},
+		"Class": "Foreigner",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1870,
+			"Max": 12100
+		},
+		"HP": {
+			"Min": 1940,
+			"Max": 13230
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "197",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_197.png"
+		},
+		"Name": {
+			"EN": "Altera the San(ta)",
+			"JP": " アルテラ・ザ・サン(タ)"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1626,
+			"Max": 9759
+		},
+		"HP": {
+			"Min": 1682,
+			"Max": 11637
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "196",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_196.png"
+		},
+		"Name": {
+			"EN": "Ereshkigal",
+			"JP": " エレシュキガル"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1598,
+			"Max": 10343
+		},
+		"HP": {
+			"Min": 2356,
+			"Max": 16065
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "195",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_195.png"
+		},
+		"Name": {
+			"EN": "Abigail Williams",
+			"JP": " アビゲイル・ウィリアムズ"
+		},
+		"Class": "Foreigner",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1870,
+			"Max": 12100
+		},
+		"HP": {
+			"Min": 2019,
+			"Max": 13770
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "194",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_194.png"
+		},
+		"Name": {
+			"EN": "Queen of Sheba",
+			"JP": " ミドラーシュのキャスター;シバの女王"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1438,
+			"Max": 8629
+		},
+		"HP": {
+			"Min": 1940,
+			"Max": 12127
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "193",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_193.png"
+		},
+		"Name": {
+			"EN": "Nezha",
+			"JP": " 哪吒"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1547,
+			"Max": 9284
+		},
+		"HP": {
+			"Min": 1938,
+			"Max": 12112
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "192",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_192.png"
+		},
+		"Name": {
+			"EN": "Circe",
+			"JP": " オケアノスのキャスター;キルケー"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1445,
+			"Max": 8671
+		},
+		"HP": {
+			"Min": 1960,
+			"Max": 12250
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "191",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_191.png"
+		},
+		"Name": {
+			"EN": "Mecha Eli-chan MkII",
+			"JP": " メカエリチャンⅡ号機"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1666,
+			"Max": 9997
+		},
+		"HP": {
+			"Min": 1744,
+			"Max": 10901
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "190",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_190.png"
+		},
+		"Name": {
+			"EN": "Mecha Eli-chan",
+			"JP": " メカエリチャン"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1666,
+			"Max": 9997
+		},
+		"HP": {
+			"Min": 1744,
+			"Max": 10901
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "189",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_189.png"
+		},
+		"Name": {
+			"EN": "Osakabehime",
+			"JP": " 刑部姬"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1672,
+			"Max": 10824
+		},
+		"HP": {
+			"Min": 2027,
+			"Max": 13822
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "188",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_188.png"
+		},
+		"Name": {
+			"EN": "Kato Danzou",
+			"JP": " 加藤段蔵"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1489,
+			"Max": 8935
+		},
+		"HP": {
+			"Min": 1768,
+			"Max": 11055
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "187",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_187.png"
+		},
+		"Name": {
+			"EN": "Munenori Yagyu",
+			"JP": " 柳生但馬守宗矩"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1666,
+			"Max": 9999
+		},
+		"HP": {
+			"Min": 1781,
+			"Max": 11135
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "186",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_186.png"
+		},
+		"Name": {
+			"EN": "Houzouin Inshun",
+			"JP": " 宝蔵院胤舜"
+		},
+		"Class": "Lancer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1261,
+			"Max": 6791
+		},
+		"HP": {
+			"Min": 1799,
+			"Max": 9996
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "185",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_185.png"
+		},
+		"Name": {
+			"EN": "Mochizuki Chiyome",
+			"JP": " 望月千代女"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1418,
+			"Max": 8510
+		},
+		"HP": {
+			"Min": 1862,
+			"Max": 11637
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "184",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_184.png"
+		},
+		"Name": {
+			"EN": "Tomoe Gozen",
+			"JP": " 巴御前"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1657,
+			"Max": 9946
+		},
+		"HP": {
+			"Min": 1728,
+			"Max": 10804
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "183",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_183.png"
+		},
+		"Name": {
+			"EN": "Parvati",
+			"JP": " パールヴァティー"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1354,
+			"Max": 8127
+		},
+		"HP": {
+			"Min": 2120,
+			"Max": 13253
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "182",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_182.png"
+		},
+		"Name": {
+			"EN": "Ishtar (Rider)",
+			"JP": " イシュタル (ライダー)"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1600,
+			"Max": 9603
+		},
+		"HP": {
+			"Min": 1710,
+			"Max": 10692
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "181",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_181.png"
+		},
+		"Name": {
+			"EN": "Minamoto-no-Raikou (Lancer)",
+			"JP": " 源頼光"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1528,
+			"Max": 9168
+		},
+		"HP": {
+			"Min": 1938,
+			"Max": 12112
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "180",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_180.png"
+		},
+		"Name": {
+			"EN": "Helena Blavatsky (Archer)",
+			"JP": " エレナ・ブラヴァツキー (アーチャー)"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1574,
+			"Max": 9446
+		},
+		"HP": {
+			"Min": 1824,
+			"Max": 11404
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "179",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_179.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Rider Alter)",
+			"JP": " アルトリア・ペンドラゴン (オルタ) (ライダー)"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1665,
+			"Max": 10776
+		},
+		"HP": {
+			"Min": 2090,
+			"Max": 14256
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "178",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_178.png"
+		},
+		"Name": {
+			"EN": "Oda Nobunaga (Berserker)",
+			"JP": " 織田信長 (バーサーカー)"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1691,
+			"Max": 10146
+		},
+		"HP": {
+			"Min": 1603,
+			"Max": 10023
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "177",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_177.png"
+		},
+		"Name": {
+			"EN": "Nitocris (Assassin)",
+			"JP": " ニトクリス (アサシン)"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1468,
+			"Max": 8812
+		},
+		"HP": {
+			"Min": 1843,
+			"Max": 11518
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "176",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_176.png"
+		},
+		"Name": {
+			"EN": "Frankenstein (Saber)",
+			"JP": " フランケンシュタイン (セイバー)"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1558,
+			"Max": 9353
+		},
+		"HP": {
+			"Min": 1919,
+			"Max": 11993
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "175",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_175.png"
+		},
+		"Name": {
+			"EN": "Nero Claudius (Caster)",
+			"JP": " ネロ・クラウディウス (キャスター)"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1677,
+			"Max": 10857
+		},
+		"HP": {
+			"Min": 2007,
+			"Max": 13685
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "174",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_174.png"
+		},
+		"Name": {
+			"EN": "Paul Bunyan",
+			"JP": " ポール・バニヤン"
+		},
+		"Class": "Berserker",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 1099,
+			"Max": 6044
+		},
+		"HP": {
+			"Min": 1239,
+			"Max": 6196
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "173",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_173.png"
+		},
+		"Name": {
+			"EN": "Sherlock Holmes",
+			"JP": " シャーロック・ホームズ"
+		},
+		"Class": "Ruler",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1776,
+			"Max": 11495
+		},
+		"HP": {
+			"Min": 1960,
+			"Max": 13365
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "172",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_172.png"
+		},
+		"Name": {
+			"EN": "Christopher Columbus",
+			"JP": " レジスタンスのライダー; クリストファー・コロンブス"
+		},
+		"Class": "Rider",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1216,
+			"Max": 6552
+		},
+		"HP": {
+			"Min": 1728,
+			"Max": 9600
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "171",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_171.png"
+		},
+		"Name": {
+			"EN": "Penthesilea",
+			"JP": " エルドラドのバーサーカー;\u003cbr/\u003eペンテシレイア"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1750,
+			"Max": 10502
+		},
+		"HP": {
+			"Min": 1628,
+			"Max": 10175
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "170",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_170.png"
+		},
+		"Name": {
+			"EN": "Wu Zetian",
+			"JP": " 不夜城のアサシン; 武則天"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1496,
+			"Max": 8981
+		},
+		"HP": {
+			"Min": 1750,
+			"Max": 10942
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "169",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_169.png"
+		},
+		"Name": {
+			"EN": "Scheherazade",
+			"JP": " 不夜城のキャスター;\u003cbr/\u003eシェヘラザード"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1423,
+			"Max": 9212
+		},
+		"HP": {
+			"Min": 2324,
+			"Max": 15846
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "168",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_168.png"
+		},
+		"Name": {
+			"EN": "Beast III/R",
+			"JP": " ビーストIII／R"
+		},
+		"Class": "Beast",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 2121,
+			"Max": 15072
+		},
+		"HP": {
+			"Min": 2745,
+			"Max": 18720
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "167",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_167.png"
+		},
+		"Name": {
+			"EN": "Sessyoin Kiara",
+			"JP": " 殺生院キアラ"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1803,
+			"Max": 11668
+		},
+		"HP": {
+			"Min": 2142,
+			"Max": 14606
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "166",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_166.png"
+		},
+		"Name": {
+			"EN": "BB",
+			"JP": " ビィビィ"
+		},
+		"Class": "Mooncancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1366,
+			"Max": 8197
+		},
+		"HP": {
+			"Min": 2182,
+			"Max": 13643
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "165",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_165.png"
+		},
+		"Name": {
+			"EN": "Suzuka Gozen",
+			"JP": " 鈴鹿御前"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1590,
+			"Max": 9544
+		},
+		"HP": {
+			"Min": 1880,
+			"Max": 11753
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "164",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_164.png"
+		},
+		"Name": {
+			"EN": "Passionlip",
+			"JP": " パッションリップ"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1716,
+			"Max": 10299
+		},
+		"HP": {
+			"Min": 1744,
+			"Max": 10901
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "163",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_163.png"
+		},
+		"Name": {
+			"EN": "Meltryllis",
+			"JP": " メルトリリス"
+		},
+		"Class": "Alter-Ego",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1807,
+			"Max": 11692
+		},
+		"HP": {
+			"Min": 1965,
+			"Max": 13402
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "162",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_162.png"
+		},
+		"Name": {
+			"EN": "Chacha",
+			"JP": " 茶々"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1490,
+			"Max": 8945
+		},
+		"HP": {
+			"Min": 1764,
+			"Max": 11025
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "161",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_161.png"
+		},
+		"Name": {
+			"EN": "Hijikata Toshizo",
+			"JP": " 土方歳三"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1868,
+			"Max": 12089
+		},
+		"HP": {
+			"Min": 1764,
+			"Max": 12028
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "160",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_160.png"
+		},
+		"Name": {
+			"EN": "Arthur Pendragon (Prototype)",
+			"JP": " アーサー・ペンドラゴン〔プロトタイプ〕"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1926,
+			"Max": 12465
+		},
+		"HP": {
+			"Min": 2049,
+			"Max": 13975
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "159",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_159.png"
+		},
+		"Name": {
+			"EN": "Yan Qing",
+			"JP": " 新宿のアサシン\u003cbr/\u003e燕青\u003cbr/\u003eエンセイ"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1443,
+			"Max": 8661
+		},
+		"HP": {
+			"Min": 1862,
+			"Max": 11637
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "158",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_158.png"
+		},
+		"Name": {
+			"EN": "Hessian Lobo",
+			"JP": " 新宿のアヴェンジャー, ヘシアン・ロボ"
+		},
+		"Class": "Avenger",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1771,
+			"Max": 10628
+		},
+		"HP": {
+			"Min": 1591,
+			"Max": 9949
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "157",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_157.png"
+		},
+		"Name": {
+			"EN": "EMIYA (Alter)",
+			"JP": " エミヤ〔オルタ〕"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1499,
+			"Max": 8996
+		},
+		"HP": {
+			"Min": 1960,
+			"Max": 12250
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "156",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_156.png"
+		},
+		"Name": {
+			"EN": "James Moriarty",
+			"JP": " 新宿のアーチャー,\u003cbr/\u003eジェームズ・モリアーティ"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1820,
+			"Max": 11781
+		},
+		"HP": {
+			"Min": 2007,
+			"Max": 13685
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "155",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_155.png"
+		},
+		"Name": {
+			"EN": "Mysterious Heroine X (Alter)",
+			"JP": " 謎のヒロインＸ〔オルタ〕"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1717,
+			"Max": 11113
+		},
+		"HP": {
+			"Min": 2079,
+			"Max": 14175
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "154",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_154.png"
+		},
+		"Name": {
+			"EN": "First Hassan",
+			"JP": " \"山の翁\""
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1831,
+			"Max": 11848
+		},
+		"HP": {
+			"Min": 1956,
+			"Max": 13338
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "153",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_153.png"
+		},
+		"Name": {
+			"EN": "Miyamoto Musashi",
+			"JP": " 宮本武蔵"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1860,
+			"Max": 12037
+		},
+		"HP": {
+			"Min": 1999,
+			"Max": 13635
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "152",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_152.png"
+		},
+		"Name": {
+			"EN": "Solomon (Endgame)",
+			"JP": " ソロモン"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1645,
+			"Max": 10650
+		},
+		"HP": {
+			"Min": 2091,
+			"Max": 14259
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "151",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_151.png"
+		},
+		"Name": {
+			"EN": "Goetia",
+			"JP": " 魔神王ゲーティア"
+		},
+		"Class": "Beast",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 2268,
+			"Max": 24721
+		},
+		"HP": {
+			"Min": 11400,
+			"Max": 688560
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "150",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_150.png"
+		},
+		"Name": {
+			"EN": "Merlin",
+			"JP": " マーリン"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1692,
+			"Max": 10546
+		},
+		"HP": {
+			"Min": 2091,
+			"Max": 14259
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "149",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_149.png"
+		},
+		"Name": {
+			"EN": "Tiamat",
+			"JP": " ティアマト"
+		},
+		"Class": "Beast",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 2101,
+			"Max": 13596
+		},
+		"HP": {
+			"Min": 2745,
+			"Max": 18720
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "148",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_148.png"
+		},
+		"Name": {
+			"EN": "Jaguar Warrior",
+			"JP": " ジャガーマン"
+		},
+		"Class": "Lancer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1304,
+			"Max": 7022
+		},
+		"HP": {
+			"Min": 1726,
+			"Max": 9593
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "147",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_147.png"
+		},
+		"Name": {
+			"EN": "Gorgon",
+			"JP": " ゴルゴーン"
+		},
+		"Class": "Avenger",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1784,
+			"Max": 10706
+		},
+		"HP": {
+			"Min": 1631,
+			"Max": 10197
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "146",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_146.png"
+		},
+		"Name": {
+			"EN": "Medusa (Lancer)",
+			"JP": " メドゥーサ〔ランサー〕"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1375,
+			"Max": 8253
+		},
+		"HP": {
+			"Min": 2099,
+			"Max": 13119
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "145",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_145.png"
+		},
+		"Name": {
+			"EN": "Gilgamesh (Caster)",
+			"JP": " ギルガメッシュ〔キャスター〕"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1410,
+			"Max": 8460
+		},
+		"HP": {
+			"Min": 1920,
+			"Max": 12005
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "144",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_144.png"
+		},
+		"Name": {
+			"EN": "Quetzalcoatl",
+			"JP": " ケツァル・コアトル"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1854,
+			"Max": 12001
+		},
+		"HP": {
+			"Min": 1900,
+			"Max": 12960
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "143",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_143.png"
+		},
+		"Name": {
+			"EN": "Enkidu",
+			"JP": " エルキドゥ"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1666,
+			"Max": 10780
+		},
+		"HP": {
+			"Min": 2244,
+			"Max": 15300
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "142",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_142.png"
+		},
+		"Name": {
+			"EN": "Ishtar",
+			"JP": " イシュタル"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1893,
+			"Max": 12252
+		},
+		"HP": {
+			"Min": 2048,
+			"Max": 13965
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "141",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_141.png"
+		},
+		"Name": {
+			"EN": "Jeanne d'Arc Alter Santa Lily",
+			"JP": " ジャンヌ･ダルク･オルタ･サンタ･リリィ"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1543,
+			"Max": 9261
+		},
+		"HP": {
+			"Min": 1899,
+			"Max": 11870
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "140",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_140.png"
+		},
+		"Name": {
+			"EN": "Vlad III (EXTRA)",
+			"JP": " ヴラド三世 (EXTRA)"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1462,
+			"Max": 8775
+		},
+		"HP": {
+			"Min": 2080,
+			"Max": 13005
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "139",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_139.png"
+		},
+		"Name": {
+			"EN": "Cleopatra",
+			"JP": " クレオパトラ"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1713,
+			"Max": 11088
+		},
+		"HP": {
+			"Min": 1965,
+			"Max": 13402
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "138",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_138.png"
+		},
+		"Name": {
+			"EN": "Elisabeth Báthory (Brave)",
+			"JP": " エリザベート・バートリー[ブレイブ]"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1649,
+			"Max": 9899
+		},
+		"HP": {
+			"Min": 1799,
+			"Max": 11248
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "137",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_137.png"
+		},
+		"Name": {
+			"EN": "Chloe von Einzbern",
+			"JP": " クロエ･フォン・アインツベルン"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1640,
+			"Max": 9845
+		},
+		"HP": {
+			"Min": 1746,
+			"Max": 10914
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "136",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_136.png"
+		},
+		"Name": {
+			"EN": "Illyasviel von Einzbern",
+			"JP": " イリヤスフィール・フォン・アインツベルン"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1677,
+			"Max": 10857
+		},
+		"HP": {
+			"Min": 2027,
+			"Max": 13825
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "135",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_135.png"
+		},
+		"Name": {
+			"EN": "Martha (Ruler)",
+			"JP": " マルタ"
+		},
+		"Class": "Ruler",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1591,
+			"Max": 9546
+		},
+		"HP": {
+			"Min": 1800,
+			"Max": 11250
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "134",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_134.png"
+		},
+		"Name": {
+			"EN": "Kiyohime (Lancer)",
+			"JP": " 清姫〔ランサー〕"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1489,
+			"Max": 8936
+		},
+		"HP": {
+			"Min": 1899,
+			"Max": 11870
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "133",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_133.png"
+		},
+		"Name": {
+			"EN": "Scáthach (Assassin)",
+			"JP": " スカサハ〔アサシン〕"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1851,
+			"Max": 9049
+		},
+		"HP": {
+			"Min": 1786,
+			"Max": 11168
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "132",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_132.png"
+		},
+		"Name": {
+			"EN": "Mordred (Rider)",
+			"JP": " モードレッド〔ライダー〕"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1535,
+			"Max": 9212
+		},
+		"HP": {
+			"Min": 1824,
+			"Max": 11400
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "131",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_131.png"
+		},
+		"Name": {
+			"EN": "Anne Bonny \u0026 Mary Read (Archer)",
+			"JP": " アン・ボニー＆メアリー・リード〔アーチャー〕"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1574,
+			"Max": 9446
+		},
+		"HP": {
+			"Min": 1843,
+			"Max": 11521
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "130",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_130.png"
+		},
+		"Name": {
+			"EN": "Marie Antoinette (Caster)",
+			"JP": " マリー・アントワネット〔キャスター〕"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1510,
+			"Max": 9060
+		},
+		"HP": {
+			"Min": 1824,
+			"Max": 11404
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "129",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_129.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Archer)",
+			"JP": " アルトリア・ペンドラゴン〔アーチャー〕"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1742,
+			"Max": 11276
+		},
+		"HP": {
+			"Min": 2134,
+			"Max": 14553
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "128",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_128.png"
+		},
+		"Name": {
+			"EN": "Tamamo-no-Mae (Lancer)",
+			"JP": " 玉藻の前 〔ランサー〕"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1657,
+			"Max": 10726
+		},
+		"HP": {
+			"Min": 2221,
+			"Max": 15147
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "127",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_127.png"
+		},
+		"Name": {
+			"EN": "Leonardo Da Vinci",
+			"JP": " レオナルド・ダ・ヴィンチ"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1637,
+			"Max": 10598
+		},
+		"HP": {
+			"Min": 2091,
+			"Max": 14259
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "126",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_126.png"
+		},
+		"Name": {
+			"EN": "Bedivere",
+			"JP": " ベディヴィエール"
+		},
+		"Class": "Saber",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1416,
+			"Max": 7627
+		},
+		"HP": {
+			"Min": 1727,
+			"Max": 9595
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "125",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_125.png"
+		},
+		"Name": {
+			"EN": "Tawara Touta",
+			"JP": " 俵藤太"
+		},
+		"Class": "Archer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1306,
+			"Max": 7032
+		},
+		"HP": {
+			"Min": 1764,
+			"Max": 9800
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "124",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_124.png"
+		},
+		"Name": {
+			"EN": "Hassan of the Serenity",
+			"JP": " 静謐のハサン"
+		},
+		"Class": "Assassin",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1232,
+			"Max": 6636
+		},
+		"HP": {
+			"Min": 1675,
+			"Max": 9310
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "123",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_123.png"
+		},
+		"Name": {
+			"EN": "Gawain",
+			"JP": " ガウェイン"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1695,
+			"Max": 10173
+		},
+		"HP": {
+			"Min": 1827,
+			"Max": 11419
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "122",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_122.png"
+		},
+		"Name": {
+			"EN": "Tristan",
+			"JP": " トリスタン"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1622,
+			"Max": 9735
+		},
+		"HP": {
+			"Min": 1862,
+			"Max": 11637
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "121",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_121.png"
+		},
+		"Name": {
+			"EN": "Lancelot (Saber)",
+			"JP": " ランスロット"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1658,
+			"Max": 9949
+		},
+		"HP": {
+			"Min": 1854,
+			"Max": 11589
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "120",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_120.png"
+		},
+		"Name": {
+			"EN": "Nitocris",
+			"JP": " ニトクリス"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1510,
+			"Max": 9060
+		},
+		"HP": {
+			"Min": 1806,
+			"Max": 11288
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "119",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_119.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Lancer)",
+			"JP": " アルトリア・ペンドラゴン"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1699,
+			"Max": 10995
+		},
+		"HP": {
+			"Min": 2288,
+			"Max": 15606
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "118",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_118.png"
+		},
+		"Name": {
+			"EN": "Ozymandias",
+			"JP": " オジマンディアス"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1850,
+			"Max": 11971
+		},
+		"HP": {
+			"Min": 1881,
+			"Max": 12830
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "117",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_117.png"
+		},
+		"Name": {
+			"EN": "Fuuma Kotarou",
+			"JP": " 風魔小太郎"
+		},
+		"Class": "Assassin",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1316,
+			"Max": 7091
+		},
+		"HP": {
+			"Min": 1592,
+			"Max": 8844
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "116",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_116.png"
+		},
+		"Name": {
+			"EN": "Ibaraki-Douji",
+			"JP": " 茨木童子"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1606,
+			"Max": 9636
+		},
+		"HP": {
+			"Min": 1752,
+			"Max": 10954
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "115",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_115.png"
+		},
+		"Name": {
+			"EN": "Sakata Kintoki (Rider)",
+			"JP": " 坂田金時〔ライダー〕"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1636,
+			"Max": 9819
+		},
+		"HP": {
+			"Min": 1728,
+			"Max": 10800
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "114",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_114.png"
+		},
+		"Name": {
+			"EN": "Minamoto-no-Raikou",
+			"JP": " 源頼光"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1786,
+			"Max": 11556
+		},
+		"HP": {
+			"Min": 1980,
+			"Max": 13500
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "113",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_113.png"
+		},
+		"Name": {
+			"EN": "Xuanzang Sanzang",
+			"JP": " 玄奘三蔵"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1801,
+			"Max": 11658
+		},
+		"HP": {
+			"Min": 1901,
+			"Max": 12965
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "112",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_112.png"
+		},
+		"Name": {
+			"EN": "Shuten-Douji",
+			"JP": " 酒呑童子"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1853,
+			"Max": 11993
+		},
+		"HP": {
+			"Min": 1881,
+			"Max": 12825
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "111",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_111.png"
+		},
+		"Name": {
+			"EN": "Irisviel (Holy Grail)",
+			"JP": " アイリスフィール〔天の衣〕"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1372,
+			"Max": 8237
+		},
+		"HP": {
+			"Min": 1996,
+			"Max": 12476
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "110",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_110.png"
+		},
+		"Name": {
+			"EN": "Hassan of the Hundred Personas",
+			"JP": " 百貌のハサン"
+		},
+		"Class": "Assassin",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1241,
+			"Max": 6686
+		},
+		"HP": {
+			"Min": 1675,
+			"Max": 9310
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "109",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_109.png"
+		},
+		"Name": {
+			"EN": "Emiya (Assassin)",
+			"JP": " エミヤ〔アサシン〕"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1493,
+			"Max": 8958
+		},
+		"HP": {
+			"Min": 1786,
+			"Max": 11168
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "108",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_108.png"
+		},
+		"Name": {
+			"EN": "Iskandar",
+			"JP": " イスカンダル"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1786,
+			"Max": 11560
+		},
+		"HP": {
+			"Min": 1938,
+			"Max": 13219
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "107",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_107.png"
+		},
+		"Name": {
+			"EN": "Aŋra Mainiiu",
+			"JP": " アンリマユ"
+		},
+		"Class": "Avenger",
+		"Rarity": 0,
+		"Attack": {
+			"Min": 1008,
+			"Max": 5683
+		},
+		"HP": {
+			"Min": 1502,
+			"Max": 7981
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "106",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_106.png"
+		},
+		"Name": {
+			"EN": "Jeanne d'Arc (Alter)",
+			"JP": " ジャンヌ・ダルク [オルタ]"
+		},
+		"Class": "Avenger",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 2046,
+			"Max": 13244
+		},
+		"HP": {
+			"Min": 1724,
+			"Max": 11761
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "105",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_105.png"
+		},
+		"Name": {
+			"EN": "Billy the Kid",
+			"JP": " ビリー・ザ・キッド"
+		},
+		"Class": "Archer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1279,
+			"Max": 6890
+		},
+		"HP": {
+			"Min": 1711,
+			"Max": 9506
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "104",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_104.png"
+		},
+		"Name": {
+			"EN": "Geronimo",
+			"JP": " ジェロニモ"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1273,
+			"Max": 6857
+		},
+		"HP": {
+			"Min": 1642,
+			"Max": 9123
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "103",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_103.png"
+		},
+		"Name": {
+			"EN": "Thomas Edison",
+			"JP": " トーマス・エジソン"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1325,
+			"Max": 7952
+		},
+		"HP": {
+			"Min": 1901,
+			"Max": 11882
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "102",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_102.png"
+		},
+		"Name": {
+			"EN": "Li Shuwen",
+			"JP": " 神槍 李書文"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1608,
+			"Max": 9653
+		},
+		"HP": {
+			"Min": 1817,
+			"Max": 11360
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "101",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_101.png"
+		},
+		"Name": {
+			"EN": "Rama",
+			"JP": " ラーマ"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1642,
+			"Max": 9854
+		},
+		"HP": {
+			"Min": 1901,
+			"Max": 11882
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "100",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_100.png"
+		},
+		"Name": {
+			"EN": "Helena Blavatsky",
+			"JP": " エレナ・ブラヴァツキー"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1438,
+			"Max": 8629
+		},
+		"HP": {
+			"Min": 1901,
+			"Max": 11882
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "099",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_099.png"
+		},
+		"Name": {
+			"EN": "Queen Medb",
+			"JP": " 女王メイヴ"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1591,
+			"Max": 10296
+		},
+		"HP": {
+			"Min": 2048,
+			"Max": 13968
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "098",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_098.png"
+		},
+		"Name": {
+			"EN": "Cú Chulainn (Alter)",
+			"JP": " クー・フーリン〔オルタ〕"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1979,
+			"Max": 12805
+		},
+		"HP": {
+			"Min": 1790,
+			"Max": 12210
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "097",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_097.png"
+		},
+		"Name": {
+			"EN": "Florence Nightingale",
+			"JP": " ナイチンゲール"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1573,
+			"Max": 10184
+		},
+		"HP": {
+			"Min": 2232,
+			"Max": 15221
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "096",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_096.png"
+		},
+		"Name": {
+			"EN": "Edmond Dantès",
+			"JP": " 巌窟王 エドモン・ダンテス"
+		},
+		"Class": "Avenger",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1953,
+			"Max": 12641
+		},
+		"HP": {
+			"Min": 1785,
+			"Max": 12177
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "095",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_095.png"
+		},
+		"Name": {
+			"EN": "Gilgamesh (Child)",
+			"JP": " 子ギル"
+		},
+		"Class": "Archer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1429,
+			"Max": 7696
+		},
+		"HP": {
+			"Min": 1571,
+			"Max": 8731
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "094",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_094.png"
+		},
+		"Name": {
+			"EN": "Astolfo",
+			"JP": " アストルフォ"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1489,
+			"Max": 8937
+		},
+		"HP": {
+			"Min": 1787,
+			"Max": 11172
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "093",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_093.png"
+		},
+		"Name": {
+			"EN": "Amakusa Shirou",
+			"JP": " 天草四郎"
+		},
+		"Class": "Ruler",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1695,
+			"Max": 10972
+		},
+		"HP": {
+			"Min": 2069,
+			"Max": 14107
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "092",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_092.png"
+		},
+		"Name": {
+			"EN": "Ryougi Shiki (Assassin)",
+			"JP": " 両儀式〔アサシン〕"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1477,
+			"Max": 8867
+		},
+		"HP": {
+			"Min": 1768,
+			"Max": 11055
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "091",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_091.png"
+		},
+		"Name": {
+			"EN": "Ryougi Shiki (Saber)",
+			"JP": " 両儀式〔セイバー〕"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1656,
+			"Max": 10721
+		},
+		"HP": {
+			"Min": 2266,
+			"Max": 15453
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "090",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_090.png"
+		},
+		"Name": {
+			"EN": "Nero Claudius (Bride)",
+			"JP": " ネロ・クラウディウス (ブライド)"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1793,
+			"Max": 11607
+		},
+		"HP": {
+			"Min": 2089,
+			"Max": 14284
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "089",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_089.png"
+		},
+		"Name": {
+			"EN": "Beowulf",
+			"JP": " ベオウルフ"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1707,
+			"Max": 10247
+		},
+		"HP": {
+			"Min": 1652,
+			"Max": 10327
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "088",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_088.png"
+		},
+		"Name": {
+			"EN": "Brynhild",
+			"JP": " ブリュンヒルデ"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1766,
+			"Max": 11432
+		},
+		"HP": {
+			"Min": 2174,
+			"Max": 14825
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "087",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_087.png"
+		},
+		"Name": {
+			"EN": "Fionn mac Cumhaill",
+			"JP": " フィン・マックール"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1488,
+			"Max": 8930
+		},
+		"HP": {
+			"Min": 2040,
+			"Max": 12750
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "086",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_086.png"
+		},
+		"Name": {
+			"EN": "Mysterious Heroine X",
+			"JP": " 謎のヒロインX"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1817,
+			"Max": 11761
+		},
+		"HP": {
+			"Min": 1862,
+			"Max": 12696
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "085",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_085.png"
+		},
+		"Name": {
+			"EN": "Karna",
+			"JP": " カルナ"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1850,
+			"Max": 11976
+		},
+		"HP": {
+			"Min": 1999,
+			"Max": 13632
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "084",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_084.png"
+		},
+		"Name": {
+			"EN": "Arjuna",
+			"JP": " アルジュナ"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1907,
+			"Max": 12342
+		},
+		"HP": {
+			"Min": 1940,
+			"Max": 13230
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "083",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_083.png"
+		},
+		"Name": {
+			"EN": "Solomon",
+			"JP": " ソロモン"
+		},
+		"Class": "Unknown",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1645,
+			"Max": 10650
+		},
+		"HP": {
+			"Min": 2091,
+			"Max": 14259
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "082",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_082.png"
+		},
+		"Name": {
+			"EN": "Frankenstein",
+			"JP": " フランケンシュタイン"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1573,
+			"Max": 9441
+		},
+		"HP": {
+			"Min": 1710,
+			"Max": 10687
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "081",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_081.png"
+		},
+		"Name": {
+			"EN": "Henry Jekyll \u0026 Hyde",
+			"JP": " ヘンリー・ジキル＆ハイド"
+		},
+		"Class": "Assassin",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1173,
+			"Max": 6320
+		},
+		"HP": {
+			"Min": 1741,
+			"Max": 9675
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "080",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_080.png"
+		},
+		"Name": {
+			"EN": "Charles Babbage",
+			"JP": " チャールズ・バベッジ"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1113,
+			"Max": 5996
+		},
+		"HP": {
+			"Min": 1959,
+			"Max": 10887
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "079",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_079.png"
+		},
+		"Name": {
+			"EN": "Paracelsus von Hohenheim",
+			"JP": " ヴァン・ホーエンハイム・パラケルスス"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1246,
+			"Max": 6711
+		},
+		"HP": {
+			"Min": 1711,
+			"Max": 9506
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "078",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_078.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Lancer Alter)",
+			"JP": " アルトリア・ペンドラゴン〔オルタ〕"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1661,
+			"Max": 9968
+		},
+		"HP": {
+			"Min": 1881,
+			"Max": 11761
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "077",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_077.png"
+		},
+		"Name": {
+			"EN": "Nikola Tesla",
+			"JP": " ニコラ・テスラ"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1820,
+			"Max": 11781
+		},
+		"HP": {
+			"Min": 2027,
+			"Max": 13825
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "076",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_076.png"
+		},
+		"Name": {
+			"EN": "Mordred",
+			"JP": " モードレッド"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1811,
+			"Max": 11723
+		},
+		"HP": {
+			"Min": 2153,
+			"Max": 14680
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "075",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_075.png"
+		},
+		"Name": {
+			"EN": "Jack the Ripper",
+			"JP": " ジャック・ザ・リッパー"
+		},
+		"Class": "Assassin",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1786,
+			"Max": 11557
+		},
+		"HP": {
+			"Min": 1862,
+			"Max": 12696
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "074",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_074.png"
+		},
+		"Name": {
+			"EN": "Nursery Rhyme",
+			"JP": " ナーサリー・ライム"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1438,
+			"Max": 8629
+		},
+		"HP": {
+			"Min": 1901,
+			"Max": 11882
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "073",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_073.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Santa Alter)",
+			"JP": " アルトリア・ペンドラゴン［サンタオルタ］"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1543,
+			"Max": 9258
+		},
+		"HP": {
+			"Min": 1805,
+			"Max": 11286
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "072",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_072.png"
+		},
+		"Name": {
+			"EN": "Fergus mac Róich",
+			"JP": " フェルグス・マック・ロイ"
+		},
+		"Class": "Saber",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1385,
+			"Max": 7460
+		},
+		"HP": {
+			"Min": 1761,
+			"Max": 9786
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "071",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_071.png"
+		},
+		"Name": {
+			"EN": "Diarmuid Ua Duibhne",
+			"JP": " ディルムッド・オディナ"
+		},
+		"Class": "Lancer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1277,
+			"Max": 6877
+		},
+		"HP": {
+			"Min": 1817,
+			"Max": 10098
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "070",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_070.png"
+		},
+		"Name": {
+			"EN": "Scáthach",
+			"JP": " スカサハ"
+		},
+		"Class": "Lancer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1758,
+			"Max": 11375
+		},
+		"HP": {
+			"Min": 2174,
+			"Max": 14825
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "069",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_069.png"
+		},
+		"Name": {
+			"EN": "Oda Nobunaga",
+			"JP": " 織田信長"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1862,
+			"Max": 9494
+		},
+		"HP": {
+			"Min": 1582,
+			"Max": 11637
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "068",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_068.png"
+		},
+		"Name": {
+			"EN": "Okita Souji",
+			"JP": " 沖田総司"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1865,
+			"Max": 12068
+		},
+		"HP": {
+			"Min": 1939,
+			"Max": 13225
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "067",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_067.png"
+		},
+		"Name": {
+			"EN": "Medea (Lily)",
+			"JP": " メディア［リリィ］"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1294,
+			"Max": 7766
+		},
+		"HP": {
+			"Min": 2091,
+			"Max": 13070
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "066",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_066.png"
+		},
+		"Name": {
+			"EN": "Anne Bonny \u0026 Mary Read",
+			"JP": " アン・ボニー\u0026メアリー・リード"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1504,
+			"Max": 9029
+		},
+		"HP": {
+			"Min": 1805,
+			"Max": 11286
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "065",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_065.png"
+		},
+		"Name": {
+			"EN": "Francis Drake",
+			"JP": " フランシス・ドレイク"
+		},
+		"Class": "Rider",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1750,
+			"Max": 11326
+		},
+		"HP": {
+			"Min": 1881,
+			"Max": 12830
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "064",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_064.png"
+		},
+		"Name": {
+			"EN": "Hektor",
+			"JP": " ヘクトール"
+		},
+		"Class": "Lancer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1334,
+			"Max": 6928
+		},
+		"HP": {
+			"Min": 1726,
+			"Max": 10200
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "063",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_063.png"
+		},
+		"Name": {
+			"EN": "David",
+			"JP": " ダビデ"
+		},
+		"Class": "Archer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1436,
+			"Max": 7736
+		},
+		"HP": {
+			"Min": 1555,
+			"Max": 8643
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "062",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_062.png"
+		},
+		"Name": {
+			"EN": "Tamamo-no-Mae",
+			"JP": " 玉藻の前"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1629,
+			"Max": 10546
+		},
+		"HP": {
+			"Min": 2091,
+			"Max": 14259
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "061",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_061.png"
+		},
+		"Name": {
+			"EN": "Elisabeth Báthory (Halloween)",
+			"JP": " エリザベート・バートリー[ハロウィン]"
+		},
+		"Class": "Caster",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1436,
+			"Max": 8616
+		},
+		"HP": {
+			"Min": 1824,
+			"Max": 11404
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "060",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_060.png"
+		},
+		"Name": {
+			"EN": "Orion",
+			"JP": " オリオン"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1716,
+			"Max": 11107
+		},
+		"HP": {
+			"Min": 2134,
+			"Max": 14553
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "059",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_059.png"
+		},
+		"Name": {
+			"EN": "Jeanne d'Arc",
+			"JP": " ジャンヌ・ダルク"
+		},
+		"Class": "Ruler",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1482,
+			"Max": 9593
+		},
+		"HP": {
+			"Min": 2420,
+			"Max": 16500
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "058",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_058.png"
+		},
+		"Name": {
+			"EN": "Tamamo Cat",
+			"JP": " タマモキャット"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1504,
+			"Max": 9026
+		},
+		"HP": {
+			"Min": 1833,
+			"Max": 11458
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "057",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_057.png"
+		},
+		"Name": {
+			"EN": "Eric Bloodaxe",
+			"JP": " エイリーク・ブラッドアクス"
+		},
+		"Class": "Berserker",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1116,
+			"Max": 6290
+		},
+		"HP": {
+			"Min": 1447,
+			"Max": 7688
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "056",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_056.png"
+		},
+		"Name": {
+			"EN": "Kiyohime",
+			"JP": " 清姫"
+		},
+		"Class": "Berserker",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1233,
+			"Max": 6644
+		},
+		"HP": {
+			"Min": 1649,
+			"Max": 9166
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "055",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_055.png"
+		},
+		"Name": {
+			"EN": "Darius III",
+			"JP": " ダレイオス三世"
+		},
+		"Class": "Berserker",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1412,
+			"Max": 7608
+		},
+		"HP": {
+			"Min": 1577,
+			"Max": 8763
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "054",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_054.png"
+		},
+		"Name": {
+			"EN": "Caligula",
+			"JP": " カリギュラ"
+		},
+		"Class": "Berserker",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1374,
+			"Max": 6831
+		},
+		"HP": {
+			"Min": 1211,
+			"Max": 7303
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "053",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_053.png"
+		},
+		"Name": {
+			"EN": "Asterios",
+			"JP": " アステリオス"
+		},
+		"Class": "Berserker",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 1097,
+			"Max": 6037
+		},
+		"HP": {
+			"Min": 1320,
+			"Max": 6604
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "052",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_052.png"
+		},
+		"Name": {
+			"EN": "Vlad III",
+			"JP": " ヴラド三世"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1777,
+			"Max": 11499
+		},
+		"HP": {
+			"Min": 2019,
+			"Max": 13770
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "051",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_051.png"
+		},
+		"Name": {
+			"EN": "Sakata Kintoki",
+			"JP": " 坂田金時"
+		},
+		"Class": "Berserker",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1964,
+			"Max": 12712
+		},
+		"HP": {
+			"Min": 1782,
+			"Max": 12150
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "050",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_050.png"
+		},
+		"Name": {
+			"EN": "Spartacus",
+			"JP": " スパルタクス"
+		},
+		"Class": "Berserker",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 922,
+			"Max": 5073
+		},
+		"HP": {
+			"Min": 1544,
+			"Max": 7722
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "049",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_049.png"
+		},
+		"Name": {
+			"EN": "Lu Bu Fengxian",
+			"JP": " 呂布奉先"
+		},
+		"Class": "Berserker",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1507,
+			"Max": 8119
+		},
+		"HP": {
+			"Min": 1494,
+			"Max": 8302
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "048",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_048.png"
+		},
+		"Name": {
+			"EN": "Lancelot",
+			"JP": " ランスロット"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1746,
+			"Max": 10477
+		},
+		"HP": {
+			"Min": 1652,
+			"Max": 10327
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "047",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_047.png"
+		},
+		"Name": {
+			"EN": "Heracles",
+			"JP": " ヘラクレス"
+		},
+		"Class": "Berserker",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1775,
+			"Max": 10655
+		},
+		"HP": {
+			"Min": 1652,
+			"Max": 10327
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"B",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "046",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_046.png"
+		},
+		"Name": {
+			"EN": "Carmilla",
+			"JP": " カーミラ"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1568,
+			"Max": 9408
+		},
+		"HP": {
+			"Min": 1675,
+			"Max": 10473
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "045",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_045.png"
+		},
+		"Name": {
+			"EN": "Mata Hari",
+			"JP": " マタ・ハリ"
+		},
+		"Class": "Assassin",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 977,
+			"Max": 5377
+		},
+		"HP": {
+			"Min": 1313,
+			"Max": 6565
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "044",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_044.png"
+		},
+		"Name": {
+			"EN": "Phantom of the Opera",
+			"JP": " ファントム・オブ・ジ・オペラ"
+		},
+		"Class": "Assassin",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1003,
+			"Max": 5654
+		},
+		"HP": {
+			"Min": 1580,
+			"Max": 8393
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "043",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_043.png"
+		},
+		"Name": {
+			"EN": "Charles-Henri Sanson",
+			"JP": " シャルル＝アンリ・サンソン"
+		},
+		"Class": "Assassin",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 968,
+			"Max": 5456
+		},
+		"HP": {
+			"Min": 1568,
+			"Max": 8309
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "042",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_042.png"
+		},
+		"Name": {
+			"EN": "Jing Ke",
+			"JP": " 荊軻"
+		},
+		"Class": "Assassin",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1338,
+			"Max": 7207
+		},
+		"HP": {
+			"Min": 1492,
+			"Max": 8293
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "041",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_041.png"
+		},
+		"Name": {
+			"EN": "Stheno",
+			"JP": " ステンノ"
+		},
+		"Class": "Assassin",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1497,
+			"Max": 8985
+		},
+		"HP": {
+			"Min": 1843,
+			"Max": 11518
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "040",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_040.png"
+		},
+		"Name": {
+			"EN": "Hassan of the Cursed Arm",
+			"JP": " 呪腕のハサン"
+		},
+		"Class": "Assassin",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1114,
+			"Max": 6280
+		},
+		"HP": {
+			"Min": 1429,
+			"Max": 7594
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "039",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_039.png"
+		},
+		"Name": {
+			"EN": "Sasaki Kojirou",
+			"JP": " 佐々木小次郎"
+		},
+		"Class": "Assassin",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 1042,
+			"Max": 5735
+		},
+		"HP": {
+			"Min": 1244,
+			"Max": 6220
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"Q",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "038",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_038.png"
+		},
+		"Name": {
+			"EN": "Cú Chulainn (Caster)",
+			"JP": " クー・フーリン"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1222,
+			"Max": 6580
+		},
+		"HP": {
+			"Min": 1728,
+			"Max": 9604
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "037",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_037.png"
+		},
+		"Name": {
+			"EN": "Zhuge Liang (Lord El-Melloi II)",
+			"JP": " 諸葛孔明［エルメロイⅡ世］"
+		},
+		"Class": "Caster",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1637,
+			"Max": 10598
+		},
+		"HP": {
+			"Min": 2091,
+			"Max": 14259
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "036",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_036.png"
+		},
+		"Name": {
+			"EN": "Wolfgang Amadeus Mozart",
+			"JP": " ヴォルフガング・アマデウス・モーツァルト"
+		},
+		"Class": "Caster",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 944,
+			"Max": 5195
+		},
+		"HP": {
+			"Min": 1425,
+			"Max": 7129
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "035",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_035.png"
+		},
+		"Name": {
+			"EN": "Mephistopheles",
+			"JP": " メフィストフェレス"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1270,
+			"Max": 6839
+		},
+		"HP": {
+			"Min": 1659,
+			"Max": 9216
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "034",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_034.png"
+		},
+		"Name": {
+			"EN": "William Shakespeare",
+			"JP": " ウィリアム・シェイクスピア"
+		},
+		"Class": "Caster",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1028,
+			"Max": 5798
+		},
+		"HP": {
+			"Min": 1520,
+			"Max": 8080
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "033",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_033.png"
+		},
+		"Name": {
+			"EN": "Hans Christian Andersen",
+			"JP": " ハンス・クリスチャン・アンデルセン"
+		},
+		"Class": "Caster",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1021,
+			"Max": 5758
+		},
+		"HP": {
+			"Min": 1597,
+			"Max": 8484
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "032",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_032.png"
+		},
+		"Name": {
+			"EN": "Gilles de Rais (Caster)",
+			"JP": " ジル・ド・レェ"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1209,
+			"Max": 6514
+		},
+		"HP": {
+			"Min": 1711,
+			"Max": 9506
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "031",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_031.png"
+		},
+		"Name": {
+			"EN": "Medea",
+			"JP": " メディア"
+		},
+		"Class": "Caster",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1377,
+			"Max": 7418
+		},
+		"HP": {
+			"Min": 1555,
+			"Max": 8643
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "030",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_030.png"
+		},
+		"Name": {
+			"EN": "Martha",
+			"JP": " マルタ"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1335,
+			"Max": 8014
+		},
+		"HP": {
+			"Min": 2090,
+			"Max": 13068
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "029",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_029.png"
+		},
+		"Name": {
+			"EN": "Marie Antoinette",
+			"JP": " マリー・アントワネット"
+		},
+		"Class": "Rider",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1382,
+			"Max": 8293
+		},
+		"HP": {
+			"Min": 1975,
+			"Max": 12348
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "028",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_028.png"
+		},
+		"Name": {
+			"EN": "Alexander",
+			"JP": " アレキサンダー"
+		},
+		"Class": "Rider",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1366,
+			"Max": 7356
+		},
+		"HP": {
+			"Min": 1979,
+			"Max": 8640
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "027",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_027.png"
+		},
+		"Name": {
+			"EN": "Ushiwakamaru",
+			"JP": " 牛若丸"
+		},
+		"Class": "Rider",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1314,
+			"Max": 7076
+		},
+		"HP": {
+			"Min": 1625,
+			"Max": 9028
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "026",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_026.png"
+		},
+		"Name": {
+			"EN": "Boudica",
+			"JP": " ブーディカ"
+		},
+		"Class": "Rider",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1168,
+			"Max": 6289
+		},
+		"HP": {
+			"Min": 1823,
+			"Max": 10130
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "025",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_025.png"
+		},
+		"Name": {
+			"EN": "Edward Teach",
+			"JP": " エドワード・ティーチ"
+		},
+		"Class": "Rider",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1097,
+			"Max": 6188
+		},
+		"HP": {
+			"Min": 1488,
+			"Max": 7907
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "024",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_024.png"
+		},
+		"Name": {
+			"EN": "Georgios",
+			"JP": " ゲオルギウス"
+		},
+		"Class": "Rider",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 929,
+			"Max": 5236
+		},
+		"HP": {
+			"Min": 1731,
+			"Max": 9200
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "023",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_023.png"
+		},
+		"Name": {
+			"EN": "Medusa",
+			"JP": " メドゥーサ"
+		},
+		"Class": "Rider",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1337,
+			"Max": 7200
+		},
+		"HP": {
+			"Min": 1608,
+			"Max": 8937
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "022",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_022.png"
+		},
+		"Name": {
+			"EN": "Romulus",
+			"JP": " ロムルス"
+		},
+		"Class": "Lancer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1344,
+			"Max": 7239
+		},
+		"HP": {
+			"Min": 1779,
+			"Max": 9883
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "021",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_021.png"
+		},
+		"Name": {
+			"EN": "Leonidas I",
+			"JP": " レオニダス一世"
+		},
+		"Class": "Lancer",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1168,
+			"Max": 6583
+		},
+		"HP": {
+			"Min": 1498,
+			"Max": 7959
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "020",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_020.png"
+		},
+		"Name": {
+			"EN": "Cú Chulainn (Prototype)",
+			"JP": " クー・フーリン〔プロトタイプ〕"
+		},
+		"Class": "Lancer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1315,
+			"Max": 7082
+		},
+		"HP": {
+			"Min": 1817,
+			"Max": 10098
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "019",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_019.png"
+		},
+		"Name": {
+			"EN": "Musashibou Benkei",
+			"JP": " 武蔵坊弁慶"
+		},
+		"Class": "Lancer",
+		"Rarity": 2,
+		"Attack": {
+			"Min": 1029,
+			"Max": 5801
+		},
+		"HP": {
+			"Min": 1722,
+			"Max": 9149
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "018",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_018.png"
+		},
+		"Name": {
+			"EN": "Elisabeth Báthory",
+			"JP": " エリザベート・バートリー"
+		},
+		"Class": "Lancer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1520,
+			"Max": 9122
+		},
+		"HP": {
+			"Min": 1899,
+			"Max": 11870
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "017",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_017.png"
+		},
+		"Name": {
+			"EN": "Cú Chulainn",
+			"JP": " クー・フーリン"
+		},
+		"Class": "Lancer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1334,
+			"Max": 7239
+		},
+		"HP": {
+			"Min": 1726,
+			"Max": 9593
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "016",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_016.png"
+		},
+		"Name": {
+			"EN": "Arash",
+			"JP": " アーラシュ"
+		},
+		"Class": "Archer",
+		"Rarity": 1,
+		"Attack": {
+			"Min": 1057,
+			"Max": 5816
+		},
+		"HP": {
+			"Min": 1424,
+			"Max": 7122
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "015",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_015.png"
+		},
+		"Name": {
+			"EN": "Euryale",
+			"JP": " エウリュアレ"
+		},
+		"Class": "Archer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1306,
+			"Max": 7032
+		},
+		"HP": {
+			"Min": 1711,
+			"Max": 9506
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "014",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_014.png"
+		},
+		"Name": {
+			"EN": "Atalante",
+			"JP": " アタランテ"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1438,
+			"Max": 8633
+		},
+		"HP": {
+			"Min": 1996,
+			"Max": 12476
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "013",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_013.png"
+		},
+		"Name": {
+			"EN": "Robin Hood",
+			"JP": " ロビンフッド"
+		},
+		"Class": "Archer",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1247,
+			"Max": 6715
+		},
+		"HP": {
+			"Min": 1833,
+			"Max": 10187
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "012",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_012.png"
+		},
+		"Name": {
+			"EN": "Gilgamesh",
+			"JP": " ギルガメッシュ"
+		},
+		"Class": "Archer",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1897,
+			"Max": 12280
+		},
+		"HP": {
+			"Min": 1920,
+			"Max": 13097
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "011",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_011.png"
+		},
+		"Name": {
+			"EN": "EMIYA",
+			"JP": " エミヤ"
+		},
+		"Class": "Archer",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1566,
+			"Max": 9398
+		},
+		"HP": {
+			"Min": 1843,
+			"Max": 11521
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"A",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "010",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_010.png"
+		},
+		"Name": {
+			"EN": "Chevalier d'Eon",
+			"JP": " シュヴァリエ・デオン"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1734,
+			"Max": 8765
+		},
+		"HP": {
+			"Min": 2121,
+			"Max": 13256
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "009",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_009.png"
+		},
+		"Name": {
+			"EN": "Gilles de Rais",
+			"JP": " ジル・ド・レェ"
+		},
+		"Class": "Saber",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1228,
+			"Max": 6615
+		},
+		"HP": {
+			"Min": 1889,
+			"Max": 10498
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "008",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_008.png"
+		},
+		"Name": {
+			"EN": "Altera",
+			"JP": " アルテラ (Attila)"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1907,
+			"Max": 12343
+		},
+		"HP": {
+			"Min": 2039,
+			"Max": 13907
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "007",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_007.png"
+		},
+		"Name": {
+			"EN": "Gaius Julius Caesar",
+			"JP": " ガイウス・ユリウス・カエサル"
+		},
+		"Class": "Saber",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1392,
+			"Max": 7497
+		},
+		"HP": {
+			"Min": 1727,
+			"Max": 9595
+		},
+		"CommandCards": [
+			"Q",
+			"Q",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "Q"
+	},
+	{
+		"ID": "006",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_006.png"
+		},
+		"Name": {
+			"EN": "Siegfried",
+			"JP": " ジークフリート"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1363,
+			"Max": 8181
+		},
+		"HP": {
+			"Min": 2266,
+			"Max": 14165
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "005",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_005.png"
+		},
+		"Name": {
+			"EN": "Nero Claudius",
+			"JP": " ネロ・クラウディウス"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1574,
+			"Max": 9449
+		},
+		"HP": {
+			"Min": 1880,
+			"Max": 11753
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	},
+	{
+		"ID": "004",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_004.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Lily)",
+			"JP": " アルトリア・ペンドラゴン［リリィ］"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1287,
+			"Max": 7726
+		},
+		"HP": {
+			"Min": 1699,
+			"Max": 10623
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "003",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_003.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon (Alter)",
+			"JP": " アルトリア・ペンドラゴン［オルタ］"
+		},
+		"Class": "Saber",
+		"Rarity": 4,
+		"Attack": {
+			"Min": 1708,
+			"Max": 10248
+		},
+		"HP": {
+			"Min": 1854,
+			"Max": 11589
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "002",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_002.png"
+		},
+		"Name": {
+			"EN": "Altria Pendragon",
+			"JP": " アルトリア・ペンドラゴン (Artoria Pendragon)"
+		},
+		"Class": "Saber",
+		"Rarity": 5,
+		"Attack": {
+			"Min": 1734,
+			"Max": 11221
+		},
+		"HP": {
+			"Min": 2222,
+			"Max": 15150
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "B"
+	},
+	{
+		"ID": "001",
+		"Icon": {
+			"Src": "/images/70px-Icon_Servant_001.png"
+		},
+		"Name": {
+			"EN": "Mash Kyrielight",
+			"JP": " マシュ・キリエライト"
+		},
+		"Class": "Shielder",
+		"Rarity": 3,
+		"Attack": {
+			"Min": 1261,
+			"Max": 6791
+		},
+		"HP": {
+			"Min": 1854,
+			"Max": 10302
+		},
+		"CommandCards": [
+			"Q",
+			"A",
+			"A",
+			"B",
+			"B"
+		],
+		"NoblePhantasm": "A"
+	}
+]
