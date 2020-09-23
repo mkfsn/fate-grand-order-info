@@ -1,10 +1,10 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "fate-grand-order-info",
+  "description": "fate-grand-order-info",
   "version": "0.0.1",
   "scripts": {
     "start": "sapper dev",
-    "dev": "sapper dev --port $PORT",
+    "dev": "sapper dev --port 5000",
     "build": "sapper export",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
