@@ -15,6 +15,13 @@
 		margin: 0 0 1em 0;
 		line-height: 1.5;
 	}
+
+	.star {
+		color: #FFD500;
+		text-shadow: 1px 1px 1px #000000;
+		font-size: 110%;
+		text-align: center;
+	}
 </style>
 
 <svelte:head>
@@ -44,7 +51,9 @@
 				<td><img src={servant.icon['src-1x']}  alt={servant.name.en} srcset="{servant.icon['src-1.5x']} 1.5x, {servant.icon['src-2x']} 2x"/></td>
 				<td>{servant.name.jp}</td>
                 <td><img src={servant.class['src-1x']} width="40" height="40" alt={servant.class.title} srcset="{servant.class['src-1.5x']} 1.5x, {servant.class['src-2x']} 2x"/></td>
-				<td>{servant.rarity}</td>
+				<td class="star">
+					{#each Array(servant.rarity) as _}★{/each}
+				</td>
 				<td>{servant.attack.min}</td>
 				<td>{servant.attack.max}</td>
 				<td>{servant.hp.min}</td>
