@@ -27,6 +27,6 @@ type Servant struct {
 	Rarity        int         `json:"rarity"`
 	Attack        numberRange `json:"attack"`
 	HP            numberRange `json:"hp"`
-	CommandCards  [5]command  `json:"command_cards"`
-	NoblePhantasm command     `json:"noble_phantasm"`
+	CommandCards  [5]picture  `json:"command_cards"`
+	NoblePhantasm picture     `json:"noble_phantasm"`
 }

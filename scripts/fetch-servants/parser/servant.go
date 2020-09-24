@@ -5,7 +5,10 @@ type IntegerRange struct {
 	Max int
 }
 
-type CommandCard = string
+type CommandCard struct {
+	Image
+	Name string
+}
 
 type Image struct {
 	// FIXME: Don't know how to name variable for 1.5x image, and

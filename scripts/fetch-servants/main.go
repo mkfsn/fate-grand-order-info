@@ -15,12 +15,12 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	data, err := parser.New(b).Parse()
+	servants, commands, err := parser.New(b).Parse()
 	if err != nil {
 		log.Fatalln(err)
 	}
 
-	res, err := processer.New(data).Process()
+	res, err := processer.New(servants, commands).Process()
 	if err != nil {
 		log.Fatalln(err)
 	}

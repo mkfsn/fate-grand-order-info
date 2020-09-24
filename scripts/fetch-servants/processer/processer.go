@@ -31,10 +31,11 @@ type Results struct {
 
 type Processer struct {
 	servants []*parser.Servant
+	commands parser.CommandMap
 }
 
-func New(servants []*parser.Servant) *Processer {
-	return &Processer{servants: servants}
+func New(servants []*parser.Servant, commands parser.CommandMap) *Processer {
+	return &Processer{servants: servants, commands: commands}
 }
 
 func (p *Processer) Process() (*Results, error) {
@@ -50,37 +51,45 @@ func (p *Processer) Process() (*Results, error) {
 		iconSet[servant.Class.Src_1_0x] = true
 		iconSet[servant.Class.Src_1_5x] = true
 		iconSet[servant.Class.Src_2_0x] = true
+		iconSet[servant.NoblePhantasm.Src_1_0x] = true
+		iconSet[servant.NoblePhantasm.Src_1_5x] = true
+		iconSet[servant.NoblePhantasm.Src_2_0x] = true
 
-		servants = append(servants, &Servant{
-			ID: servant.ID,
-			Icon: picture{
-				Src_1_0x: "/images/" + getFilename(servant.Icon.Src_1_0x),
-				Src_1_5x: "/images/" + getFilename(servant.Icon.Src_1_5x),
-				Src_2_0x: "/images/" + getFilename(servant.Icon.Src_2_0x),
-				Title:    servant.Name.JP,
-			},
-			Name: i18nName{
-				EN: servant.Name.EN,
-				JP: servant.Name.JP,
-			},
-			Class: picture{
-				Src_1_0x: "/images/" + getFilename(servant.Class.Src_1_0x),
-				Src_1_5x: "/images/" + getFilename(servant.Class.Src_1_5x),
-				Src_2_0x: "/images/" + getFilename(servant.Class.Src_2_0x),
-				Title:    servant.Class.Name,
-			},
-			Rarity: servant.Rarity,
-			Attack: numberRange{
-				Min: servant.Attack.Min,
-				Max: servant.Attack.Max,
-			},
-			HP: numberRange{
-				Min: servant.HP.Min,
-				Max: servant.HP.Max,
-			},
-			CommandCards:  servant.CommandCards,
-			NoblePhantasm: servant.NoblePhantasm,
-		})
+		var s Servant
+		s.ID = servant.ID
+		s.Icon = picture{
+			Src_1_0x: "/images/" + getFilename(servant.Icon.Src_1_0x),
+			Src_1_5x: "/images/" + getFilename(servant.Icon.Src_1_5x),
+			Src_2_0x: "/images/" + getFilename(servant.Icon.Src_2_0x),
+			Title:    servant.Name.JP,
+		}
+		s.Name = i18nName{
+			EN: servant.Name.EN,
+			JP: servant.Name.JP,
+		}
+		s.Class = picture{
+			Src_1_0x: "/images/" + getFilename(servant.Class.Src_1_0x),
+			Src_1_5x: "/images/" + getFilename(servant.Class.Src_1_5x),
+			Src_2_0x: "/images/" + getFilename(servant.Class.Src_2_0x),
+			Title:    servant.Class.Name,
+		}
+		s.Rarity = servant.Rarity
+		s.Attack = numberRange{Min: servant.Attack.Min, Max: servant.Attack.Max}
+		s.HP = numberRange{Min: servant.HP.Min, Max: servant.HP.Max}
+		for i, command := range servant.CommandCards {
+			s.CommandCards[i].Title = command.Name
+			s.CommandCards[i].Src_1_0x = "/images/" + getFilename(p.commands[command.Name].Src_1_0x)
+			s.CommandCards[i].Src_1_5x = "/images/" + getFilename(p.commands[command.Name].Src_1_5x)
+			s.CommandCards[i].Src_2_0x = "/images/" + getFilename(p.commands[command.Name].Src_2_0x)
+		}
+		s.NoblePhantasm = picture{
+			Src_1_0x: "/images/" + getFilename(servant.NoblePhantasm.Src_1_0x),
+			Src_1_5x: "/images/" + getFilename(servant.NoblePhantasm.Src_1_5x),
+			Src_2_0x: "/images/" + getFilename(servant.NoblePhantasm.Src_2_0x),
+			Title:    servant.NoblePhantasm.Name,
+		}
+
+		servants = append(servants, &s)
 	}
 
 	for icon := range iconSet {
