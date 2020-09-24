@@ -7,6 +7,7 @@
 </script>
 
 <script>
+	import Image from "../../components/Image.svelte";
 	export let servants;
 </script>
 
@@ -31,20 +32,14 @@
 	}
 
 	.commands {
-		width: 180px;
+		width: 120px;
 		text-align: center;
 	}
-	.commands img {
-		height: 60px;
-		width: 60px;
-		margin-left: -30px;
+	.commands > :global(img) {
+		margin-left: -20px;
 	}
-	.commands img:first-child {
+	.commands > :global(img:first-child) {
 		margin-left: 0;
-	}
-	.nobel-phantasm img {
-		height: 60px;
-		width: 60px;
 	}
 </style>
 
@@ -74,10 +69,12 @@
 		{#each servants as servant}
 		    <tr>
 				<td>{servant.id}</td>
-				<td><img src={servant.icon['src-1x']}  alt={servant.name.en} srcset="{servant.icon['src-1.5x']} 1.5x, {servant.icon['src-2x']} 2x"/></td>
+				<td>
+					<Image width=70 height=70 title={servant.name.en} sources={servant.icon}/>
+				</td>
 				<td>{servant.name.jp}</td>
-                <td>
-					<img src={servant.class['src-1x']} width="40" height="40" alt={servant.class.title} srcset="{servant.class['src-1.5x']} 1.5x, {servant.class['src-2x']} 2x"/>
+				<td>
+					<Image width=30 height=30 title={servant.class.title} sources={servant.class}/>
 				</td>
 				<td class="star">
 					{#each Array(servant.rarity) as _}★{/each}
@@ -88,11 +85,11 @@
 				<td>{servant.hp.max}</td>
 				<td class="commands">
 					{#each servant.command_cards as command}
-						<img src={command['src-1x']} width="40" height="40" alt={command.title} srcset="{command['src-1.5x']} 1.5x, {command['src-2x']} 2x"/>
+						<Image width=40 height=40 sources={command} />
 					{/each}
 				</td>
 				<td class="nobel-phantasm">
-					<img src={servant.noble_phantasm['src-1x']} width="40" height="40" alt={servant.noble_phantasm.title} srcset="{servant.noble_phantasm['src-1.5x']} 1.5x, {servant.noble_phantasm['src-2x']} 2x"/>
+					<Image width=40 height=40 title={servant.noble_phantasm.title} sources={servant.noble_phantasm}/>
 				</td>
 			</tr>
 		{/each}
