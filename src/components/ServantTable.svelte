@@ -60,7 +60,7 @@
             </td>
             <td>{servant.name.jp}</td>
             <td>
-                <Image width=30 height=30 title={servant.class.title} sources={servant.class}/>
+                <Image width=40 height=40 title={servant.class.title} sources={servant.class}/>
             </td>
             <td class="star">
                 {#each Array(servant.rarity) as _}★{/each}
