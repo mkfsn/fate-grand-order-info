@@ -17,7 +17,7 @@ type Image struct {
 	Filepath string
 }
 
-func newImageFromSrc(src string) *Image {
+func NewImageFromSrc(src string) *Image {
 	return &Image{
 		Url:      src,
 		Filepath: "../../static/images/" + getFilename(src),
@@ -45,9 +45,9 @@ func (p *Processer) Process() (*Results, error) {
 
 	var servants []*Servant
 	for _, servant := range p.servants {
-		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src_1_0x))
-		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src_1_5x))
-		results.Images = append(results.Images, newImageFromSrc(servant.Icon.Src_2_0x))
+		results.Images = append(results.Images, NewImageFromSrc(servant.Icon.Src_1_0x))
+		results.Images = append(results.Images, NewImageFromSrc(servant.Icon.Src_1_5x))
+		results.Images = append(results.Images, NewImageFromSrc(servant.Icon.Src_2_0x))
 		iconSet[servant.Class.Src_1_0x] = true
 		iconSet[servant.Class.Src_1_5x] = true
 		iconSet[servant.Class.Src_2_0x] = true
@@ -93,7 +93,7 @@ func (p *Processer) Process() (*Results, error) {
 	}
 
 	for icon := range iconSet {
-		results.Images = append(results.Images, newImageFromSrc(icon))
+		results.Images = append(results.Images, NewImageFromSrc(icon))
 	}
 
 	b, err := json.MarshalIndent(servants, "", "\t")

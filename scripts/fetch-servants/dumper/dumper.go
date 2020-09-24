@@ -22,7 +22,14 @@ type Dumper struct {
 	jobs    chan job
 }
 
-func New(results *processer.Results) *Dumper {
+func New(results *processer.Results, setters ...Option) *Dumper {
+	var opts options
+	for _, setter := range setters {
+		setter(&opts)
+	}
+	for _, image := range opts.imageURLs {
+		results.Images = append(results.Images, processer.NewImageFromSrc(image))
+	}
 	d := &Dumper{
 		results: results,
 		jobs:    make(chan job, 1024),
