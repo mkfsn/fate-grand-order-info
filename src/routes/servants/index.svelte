@@ -8,7 +8,16 @@
 
 <script>
 	import ServantTable from "../../components/ServantTable.svelte";
+	import FilterBoard from "../../components/FilterBoard.svelte";
+
+	function handleSelectors(event) {
+		const selectors = event.detail;
+		filteredServants = servants.filter(servant => {
+			return selectors[servant.class.title] === true;
+		})
+	}
 	export let servants;
+	let filteredServants = servants;
 </script>
 
 <svelte:head>
@@ -17,4 +26,5 @@
 
 <h1>Servants</h1>
 
-<ServantTable servants={servants} />
+<FilterBoard servants={servants} on:select={handleSelectors} />
+<ServantTable servants={filteredServants} />
