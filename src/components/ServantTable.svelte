@@ -1,6 +1,14 @@
 <script>
     import Image from "./Image.svelte";
+    import {tweened} from 'svelte/motion';
+
     export let servants;
+    const amount = tweened(0, {
+        duration: 250
+    });
+    $: {
+        amount.set(servants ? servants.filter(v => !v.hidden).length : 0);
+    }
 </script>
 
 <style>
@@ -8,6 +16,8 @@
         margin: 0 0 1em 0;
         line-height: 1.5;
         border-collapse: collapse;
+        table-layout: auto;
+        font-variant-numeric: lining-nums tabular-nums;
     }
 
     table td, table th {
@@ -40,6 +50,7 @@
 </style>
 
 <table>
+    <caption>共 { Math.floor($amount) } 比資料</caption>
     <thead>
     <tr>
         <th>編號</th>
