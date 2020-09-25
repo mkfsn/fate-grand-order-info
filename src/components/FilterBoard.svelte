@@ -48,6 +48,9 @@
     img {
         opacity: 0.3;
     }
+    img:hover {
+        cursor: pointer;
+    }
     img.selected {
         opacity: 1;
     }
