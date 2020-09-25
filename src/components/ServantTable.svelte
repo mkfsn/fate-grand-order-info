@@ -23,6 +23,10 @@
         text-align: center;
     }
 
+    .hidden {
+        display: none;
+    }
+
     .commands {
         width: 120px;
         text-align: center;
@@ -52,8 +56,8 @@
     </tr>
     </thead>
     <tbody>
-    {#each servants as servant}
-        <tr>
+    {#each servants as servant (servant.id) }
+        <tr class="{servant.hidden === true ? 'hidden': ''}">
             <td>{servant.id}</td>
             <td>
                 <Image width=70 height=70 title={servant.name.en} sources={servant.icon}/>

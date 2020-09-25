@@ -10,14 +10,15 @@
 	import ServantTable from "../../components/ServantTable.svelte";
 	import FilterBoard from "../../components/FilterBoard.svelte";
 
-	function handleSelectors(event) {
-		const selectors = event.detail;
-		filteredServants = servants.filter(servant => {
-			return selectors[servant.class.title] === true;
-		})
-	}
 	export let servants;
-	let filteredServants = servants;
+	let selectors = undefined;
+	function handleSelectors(event) {
+		selectors = event.detail;
+	}
+	$: filteredServants = (selectors === undefined) ? servants : servants.map(servant => {
+		servant.hidden = selectors[servant.class.title] !== true;
+		return servant;
+	})
 </script>
 
 <svelte:head>
