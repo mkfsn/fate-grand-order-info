@@ -47,6 +47,10 @@
     }
     img {
         opacity: 0.3;
+        width: 6%;
+        height: 6%;
+        max-width: 3em;
+        max-height: 3em;
     }
     img:hover {
         cursor: pointer;
@@ -61,8 +65,6 @@
         <img
             class="{selectedClasses[_class] ? 'selected' : ''}"
             on:click={toggleClass(_class)}
-            width="40"
-            height="40"
             src="/images/Icon_Class_{_class}_Gold.png"
             alt={_class}
         />

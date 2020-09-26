@@ -13,6 +13,12 @@
 		margin: 0 auto;
 		box-sizing: border-box;
 	}
+	@media (max-width: 576px) {
+        main {
+			padding-left: .5em;
+			padding-right: .5em;
+		}
+	}
 </style>
 
 <Nav {segment}/>
