@@ -3,11 +3,12 @@
     import {tweened} from 'svelte/motion';
 
     export let servants;
-    const amount = tweened(0, {
+    const sizeof = (arr) => arr ? arr.filter(v => !v.hidden).length : 0;
+    const amount = tweened(sizeof(servants), {
         duration: 250
     });
     $: {
-        amount.set(servants ? servants.filter(v => !v.hidden).length : 0);
+        amount.set(sizeof(servants));
     }
 </script>
 
