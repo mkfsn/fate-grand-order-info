@@ -1,42 +1,28 @@
 <script>
-    import {createEventDispatcher} from 'svelte';
-
+    import { selectedClasses } from './store.js';
     export let servants;
-    let orderedClasses;
-    let selectedClasses = {};
+
     const basis = [
         "saber", "archer", "lancer", "rider", "caster", "assassin", 'berserker',
         'shielder', 'ruler', 'avenger', 'alterego', 'mooncancer', 'foreigner', 'beast',
     ];
-    $: {
-        orderedClasses = [...new Set(servants.map(servant => servant.class.title)).keys()];
-        orderedClasses.sort((a, b) => {
-            const normalize = (s) => {
-                return s.toLowerCase().replace(/-/g, '');
-            };
-            let x = basis.indexOf(normalize(a)), y = basis.indexOf(normalize(b));
-            if (x === -1) {
-                x = 99;
-            }
-            if (y === -1) {
-                y = 99;
-            }
-            if (x < y) {
-                return -1;
-            }
-            return 1;
-        });
 
-        selectedClasses = {}
-        orderedClasses.forEach((v) => {
-            selectedClasses[v] = true;
-        });
+    function sortByClass(a, b) {
+        const normalize = (s) => s.toLowerCase().replace(/-/g, '');
+        let x = basis.indexOf(normalize(a)),
+            y = basis.indexOf(normalize(b));
+        x = x === -1 ? 99 : x;
+        y = y === -1 ? 99 : y;
+        return x < y ? -1 : 1;
     }
 
-    const dispatch = createEventDispatcher();
+    let orderedClasses = [...new Set(servants.map(s => s.class.title)).keys()].sort(sortByClass);
+    orderedClasses.forEach(v => {
+        selectedClasses.update(s => Object.assign({}, s, {[v]: true}));
+    })
+
     function toggleClass(event) {
-        selectedClasses[event] = !selectedClasses[event];
-        dispatch('select', selectedClasses);
+        selectedClasses.update(s => Object.assign({}, s, {[event]: !s[event]}));
     }
 </script>
 
@@ -61,12 +47,12 @@
 </style>
 
 <div>
-    {#each orderedClasses as _class}
+    {#each Object.entries($selectedClasses) as entry}
         <img
-            class="{selectedClasses[_class] ? 'selected' : ''}"
-            on:click={toggleClass(_class)}
-            src="/images/Icon_Class_{_class}_Gold.png"
-            alt={_class}
+            class="{entry[1] ? 'selected' : ''}"
+            on:click={toggleClass(entry[0])}
+            src="/images/Icon_Class_{entry[0]}_Gold.png"
+            alt={entry[0]}
         />
     {/each}
 </div>

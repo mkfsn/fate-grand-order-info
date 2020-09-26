@@ -7,18 +7,18 @@
 </script>
 
 <script>
+	import { selectedClasses } from '../../components/store.js';
 	import ServantTable from "../../components/ServantTable.svelte";
 	import FilterBoard from "../../components/FilterBoard.svelte";
 
 	export let servants;
-	let selectors = undefined;
-	function handleSelectors(event) {
-		selectors = event.detail;
-	}
-	$: filteredServants = (selectors === undefined) ? servants : servants.map(servant => {
-		servant.hidden = selectors[servant.class.title] !== true;
-		return servant;
-	})
+	let filteredServants = servants;
+	const unsubscribe = selectedClasses.subscribe(selectors => {
+		filteredServants = servants.map(servant => {
+			servant.hidden = selectors[servant.class.title] !== true;
+			return servant;
+		})
+	});
 </script>
 
 <svelte:head>
@@ -27,5 +27,5 @@
 
 <h1>Servants</h1>
 
-<FilterBoard servants={servants} on:select={handleSelectors} />
+<FilterBoard servants={servants} />
 <ServantTable servants={filteredServants} />
