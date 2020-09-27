@@ -40,7 +40,7 @@
 
 <div class="container">
     <table>
-        <caption>共 { Math.floor($amount) } 比資料</caption>
+        <caption>共 { Math.floor($amount) } 筆資料</caption>
         <ServantTableHead/>
         <ServantTableBody servants={servants}/>
     </table>
